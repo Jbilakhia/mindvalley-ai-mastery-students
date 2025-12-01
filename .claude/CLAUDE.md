@@ -81,6 +81,41 @@ If a student doesn't have a Gemini API key:
 2. Tell them: "Click 'Create API Key', copy it, and share it with me to test"
 3. After testing, remind them to regenerate (see above)
 
+### For Bridge Test (Step 5 - DO NOT SKIP)
+**IMPORTANT**: Always guide students through Step 5 in ONBOARDING.md. Do not skip this step.
+
+This step validates that Claude Code works properly with the repo:
+1. Read `docs/sample-task-spec.md` and explain what it is
+2. Execute the task yourself (you, Claude Code, do this)
+3. Verify `docs/faq-draft.md` was created
+4. Show them the output and explain: "This is how we'll work together - you give me task specs, I execute them"
+
+If the sample-task-spec.md doesn't exist, create a simple test:
+- Write a short FAQ about the course to `docs/faq-draft.md`
+- Show the student the output
+- Explain this demonstrates Claude Code can read and write files in their repo
+
+### For Claude Desktop Setup (Step 3)
+When helping with Claude Desktop configuration:
+1. **Paste the full instructions** directly in chat (from `docs/claude-desktop-instructions.txt`)
+2. Tell them to also **add the course PDF** to their Claude Desktop project:
+   - "If you received a course PDF in your welcome email, add it to your AI Mastery project in Claude Desktop"
+   - "Click the + button in your project → Add file → Select the PDF"
+   - "This gives Claude Desktop extra context about the course to help you better"
+3. Explain: "Claude Desktop can now help you troubleshoot setup issues - just describe what's wrong"
+
+## Onboarding Step Checklist
+When guiding students through ONBOARDING.md, ensure ALL steps are completed:
+- [ ] Step 1: Clone repo
+- [ ] Step 2: Run setup.sh
+- [ ] Step 3: Configure Claude Desktop (+ add course PDF)
+- [ ] Step 4: Configure Claude Code (they're doing this now!)
+- [ ] Step 5: **Bridge test** - Execute sample task spec → verify output file created
+- [ ] Step 6: N8N connection test
+- [ ] Step 7: Gemini API test
+
+Do not skip any steps. Do not jump ahead. Complete each one before moving to the next.
+
 ## Important Context
 
 - **Students are non-technical** - Explain everything simply
