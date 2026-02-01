@@ -1,0 +1,907 @@
+00:13:32	Joffrey Berti:	Helloooooo all
+00:13:33	Geoff:	Hello and good morning
+00:13:33	Juan Antonio:	Hi there!!
+00:13:34	PascalMolemans:	hello from amsterdam
+00:13:35	Hazel Mindvalley Team:	Welcome everyone!
+00:13:35	Alexsandra Lantigua:	Hello from Minneapolis!
+00:13:36	Eloise Mathieu:	hey !! hello everyone
+00:13:37	Marie Ramos:	hello
+00:13:42	Angela Marquez:	Hello!!!!
+00:13:44	mica tufillaro:	Hello!
+00:13:46	Maria Malcherczyk-Hoffmann:	Hi everyone
+00:13:48	Jason White:	Raleigh, NC!
+00:13:48	Charissa:	Hola from Madrid
+00:13:49	Cheryl:	Hello for OR!
+00:13:50	Gisli Rafnsson:	good afternoon from Reykajvík - iceland
+00:13:52	Duncan McClintock:	Hello everyone!!
+00:13:52	Fireflies.ai Notetaker Nichola:	Nicholas invited Fireflies.ai here to record & take notes. View Security & Privacy info: https://fireflies.ai/policy
+
+Type:
+'/ff leave' - Remove Fireflies
+
+View Realtime notes here: https://app.fireflies.ai/live/01KBZH099HJYPSJGXRB3DJH0Z5?ref=live_chat
+00:13:53	Dr RaShon:	hey
+00:13:53	Michaela Schuler:	Happy Wednesday all!
+00:13:53	Steven E Jones, PhD:	Hi
+00:13:54	rohan:	Hello from london
+00:13:54	Sandeip Agarrwal:	Hello
+00:13:55	Mark:	Greetings from Austin, Texas!
+00:13:57	Daniel Wang:	Hello from Toronto, Canada!
+00:13:57	Fireflies.ai Notetaker Mariana:	Mariana invited Fireflies.ai here to record & take notes. View Security & Privacy info: https://fireflies.ai/policy
+
+Type:
+'/ff leave' - Remove Fireflies
+00:13:57	Alan Robinson UK:	Good afternoon form UK
+00:13:59	Sara Aibuildlab:	Jason im in Raleigh!
+00:14:01	Fireflies.ai Notetaker Mariana:	Mariana invited Fireflies.ai here to record & take notes. View Security & Privacy info: https://fireflies.ai/policy
+
+Type:
+'/ff leave' - Remove Fireflies
+00:14:01	Sandeip Agarrwal:	Hello from India
+00:14:04	Federico Gallegos:	Hello everyone from Shawnee, KS
+00:14:09	Karen Yoder:	Yay! So happy to be here!
+00:14:13	Lea Emery:	Good morning from the pacific northwest
+00:14:21	Jason White:	@sara HI!
+00:14:21	Alberto Voli  Puerto Rico:	Welcome from Puerto Rico!
+00:14:26	Sheila Hunkin:	Hello from Bulgaria
+00:14:27	Tyler:	Good morning from Cookeville, TN ;)
+00:14:28	Patrick PERRIER:	Hello Everyone !!
+00:14:32	Saskia:	Hi all, sorry I couldn't join Monday's session
+00:14:35	Angelica Cifuentes:	Hello from Chicago!
+00:14:40	Barbara Platteel:	Hi Tyler, about the W2 Approval Handler:
+is there an updated version?
+00:14:41	DEW:	Hello!
+00:14:42	Karla:	So frustrated!  I sent 6 hours, working with Claude and Claude code and am still not done with homework.
+00:14:48	Alberto Voli  Puerto Rico:	Welcome Sara and Tyler  - likewise!
+00:14:57	Glenn Tjon:	Greetings from Panama City, Panama
+00:15:01	Angela Marquez:	Yes!  Thank you!!!
+00:15:09	Alberto Voli  Puerto Rico:	paradise in PR every day of the year :-)
+00:15:17	Jason White:	you'll loose your children in the leaves!
+00:15:18	Gisli Rafnsson:	...... but working with Claude, incredible
+00:15:19	Dayleen:	ready for today!
+00:15:28	Karen Yoder:	Are you sleeping 😂
+00:15:30	Christine V:	Sara, how’s your dog doing?
+00:15:47	Alice Greene:	Me too - hours at it and not done. Finally realized the problem was that I didn't get the homework #2 in the files, so Claude was working blind.  Never got files into Stacks
+00:15:53	Angela Marquez:	Awww. Hold old are your kids?  🥰
+00:16:01	Ana Cristina de la Torre:	Me too.. 😭
+00:16:03	Barbara Platteel:	Hi Tyler, about the W2 Approval Handler:
+is there an updated version?
+00:16:07	Michaela Schuler:	Yes, @Gisli, Claude is our best friend for sure :)
+00:16:15	Tyler:	Two young WWE superstars at 4 & 6 lol
+00:16:20	Daniel Wang:	My "dog" didn't each my virtual homework.  😉
+00:16:28	Barbara Platteel:	ahahahha
+00:16:41	Michela Gentile:	How do we fix Echo? Tired of trial and error!
+00:16:52	Eloise Mathieu:	don’t you have a little BROOM like in n8n?
+00:17:04	Barbara Platteel:	Hi Tyler, about the W2 Approval Handler:
+is there an updated version?
+00:17:31	Tyler:	Yes we have several flow updates that we have staged to push later today after seeing some of the bugs folks were running into.
+00:17:51	Pattie Craumer:	I am behind due to travel.  Will this make any sense to me if I haven’t listened to the previous sessions, since day 1 with you?
+00:18:09	Joffrey Berti:	Tyler so do we still wait for any new update before trying to finish part 2 Homework ? what do you advice?
+00:18:30	Jeanne:	Yes I am stuck at setting up the Stacks and Knowledge Base - Claude Code is working diligently with me to solve this
+00:18:47	Darren Sweet:	I don't  think most people even have stacks working, how are we supposed to go further without that?
+00:18:48	Tyler:	I would hold tight on HW until we ship that update this afternoon.
+00:18:49	ileana - Host:	@Pattie it will definitely help you when you get to doing part 2 of the Homework you will already have a knowing of the how-to
+00:19:05	Barbara Platteel:	Thank you Tyler! great!
+00:19:07	Joffrey Berti:	thank you Tyler. roger
+00:19:11	Dietrich Busacker:	Stack didn’t work - Claude created a store in Gemini for me
+00:19:59	Alice Greene:	Claude finally created a store in Gemini for me too.  If we had Homework #2 set up doc, I think this would have been solved.  Thanks Tyler for helping us get this file.
+00:20:05	Danika Holiday:	I’m very frustrated. This has been very disappointing. We can’t even get through with Echo working correctly due to bugs in the provided documents and workflows (and have spent a lot of money working through it all) and we are already moving onto doing additional work that cannot happen without the first sections.
+00:20:49	Saskia:	I have an issue with stack as well. It keeps telling me I can't create a store due to invalid permissions. I'm debugging with Claude code, but after many attempts it advise me to move on...
+00:21:06	Danika Holiday:	@Saskia - Stack does not work
+00:21:13	Khadijah Sellers:	Whois Pattie?
+00:22:07	James Wilson:	I had the same issues with stacks, finally got Claude to help me rewrite the code to make it work. It's got permission issues passing the corpusID back and forth..I ran out if credits so went to sleep
+00:22:25	Tyler:	Hey Danika & Karla happy to help troubleshoot and work with you to get the blockers figured out and solved.  We can do that today during Q&A and we can also via the Google Form as well.  First thing I’d recommend is that you have the latest version of the student repo pulled down.
+00:22:33	Ozzie Stewart:	I like the human inclusion
+00:22:34	Dietrich Busacker:	Do we need slack or can we use something else? just Email?
+00:22:46	Barbara Platteel:	Hi Danika, it’s tough and i spent the entire weekend and Monday, and Tuesday and this morning to figure it out. Keep trying. I used Claude desktop every time I asked for: give me just ONE step and I got there in the end (except for integrating W2 into the n8n (I think it has a bug). So GO!!!!! don’t give up!!!!!!! If it was easy everyone would do it! So NEVER, EVER give up!!! You will get there. I am not technical at all and got there!
+00:23:10	Alberto Voli  Puerto Rico:	you know that N8N just came out with version 2 :-)
+00:23:15	Dietrich Busacker:	Yes w2 has a bug
+00:23:26	Audrey Kohli:	Big problem stuck - Homework 2 step 1 & 2:
+Problem: I got a “failure to fetch” error in “The stacks” and the debug process with VS Code had gotten me to an error in the N8N workflow due to an update. Please help
+00:23:29	Saskia:	Ok thanks @danika. I didn't know yet, so I tried to get it working for quite some time 🫣
+00:23:30	Darren Sweet:	Speaking of trust, I don't see a single comment saying they're ready to proceed further.
+00:23:42	Michela Gentile:	Thank you for the plots. That was one of my questions. THANKS!
+00:23:52	mea:	What does KB stand for?
+00:24:00	Saskia:	knowledge base
+00:24:00	Gwen Mitchell:	@ Danika you are not along… I’m having same issue … just taking it one step at a time
+00:24:53	Danika Holiday:	@Barbara and @Gwen - thank you both.
+00:24:58	Ana Cristina de la Torre:	Me too.. every time I run the flow there is something to debug.. And Claude is not finding it.. Is telling to do new workflows that still comes with mistakes..
+00:25:12	Ana Cristina de la Torre:	Finally it told me.. ask your teachers ..waaaaa
+00:25:15	mea:	Thanks Saskia.
+00:25:33	Name:	We tried to debug library and timed out twice
+00:25:57	Danika Holiday:	@Ana according to my CC, there was a ‘critical git update’ only approx 30 minute ago that would fix the issues I have been dealing with . I have not tried since my git pull.
+00:26:05	DEW:	Hard to focus on new info when there are still so many set up challenges. 🙁
+00:26:17	Danika Holiday:	@DEW 100%
+00:26:19	Michaela Schuler:	THANK YOU - AWESOME :)
+00:27:18	Lea Emery:	I just discovered that I had to tell Claude code to check updates in the Github CLI and not Github…. It was looking at my local files this morning and told me I was up-to-date….  And now it tells me 31 file updates!
+00:27:24	Name:	Yeah but we are definitely further along than we were 1 week ago
+00:27:38	DEW:	I have a bunch of of things that are under something called “Commit” - do I need to accept or click commit. I don’t want to mess up something…already wasted many hours.
+00:27:45	Michaela Schuler:	There is more Michela's - but I love those visuals. Really helpful!
+00:29:06	Marie Ramos:	Love the visuals!!
+00:29:54	Danika Holiday:	@Lea I recommend you instead tell CC” please do a git pull” anytime you want to check for updates.
+00:30:48	Marie P.:	Great course btw if you want to learn more.
+00:31:23	Greg Giles:	How can we sign up for your course?
+00:31:53	Karen Yoder:	Same..I want more time to learn with you!
+00:31:55	Tammy:	Perhaps we need extended course for Lesson 38-41 AI mastery
+00:31:58	Alberto Voli  Puerto Rico:	Have you tried using Nano Banana Pro infographics for some wildly epic infographics.. they are amazing! and/or NotebookLM infographics as well :-)
+00:32:04	helena mcleod:	Thank you for explaining it like this it makes so much sense. We wouldn't hire a person and then just leave them and we shouldn't with AI either
+00:33:05	DEW:	@Tammy - I agree!!
+00:33:11	nancy:	Where does the learning of the agent happen?  Is this in the AI agent “project”, or is it creating a table of responses, with human ratings, that is used as the knowledge base for both sentiment, and QA?
+00:33:18	Adriana:	i was wondering the same …. I need more. How can we learn it ? i feel i have missing parts, and i would love to learn every detail
+00:33:26	Joffrey Berti:	stupid question , but where is the "brain" of the agent, the prompt that does the task ?
+00:33:51	Joffrey Berti:	it calls the API from Open router to run it, but the prompt is Inside the node ?
+00:34:07	Tyler:	Not a stupid question, that’s in the system prompt or system instructions plus the data we add into the RAG system in “The Library".
+00:34:19	Daniel Wang:	Ah so desu ka!  This is the high level concept we needed to learn and not get caught up with tool setup which I barely managed to do with frustration.  Managed to "hop" out of that "rabbit hole" causing my "EMO-TION-NAL DAMAGE!  😉  So worth it!
+00:34:31	Gabriele Whyard:	good morning from Brookings Oregon
+00:34:58	Joffrey Berti:	ah so actualy the agent "retrieve" his job from the Library, thank you @tyler
+00:34:58	ileana - Host:	Good morning @Gabriele and welcome :)
+00:36:40	Ana Cristina de la Torre:	Where do we see the answers to the questions?
+00:36:40	Darren Sweet:	IS ANYONE?
+00:36:54	Isabelle Mickelson:	Stacks eventually worked, and I was able to upload all five files, though it took a while.
+00:37:01	Danika Holiday:	@Darren ;)
+00:37:05	Ana Cristina de la Torre:	And if we have questions to the homework on this week, how you will come back to us?
+00:37:07	Alice Greene:	Where us the Forum?  I don't see that either to get the answers.
+00:37:11	Greg:	I never found an invite for the Slack channel. Can I get that?
+00:37:11	Daniel Wang:	Barely with scars...without Stacks..
+00:37:25	Laurie Mann:	Thank you for your time and patience on this. I find it extremely valuable
+00:37:29	DEW:	How do we view your answers to the form. Can  you PLEASE demo that??
+00:37:31	Danika Holiday:	@Greg there isn’t one
+00:37:31	Kavita Ratarasarn:	Thanks so much Sara and Tyler … I have learned so much and am so excited about the possibilities with your lessons!!
+00:38:00	Marcello:	Claude ask me to att Claude API?!? But I did not see that in the course:🔑 Quick Claude API Setup:
+Go to: https://console.anthropic.com
+Sign up / Log in
+Add $5 credit (minimum)
+Create API key
+Paste in Configuration node
+Done!
+00:38:30	Marcello:	Does Echo Brand Voice need the Claude API key?
+00:38:36	DEW:	How do we view your answers to the form. Can  you PLEASE demo that??
+00:38:37	Greg:	@Danika, I saw it in some documentation and thought I heard Tyler just said that about looking at the comments
+00:38:40	Patricia:	I installed N8N local (with docker), I have the gemini API key and cloned & updated repo). Slack also, so 3 to go!
+00:38:45	Audrey Kohli:	Big problem stuck - Homework 2 step 1 & 2:
+Problem: I got a “failure to fetch” error in “The stacks” and the debug process with VS Code had gotten me to an error in the N8N workflow due to an update. Please help
+00:38:46	Daniel Wang:	Agreed!  Without Sara and Tyler "EXTRA" care, we would be so....
+00:38:47	Danika Holiday:	Marcello - Anthropic is too expensive… use Open Router instead - ask CC to configure it for you.
+00:38:59	Barbara Platteel:	I used claude desktop because visually it calms me: just as good as code?
+00:39:00	Jeanne:	Still not able to upload files to Stacks - keep getting an “Load Failed” message - Claude is helping but we haven’t solved it yet
+00:39:24	Lea Emery:	Love Slack! Thank you.
+00:39:28	Ceca:	#Jeanne same problem
+00:39:29	Marcello:	Marcello - Anthropic is too expensive… use Open Router instead - ask CC to configure it for you.
+00:39:32	Marcello:	-> did it
+00:39:41	DEW:	How do we view your answers to the form. Can  you PLEASE demo that??
+00:39:45	Marcello:	Serval times and it don’t do it
+00:39:46	Dietrich Busacker:	Claude charged me for the API  keys but then were down for a problem  i never got the API key 😅
+00:39:49	Marcello:	Ask me all the time
+00:39:57	Joffrey Berti:	is the XML brand voice snd from echo fixed?
+00:40:01	Danika Holiday:	@Darren - it’s mentioned multiple times in the document - but I thought it has never been shared with us. I asked for it on Monday’s class.
+00:40:37	Jeanne:	@ Ceca - 😪 We’re not alone at least. Claude Code is working through it with me so that’s good.
+00:40:50	DEW:	How do we view your answers to the form. Can  you PLEASE demo that??
+00:41:02	Angelica Cifuentes:	Hey @Danika can you send the WhatsApp group link again? Thank you!!
+00:41:36	Raadi:	If u zoom in more it will be better as it fits within half a screen for us#
+00:41:58	Nathalia Carbajal:	I also have the same question, where do we see the answers to the questions we sent on the Google Form?
+00:42:07	James Wilson:	@Audrey, I'm in the same place. I found that the corpusID isn't sending to the upload Document node. it's not getting the information. maybe it's in the update
+00:42:12	DEW:	It that the Commit????
+00:42:26	Raadi:	perfect, thank u!
+00:42:31	Sheila Hunkin:	How do we get the updates without having to go in and re-enter all the api and fixes each time?
+00:43:03	DEW:	How do we view your answers to the Google form. Can  you PLEASE demo that??
+00:43:16	Danika Holiday:	@Sara - the important document that arrives in our email does not work
+00:43:17	Kavi:	Claude advised for me to Use ID
+00:43:42	Eloise Mathieu:	In N8N V2 auto save will now be a feature !!!
+00:43:43	Conns:	whichone did you choose from the list?
+00:43:52	Name:	Does execute also autosave?
+00:44:07	Danika Holiday:	Don’t use EXECUTE - it costs $$$$$$$
+00:44:30	Danika Holiday:	(At least when APIs are involved - like in Echo Processor)
+00:44:38	Ana Cristina de la Torre:	That is exactly where I can’t go through.. always give me back errors 😭
+00:44:49	Michela Gentile:	What is the mega doc? What step was that?
+00:44:52	Andrea Burns:	Gen-Xers have a traumatic nervous twitch we call "Ctrl+s" we developed after losing a day's worth of work in Word back in 1997.
+00:45:07	DEW:	How do we view your answers to the Google form. Can  you PLEASE demo that??
+00:45:15	Gwen Mitchell:	I have had all the checks as green but when claude was testing it found errors
+00:45:19	Khadijah Sellers:	Which mega doc?
+00:45:31	Ana Cristina de la Torre:	My Claude is lazy.. Is sending me back to the teachers
+00:45:55	Sherylle Bates:	@Andreas +1 🤣 (I was thinking the same thing)
+00:46:10	Isabelle Mickelson:	What if ours is working do we have to start over with the new updates? I already added my gmail and that was working too.
+00:46:13	ileana - Host:	@Ana 😂
+00:46:17	DEW:	How do we view your answers to the Google form. Can  you PLEASE demo that??
+00:46:21	Eloise Mathieu:	@andreas  !!! good old day s!
+00:46:27	Sara Aibuildlab:	@khadija @michaela - the megadoc is the collection of your writing samples
+00:46:31	Danika Holiday:	I received emails (multiple times)  - but documents do not work:
+00:46:34	Danika Holiday:	Based on what I can see:
+❌ brand-brand-voice.xml (43 bytes)
+<BrandVoice>No XML generated</BrandVoice>
+Problem: Empty placeholder - no actual brand voice analysis
+❌ brand-full-analysis.md (978 bytes)
+Subject: Unknown
+Company: N/A
+Generated from: 1 words of analysis
+QC Result: SKIPPED
+Problems:
+Subject should be "Danika Holiday" (not "Unknown")
+Company should be "Hattie B's" (not "N/A")
+Should have 1247 words analyzed (not "1 word")
+QC was SKIPPED
+Missing the "Detailed Analyses" section mentioned in the troubleshooting doc
+00:46:37	Joffrey Berti:	andrea LOOOL total
+00:46:52	Sara Aibuildlab:	@DEW we can talk about that in Q&A
+00:47:26	Joffrey Berti:	So after competing the ECHO TRIGGER, it runs automatically the processor, and send automaticaly the email (hwen configured) ?
+00:47:36	James Wilson:	got the emails but nothing was in them to use
+00:47:46	Ana Cristina de la Torre:	Yes... That is what we need to get.. That is the importance of making this echo flow to work.
+00:47:57	Eloise Mathieu:	Q: when the analysis does not generate a BIG document, what could be the culprit?
+00:48:37	Michela Gentile:	I do not know….Tyler said something like that (megadoc or something similar) and this is also mentioned in the whatsup chat…. I do not know how to write it or what step was that
+00:48:48	Dayleen:	@Joff - yes that is how mine worked
+00:48:58	PI:	Lost 😞. Will watch previous classes.
+00:49:09	Joffrey Berti:	thanks @D. still have bugs. will fix
+00:49:21	DEW:	@Sara - ok…then I may be stuck until Friday. 🙁 I’ll keep trying Claude Code, but I don’t know what I should do with all the Commit items in VS Code.
+00:49:29	Sara Aibuildlab:	@michaela when Tyler talks about megadoc, thats the collection of samples of your writing style you put in the echo workflow to generate your brand voice analysis so you can customize sugar
+00:49:47	Dayleen:	@ I ended up setting up a new workflow this morning. Archived the one with the errors that I couldn't fix and it worked. Try that.
+00:50:22	DEW:	There are SO many documents that I’m overwhelmed and my Claude is confused.
+00:50:32	Name:	echo wouldn’t take data from notes does it have a to be a in a .doc format?
+00:50:35	Joffrey Berti:	@Dayleen I guess the best to do yes. will clear and start from scatch ;)
+00:50:47	Ana Cristina de la Torre:	My Claude also told me to change the info under that gmail… and put another email instead of all those codes.
+00:50:55	Dayleen:	@Joff - would highly recommend for your own wellbeing :)
+00:51:18	Joffrey Berti:	@D Don't tell me about it I had a nervous gnnnnn yesterday lol
+00:51:19	Audrey Kohli:	Big problem stuck with the Stack! - Homework 2 step 1 & 2:
+Problem: I got a “failure to fetch” error in “The stacks” and the debug process with VS Code had gotten me to an error in the N8N workflow due to an update. Please help
+00:51:29	Rebecca Koos:	Claude said i had week 1 done.  how do i open stacks
+00:51:35	Ana Cristina de la Torre:	How do we see your answers from the form?
+00:51:37	Jeanne:	Stacks is not working - “load failing”
+00:51:51	ileana - Host:	Question submission form: https://docs.google.com/forms/d/e/1FAIpQLSenm7XJl4h6tEnRzI9aMMWgla7WUxZCvzUrmwEvhJXv4GyNyg/viewform
+00:52:01	Michela Gentile:	How are we supposed to follow all of this? Feels like there are so many small details and infinite number of steps…. Are we assume that Claude will guide us through all of this? Or are we supposed to watch videos over and over….sorry but this feels waaay too much
+00:52:05	Simpatico Design Studio:	@rebecca - Stacks: http://localhost:3000:
+00:52:14	DEW:	No point in me using the Google form. I don’t know how to access the answers. Need to wait until Friday for Q&A for that to be demoed. 🙁
+00:52:15	Ana Cristina de la Torre:	@ileana how do we see the answers?
+00:52:18	Gwen Mitchell:	I have been having alot of troubles getting The Stacks working … issue was with Corpora so Claude has been helping me rework through it … Great I will check the repo for latest updates
+00:52:24	Karen Yoder:	Thank you!
+00:52:26	Teresa O'Keefe:	Where are the responses to the Question form?
+00:52:49	DEW:	THANK YOU!!
+00:52:58	Joffrey Berti:	@Sara, when we load the new one for Stack, does it erase what we already pushed in another way to your Library ?
+00:53:08	Dayleen:	ahhhh - that makes sense !
+00:53:18	DEW:	Can you PLEASE SHOW that???
+00:53:19	Nathalia Carbajal:	Can you pelase demo where do find on GitHub?
+00:53:20	Ana Cristina de la Torre:	So the idea is that Claude Code to read them… Can we manually read them?
+00:53:21	Marielle Walter:	is this still covering homework 2? or is this new steps we need to be taking? i already did homework 2 and gthis looks farmiliar'
+00:53:23	MikeL:	Ask your claude code the question? right?
+00:53:29	Karen Yoder:	Amazing!!!
+00:53:40	DEW:	THANK YOU!!!!
+00:53:52	Sara Aibuildlab:	We got you crew!!!
+00:54:02	Danika Holiday:	Great - then we can upload document to Claude APP and he summarize anything important for CC
+00:54:13	A S.:	Once we have documents with all the brand voice, FAQ ETC… WHERE DO WE upload them on the form on the Echo trigger workflow?
+00:54:14	Eloise Mathieu:	Thanks guys ! 🙏🏻
+00:55:25	Adriana:	i uploaded the documents via terminal. Do you think I should do it again using Stacks?
+00:55:35	Danika Holiday:	I did all of this and STACKS flickered and froze and got blurry then black. I closed tab and it closed all of my chrome tabs…including messing up tabs in a separate chrome window down in my dock. Should we use Safari for STACKs instead???
+00:55:36	Joffrey Berti:	that's my quesiotn @adriana
+00:55:38	Vil:	Is it safe to say that if we missed monday that today were gonna be completely lost?  If so I am going to just sign off and catchup later
+00:55:39	Joffrey Berti:	same
+00:55:46	Ana Cristina de la Torre:	So The Stacks need to work in order to continue 😶
+00:56:02	Alice Greene:	I'm thinking I'll hire one of you who gets all this and willing to go through all these steps and then wants to offer as a service in the future.
+00:56:22	Sheila Hunkin:	I thought I'd got way further than this but I don't remember doing webhooks or the stack. It wasn't even mentioned in the part 2 homework. So I'm a bit puzzled....
+00:56:23	Michela Gentile:	Ana…that exactly my thought too.  =(
+00:56:36	Joffrey Berti:	so Slack reflect it with the new version you placed on the repo. THANKYOU
+00:56:38	Sara Aibuildlab:	Hey team, if you have questions you want answered in Q&A time please put in the QA form, this chat moves so fast I may miss it
+00:56:41	Ana Cristina de la Torre:	Stacks was part of homework 1 😂
+00:56:42	May Cheung:	@Alice  great idea 🤣
+00:56:42	Ceca:	Yes it did for me ..pushed to Gemini
+00:56:51	Saskia:	@tyler: the API key in ' the stacks'  must be the same as in N8N for gemini right?
+00:56:57	Teresa O'Keefe:	@Alice - that’s exactly what I’ll be doing.  Not the highest and best use of my time.
+00:57:04	Sara:	whats the link to stacks
+00:57:30	Ana Cristina de la Torre:	Ask Claude.. it will give it to you 😊
+00:57:31	Teresa O'Keefe:	@Alice but it is important to understand the process.
+00:58:05	Simpatico Design Studio:	If we uploaded using the API and not stacks, should we add those docs in stacks to manage or will that cause issues on the backend?
+00:58:07	Joffrey Berti:	but in the Stack / Store CC told us to put our Corpus right ? not a new on
+00:58:31	Audrey Kohli:	My stacks is not working help
+00:59:24	Sheila Hunkin:	I didn't see this is week one homework either. I think I had some kind of prompt to put into cc and stacks was just never presented to me. Maybe I need to start all over again 😳 CC created a corpus for me.
+00:59:29	Jeanne:	I just updated the repo with Claude and ran Claude again to help me with these steps and I’m still getting “load failed” when I enter my API in Stacks
+00:59:34	Teresa O'Keefe:	This is great - we can slow it down when we review replays.
+00:59:37	Ana Cristina de la Torre:	@Ileana.. we certainly need more time with Sara & Tyler
+00:59:52	Michaela Schuler:	tried to debug with Claude code - but cannot get the files uploaded. would it work without the n8n webhook base URL in "direct API mode"?
+01:00:22	Alice Greene:	@Tamara That’s why I’m watching and understanding this to do just that
+01:00:30	ileana - Host:	@Ana will be taking that feedback, thank you 💜
+01:00:41	Ana Cristina de la Torre:	❤️
+01:00:46	Raadi:	can u paste that prompt into the chat?
+01:00:49	Teresa O'Keefe:	@
+01:00:50	Wendy Shears:	I couldn’t find Mondays class on Mindvalley.
+01:01:08	Ana Cristina de la Torre:	Is in INTRO 6
+01:01:10	May Cheung:	@ana I agree, Ileana, we definitely need an extra lesson to summarize all the steps from beginning to the end without any glitches, it’s too confusine
+01:01:11	Claudia Bres:	Is in Intro 6, before lesson 1
+01:01:12	Adriana:	@ileana i second @ana
+01:01:20	Teresa O'Keefe:	@Alice - I think you me Teresa not Tamara 😉
+01:01:29	Alexsandra Lantigua:	where is Monday’s class please?
+01:01:31	Marielle Walter:	can we have that promt? i tried to ask claude cose the same, and it told me to delete my workflows
+01:01:36	Sheila Hunkin:	Every time we get an update, we have to re-add the apis and fixes all over again, yes?
+01:01:43	Ana Cristina de la Torre:	@Alexsandra in Intro 6
+01:02:05	Angelica Cifuentes:	@Ileana I second them too! We need more time to understand this, its been a struggle for so many of us 🙏
+01:02:05	Alexsandra Lantigua:	Ok, thank you!
+01:02:33	ileana - Host:	@Angelica noted 🫡 thank you
+01:02:42	Alice Greene:	Monday's video is way up at the time of our program list, before the Kickoff call session in the Intros to our program.  Intro #6
+01:02:43	Zan:	That was a great prompt to remember. Could we have a copy, please?
+01:03:10	Zan:	Just to get the terminology right. thanks
+01:03:29	Sheila Hunkin:	I'm also really puzzled because CC made about 14 changes to my brand workflow just to use openrouter instead of anthropic. So it seems getting an update will cause all sorts of new problems.
+01:03:44	Marcello:	Me too
+01:03:56	Marcello:	Why they not provide a workflow with openrouter
+01:03:59	Teresa O'Keefe:	That would be great to summarize the entire process step by step start to finish. I think they are doing a great job doing a deep dive into each part for us.
+01:04:10	Marcello:	Ïf we use open router
+01:04:14	Dayleen:	@Ileana - can you please confirm what docs go into the stack (just a checklist perhaps)when this is completed and we are doing homework (as we will need to update our Stacks)
+01:04:40	ileana - Host:	@Dayleen I will ask Sara and Tyler, yes.
+01:04:46	Nnedi:	@Angelica…Just watch back at your pace🤷🏽‍♀️
+01:04:47	May Cheung:	It’s fair to say that EVERYONE is confused
+01:04:49	Eloise Mathieu:	That would be useful information !
+01:05:10	Dayleen:	@Ileana - you are a superstar - thank you!
+01:05:37	ileana - Host:	@Dayleen its my pleasure and thank you for letting me know
+01:05:44	Name:	But where can you been trying to find corpora on ai studio for 4 days now all troubleshooting fails
+01:05:51	Zan:	When  an edit is committed to a document, and we get the new version synced to our local doc, is it possible to see what the edit is, or do we have to scroll through the whole doc to find the edit, by remembering what we’ve already seen, eg in the Q&A doc?
+01:06:28	Khadijah Sellers:	I agree with @Teresa That would be great to summarize the entire process step by step start to finish. I think they are doing a great job of doing a deep dive into each part for us. I just need to get a complete understanding when I have issues I can clearly identify where the problem is in the process. Claude is getting expensive.
+01:06:33	Name:	My ai studio does not have a corpora tab
+01:06:36	May Cheung:	From Sara,
+
+If you have questions you want answered in Q&A time please put in the QA form, this chat moves so fast I may miss it.
+01:06:55	Mark Ligthart:	information overload here...…. I need more time to process
+01:07:08	PI:	@Sara & Tyler 
+
+Can you create an AI agent that walks us through everything that has been taught. 
+Think this would help those of us that are finding it confusing.
+01:07:27	Rebecca Koos:	which one are we importing?
+01:07:34	Sara Aibuildlab:	@teresa @khadija I will go over the bigger picture again in QA
+01:07:47	May Cheung:	Pi, great idea!
+01:07:54	Teresa O'Keefe:	@Mark - lots of us are in the same boat as you are.  Thank goodness for replays.
+01:08:31	Ceca:	Im lost in which workflow are we?
+01:08:32	Isabelle Mickelson:	Do we create a new workflow for the email classification?
+01:08:33	Teresa O'Keefe:	@Sara - thank you , I guess I missed seeing it in Q&A.  I try to monitor that too
+01:08:34	PI:	@May. Thx. I like to ask for things that allow everyone to win.
+01:10:19	Sara Aibuildlab:	@PI what about Claude Code to walk you through the steps
+01:10:19	Laurie Mann:	This is the Email filter process flow that happens before the email response prep and approval process (the larger process).
+01:10:44	Sara Aibuildlab:	@laurie yes!
+01:10:50	Laurie Mann:	This email filter determines if it's an email that needs to be address by the agents or not.
+01:10:57	Sara Aibuildlab:	correct
+01:11:06	Sara Aibuildlab:	Because it could be promo emails, spam etc
+01:11:19	Sara Aibuildlab:	Not a customer service email for the agents to answerr
+01:11:24	Joffrey Berti:	@sara will we talk about the cost of the System per email; I got a rough idea from CC but to check it's right from your point of view
+01:11:45	Sara Aibuildlab:	Sure !
+01:11:45	Laurie Mann:	As Tyler just mentioned, we don't want to spend credits (money) on preparing responses to emails that are junk emails (emails not from customers)
+01:12:03	Sara Aibuildlab:	Correct Laurie 🙂
+01:12:05	Joffrey Berti:	i understand the initial filter cost Wise.very useful
+01:12:57	Audrey Kohli:	So how do that?
+01:13:49	Sara Aibuildlab:	PS - I am monitoring the QA form and if you’ve asked a question that is helpful for others, I am putting aside to answer in QA time
+01:14:18	PI:	@Sara. Certainly that is an option that can be employed, but truthfully; I would feel more confident if I worked with an AI agent that you or Tyler built specific to this project. 😊
+01:14:25	Joffrey Berti:	@tyler thnaks
+01:15:08	Laurie Mann:	Yes
+01:15:20	helena mcleod:	Thank you that is great. Appreciate it.
+01:15:39	Joffrey Berti:	super useful !!!!!!
+01:15:43	mica tufillaro:	Thank yoy
+01:15:52	Name:	AGREE
+01:16:07	Teresa O'Keefe:	@Sara Where are the templates you’re referencing ?
+01:16:28	Sara Aibuildlab:	@teresa the agents are already templatized in the workflow itself
+01:16:41	Teresa O'Keefe:	Got it thank you
+01:17:24	Sara Aibuildlab:	🦾
+01:18:29	A S.:	I just updated the repo, but I still dont get the same version of the email processing pipeline as you
+01:18:46	A S.:	where can I get it?
+01:18:49	Sara Aibuildlab:	Which workflow are you in?
+01:19:27	Joffrey Berti:	so the email processing passline is containing ALL the agents, it's the full Customer service in a way right?
+01:19:35	Joffrey Berti:	(pipeline)
+01:19:51	Isabelle Mickelson:	I updated my repo too and I don't have the same workflow as Tyler. I'm in pipeline
+01:20:04	A S.:	email processing pipeline (hattie B’s HITL)
+01:21:13	Sara:	are you in n8n website or desktop version ?
+01:21:30	Dayleen:	@Joff yes that is my understanding and also needs the echo classification workflow first to trigger (I think )
+01:21:33	Zan:	Did I see it say that the app ‘was not authorised’ for Slack, or something like that? Just wondering what that meant
+01:21:37	A S.:	n8n website
+01:21:38	Angelica Cifuentes:	Missed this! (Trying to follow live) do I select the “
+Slack OAuth2 API” or “slack API”?
+01:21:44	Joffrey Berti:	@Dayleen same undestanding
+01:25:17	Sara Aibuildlab:	@joffrey the agents were in that workflow Tyler just talked through, correct
+01:25:26	Joffrey Berti:	thanks @sara
+01:26:30	Ceca:	If I already have one Can I use it or have to generate new?
+01:28:09	Dayleen:	oh wow - that is pretty cool
+01:28:25	Joffrey Berti:	So if I understand, every agent have a model connect to it. The prompt is in the parameter, then use the LLM to process ( with the connection Tyler is showing)
+01:28:25	Audrey Kohli:	I am not sure I understand why we would change the model..?
+01:28:39	TT:	why do we want to do that?
+01:28:44	Joffrey Berti:	@audrey some model have better strength than others
+01:29:01	TT:	why???
+01:29:11	Isabelle Mickelson:	Why?
+01:29:25	TT:	Why do we need to change it?
+01:29:39	Daniel Wang:	Which LLM model has the best Price / Performance Ratio?
+01:29:43	Sara Aibuildlab:	@Joffrey yes, you need the agent to be powered by an LLM
+01:30:37	Laurie Mann:	LLM is the "Brain" of the agent
+01:30:38	Audrey Kohli:	I do understand the LLM choice, but why are there Cinnamon Model, Hatch model, etc… on Tyler’s workflow?
+01:31:05	Joffrey Berti:	@audrey they all have a different task/expertise
+01:31:43	Joffrey Berti:	if I understand, you can choose a model based on what you want to do (cheap cosrt for a simple task ?)
+01:32:28	Sheila Hunkin:	Anthropic seems to have such low limits on the paid plan....
+01:32:55	Daniel Wang:	There is no one LLM model that is generically best price/performance ratio for the task required done by the agent in mind.
+01:33:02	PI:	ChatGPT understands my voice and produces all copy in that voice. Absolutely love that feature.
+01:33:12	TT:	Can we get a list with different programs we can use - so we know which ones we can use (that we may already have bought) instead of just buying more programs - some of us are complete beginners
+01:33:18	Marie P.:	@Audrey hatch, sugar, Cinammon are all assistants in the workflow, not models. They all have a task to perform (in their system instructions) that the model reads and use to provide an answer.
+01:34:35	Audrey Kohli:	@joffrey Berti G Marie P. thank you. I guess I realised the models had a local name on Tyler’s workflow..they just have the name of their assistants… sorry brain confusion for 1 sec. All good. Merciii!
+01:34:44	May Cheung:	@TT I agree
+01:34:56	Daniel Wang:	@TT  I think that's why Openrouter.ai comes in.
+01:35:09	Marie P.:	@Audrey you are welcome! 🙂
+01:35:13	Joffrey Berti:	@audrey de rien !
+01:35:18	Laurie Mann:	Got it; that's helpful, Daniel!
+01:35:45	Laurie Mann:	0 = No BS
+01:36:01	Joffrey Berti:	that's a gret tip, the temperature
+01:36:31	Sheila Hunkin:	Chat gpt must have had a fever over the last couple of days!
+01:36:40	mica tufillaro:	LOL
+01:36:54	Adriana:	What will be the cost to operate this system once it is completed? i mean each run ?
+01:37:11	Fireflies.ai Notetaker Nichola:	The meeting schedule is about to end.
+Action Items for this meeting:
+- Check for any new commits to the public student repo and pull updates to the local repository. @Claude
+- Set up Slack and create a new credential for it using OAuth. @Tyler
+- Ensure that the correct Gmail account is connected to the necessary nodes in the workflow. @Tyler
+01:37:38	May Cheung:	@sara thanks for the clarifications!
+01:37:50	Joffrey Berti:	thanks Sara
+01:38:02	Sheila Hunkin:	Great explanation, thanks Sara
+01:38:06	Laurie Mann:	Thank you for clarifying!
+01:38:14	Ozzie Stewart:	@Sara @Tyler I have been able to use Claude Code to move me through Part 1 after just listening during the session last week as I'm doing now, to try to wrap my head around what is being taught....So I would assume that I can do the same for Part 2 + Monday's session, right?
+01:38:25	Daniel Wang:	@Adriana  This I think was the point as it can be very expensive if you don't compare the different performance/price ratio for each of the models used.
+01:38:41	Barbara Platteel:	ozzie: that’s how i do it too..
+01:38:49	Sara Aibuildlab:	@Ozzie … yes, lean on CC!
+01:39:24	Laurie Mann:	Yes, I plan to do the same. And the documents prepared really help Claude Code help me.
+01:39:50	Ceca:	So do we need two slacks (as worker and other as customer?same with email?
+01:39:58	Ozzie Stewart:	Tx...It's a lot. Still 8th Dimension, but I trust you guys being the business to following and learn and appreciate it......though it still boggles thr mind
+01:39:59	Laurie Mann:	Instructional documents I should clarify
+01:40:00	Daniel Wang:	I keep hitting my rate limit and it can get very costly if I'm not careful.  The other way is to just keep paying and ignore more cost effective options.
+01:40:11	A S.:	do we need to create a google sheet to connect to the workflow?
+01:40:17	Khadijah Sellers:	Screenshots can be expensive depending on your plan in Claude.
+01:40:28	A S.:	or will it create one automatically?
+01:41:52	TT:	I want to know the budget I should plan for. I don't have my own company yet, paying for taxed money (in Sweden!) I need to know how much collateral damage to expect.
+01:42:14	Simpatico Design Studio:	the most recent repo is from the 9th, can you push Dec 10?
+01:42:53	Michela Gentile:	Stupid question….How do you know the Claude charges? Where should I check? =(
+01:43:05	Daniel Wang:	@Khadijah Exactly!  I have Claude Pro and I keep hitting my limit and have to wait a few hours.  Claude App, Claude web and Claude Code, each have their own rate limit...
+01:43:11	Adriana:	@Daniel Wang, I’m thinking about the client, how does this work, cost-wise?  using the most cost-effective models for each step. I believe it could be as expensive as an employee?
+01:43:39	Daniel Wang:	@Adriana I agree.
+01:44:27	Sara Aibuildlab:	We can talk through costs
+01:45:05	A S.:	where is this n8n built W2 flow available. I just updated the repo, but its not available
+01:45:06	Olya:	@Sara, Yes please, it would be great to understand the costs associated with your  typical client projects
+01:45:22	TT:	ANd for these 4 classes..
+01:45:30	Adriana:	@Sara, that would be awesome!
+01:45:40	Jack:	This series of AI mastery sessions for this whole workflow should have just been it’s own mindvalley quest. We can all see by all the comments that so many of us are not totally catching all of this which tells me that it’s just too much for this type of training.
+And not only that we are being told we’re not shown how to do all the little things that have already been pre-set up for us (for the sake of time) which means at the end of all of these we wouldn’t be able to build this whole thing from scratch on our own.
+So we’re learning some but not all.
+
+I think taking up two full weeks of our precious AI mastery time would have been better spent on more digestible topics that can be taught in a short amount of time (like all other topics). And then make this a sep. quest - like Vyk did with Airtable.
+01:46:10	Joffrey Berti:	the credit you load are in OpenRouter, you can all check how much it cost per execution it's intereesting to know :); I asked CC to give a rough estimate too. But sara will run through the costs I guess :)
+01:46:18	Sherylle Bates:	Thanks @Sara I had a similar question as  @Michela where do we  check?
+01:47:12	ileana - Host:	@Jack thank you for your feedback. I will save it to send to the team if you could also add it to the end of class survey that would be great.
+01:47:14	A S.:	and also, in the repo, I still only have the librarian tool V1, not the V2
+01:47:18	Darren Sweet:	@Jack 100%
+01:47:23	Steph:	I kind of agree with @Jack. This is Great - but it's too much for the amt of time we have for it. But Tyler and Sara are doing an awesome job trying to jam as much as possible in the time we have.
+01:47:24	Joffrey Berti:	aaaaaaah. thank yuo for the "active" tips
+01:47:33	Dayleen:	Oh that is now interesting !
+01:47:34	Daniel Wang:	@Jack I agree and want to take the regular AIBuildLab Course as it requires much more time but it was condensed here.
+01:47:35	Joffrey Berti:	how do we know which one to tunr on sorry?
+01:47:42	Dayleen:	I thought they had to be active
+01:47:47	Michaela Schuler:	my claude code says "limit reached" now - it only resets in 3.5 hours 😅
+01:47:54	Isabelle Mickelson:	I also only have the librarian v1
+01:48:07	A S.:	in the repo, I still only have the librarian tool V1, not the V2
+01:48:09	Dayleen:	walk through is great ...
+01:48:09	mica tufillaro:	I love the extra info from Sara and Tyler!  Thank you for providing this extra info
+01:48:42	Cheryl:	This is fantastic--thank you!
+01:48:55	ileana - Host:	Thank you both 💜
+01:48:59	Michaela Schuler:	Great!
+01:49:07	WButler:	I personally love that they did it this way. We are getting so much information in a short time and we can rewatch…I am not expecting myself to learn everything on the live..I rewatch
+01:49:09	Laurie Mann:	Thank you - This is great! I'm so grateful to learn this
+01:49:10	Audrey Kohli:	Could we have a loom too for homework part 2? A lot of us are stuck there
+01:49:12	Ozzie Stewart:	@Jack. This series has been the most important for me so far, for what I need to do for my business. The other subjects for me I could catch up on later, but this speaks directly to me. So to be able to see what I can do for my work and to be able to actually BEGIN to work on this and lessen the fear has been VERY important. This had been most profound for me
+01:49:15	Joffrey Berti:	thank you both
+01:49:18	Flavia Padilha:	thank you, this is amazing
+01:49:25	Barbara Platteel:	I LOVE how ambitious you are and how you trust that we WILL get it (eventually). Thank you Tyler & Sara
+01:49:27	Joffrey Berti:	actually thank you all of us !
+01:49:34	Teresa O'Keefe:	The GitHub repo will be live/available for the 2 yrs that we have access to the course, correct?
+01:49:38	Dayleen:	Such a good way to teach - show the overall context and then we should have the bigger picture
+01:49:40	Daniel Wang:	@Sara  @Tyler  You made the unrealistic undertaking here far more realistic than I would have imagined when we started.
+01:49:41	Angelica Cifuentes:	Yes please! The loom for part 1 was FANATASTIC! Can you give us Looms for the rest please?
+01:49:46	Michaela Schuler:	We will all get there! :)
+01:49:46	Laurie Mann:	I agree; this is in alignment with something I want to build and going through this is so valuable.
+01:49:46	mica tufillaro:	@Ozzie I couldn't of said it better myself
+01:50:00	Joffrey Berti:	maybe another loom yes. would be so useful, even short like loom 1
+01:50:05	Zander Golden:	Thank you so much for offering this class.This has been incredibly valuable for me.You guys are awesome
+01:50:08	MikeL:	This is all brilliant. You guys are doing an amazing and incredibly generous with your time. Thanks so much Tyler and Sara.
+01:50:09	Simpatico Design Studio:	When will you push Dec 10 update?
+01:50:14	Teresa O'Keefe:	@Angelica - where are the looms hosted?
+01:50:24	Sheila Hunkin:	I'm still concerned about having to redo all the setup each time we upload an update. I see so much potential for frequent downtime.....
+01:50:28	Jack:	@Daniele - I agree that the AIBuildLab course would be the only way to fully learn this. So it should’ve been a sep. thing outside of these sessions.
+01:50:35	Isabelle Mickelson:	Is the repo up to date or are you guys releasing the newest version later?
+01:50:37	Darren Sweet:	The very first question in chat today is mine. Yet we're processing like all is well"How many people managed to get ready for today? I"m not even close after 5 hours."It sounds like only a handful of people are anywhere near this point.
+01:50:39	Marielle Walter:	I really appreciate this training. This is the level of intel i want to have into what is happening in AI, and in building agents. This is tough! I dont understand it all - but i appreciate we are finally getting into some real mastery of AI - beyond a task bot or a photo/video edit. That is good, but its not where AI is at now (and beyond...)
+01:50:42	Michaela Schuler:	that is a great approach!
+01:51:04	Karen Yoder:	I love the approach. It is important to have a product at the end…to understand the “why” for the effort involved.
+01:51:16	Angelica Cifuentes:	@Teresa I saw the first one after their first class, a complete step by step click here. But I didn’t find for the rest. @ileana do more looms exist?
+01:51:20	Dayleen:	Its absolutely a game changer - thank you
+01:51:22	Ozzie Stewart:	I like the wholistic approach. Thank you @Tyler and @Sara. You been stretching my mind, opening to the possibilities.
+01:51:23	A S.:	in the repo, I still only have the librarian tool V1, not the V2
+01:51:28	PI:	@Sara/@Tyler 
+
+Love the info, energy and professionalism. 
+God willing, I’ll be able to wrap my mind around this project when I watch the replays. All things are possible and we believe!
+01:51:31	Dr. Donna:	Love your approach! Thank you
+01:51:32	Wendy Shears:	This is hard but it is amazing! You are doing a wonderful job with something that is so intense. Thank you for all your support in creating this!
+01:51:46	Glenn Miller:	Your approach is spot on.  This is difficult.  Thank you for compacting a several week course into a few sessions.  And thank you for providing the extras needed and the follow up for student success
+01:51:54	Marielle Walter:	Yes! This blows my mind - but its super cool to be exposed to the back end of this all. It definitely frames what is possible!!!
+01:52:08	Simpatico Design Studio:	you showed us that Monday
+01:52:08	Angelica Cifuentes:	Y’all are AMAZING! Thank you @Sara/@Tyler, really fantastic teachers 🥰
+01:52:10	PI:	@Wendy I concur. Great job breaking down complex topics.
+01:52:28	Karen Yoder:	I have need “Cladding” and it really helped the Clauds and my brain!
+01:52:29	Glenn Tjon:	This is a start…stay curious and understand that learning is how you put this into practice, make mistakes, adjust, share, and grow.
+01:52:46	WButler:	My philosophy: Most things are not hard..they are just new….once you do this over and over it will become more clear..at least that has been my experience with learning new concepts
+01:52:54	Michela Gentile:	Where do I find the loom video?
+01:52:59	Cheryl:	DigiGold nuggets!
+01:53:05	Joffrey Berti:	thank you Sara & Tyler you are VERY generous in your teaching. it's hard but we'll get there
+01:53:06	Lea Emery:	Sara & Tyler -It really helps in acknowledging that this is really complex and that you're showing us a full project, even if the individual steps get confusing when we hit glitches. Thank you for that context!
+01:53:09	Alice Greene:	I appreciate knowing what's p0ossibe too.  Really great to have this background.  Really appreciate what Tyler and Sara are doing for us and taking so much of their time
+01:53:12	Glenn Tjon:	Thanks Sara and Tyler!
+01:53:27	TH:	@ozzie completely agree
+01:53:40	Michaela Schuler:	YES! I brainstormed with ChatGPT on my own uses cases with this today - cannot wait have the experience and to start building.
+01:53:44	Steven E Jones, PhD:	So appreciate your styles and the back office view of what you created for us to see.  I am very interested in creating other types of workflows.
+01:53:51	Lea Emery:	Great advice! ❤️🔥
+01:53:59	Sheila Hunkin:	Me too!
+01:54:00	Laurie Mann:	Yes, I love this. I love going through the challenges with training wheels
+01:54:05	Donna W:	Thank you!!!
+01:54:07	Daniel Wang:	Even the hardware setup like multi-screen setup might be helpful to share.  I was hobbling with 2 screens.  Now I have 3 screen working and should have a 4th by tonight?
+01:54:20	Barbara Platteel:	We are hardwired to avoid change. So CHANGE requires DISCOMFORT. so embrace the frustration!!!! The not knowing!!! Again LOVING that you are so ambitious for us!
+01:54:21	Frank Carreon:	Thank you sara
+01:54:23	Charissa:	My Brain is MIA lol
+01:54:25	Ceca:	Love your way of teaching
+01:54:32	Teresa O'Keefe:	@Ileana - is the Loom video included in the workbook for the session.
+01:54:58	Nur Hill:	Tyler, can you make me a Tyler GPT that does everything you just explained?😁
+01:55:02	Flavia Padilha:	thanks for trusting us - I deeply appreciate the way you both approach this challenge, providing all with limit amount of time and a lot of us!
+01:55:03	ileana - Host:	@Teresa I will upload it as a ‘normal’ video (how the class recording appears) so you won’t see it as a Loom link.
+01:55:03	Ching:	Could you run it through to show us what we should expecting when it works.
+01:55:15	Sandra Salem:	Sure. Ii can wait
+01:55:29	Teresa O'Keefe:	@Ileana - that’sperfect!
+01:55:39	Lisa Fitzharris:	Is it possible to get a new README doc for the new instructions or the changes in getting Stacks set up? That way we can follow step by step and send that to CC for help.  Right now I am sending some outdated info into Chat because I burned up my time in the Claude team.  That may help straight line our success.
+01:56:14	ileana - Host:	@Teresa 💜
+01:57:21	Jack:	@Nur - exactly what you just said! We need a Tyler gpt 💪🏻
+01:58:05	Sheila Hunkin:	That's fab!
+01:58:34	Barbara Platteel:	uhh…where do i find the ‘loom’?
+01:58:40	Daniel Wang:	@Jack  Yeah!  A CustomGPT Tyler.
+01:58:49	Charissa:	Will be forever impressed with those of us that can keep the chat so active and still follow…wish I could get an agent set up to help me locate my brain…yes to Tyler   & Sara gpts please
+01:59:33	Zan:	Great prompt! Copy please 🙂
+01:59:41	Sheila Hunkin:	Haha @Charissa
+01:59:48	Joffrey Berti:	love to see Tyler prompiting
+01:59:51	Charissa:	wow amazing prompt
+02:00:04	Rupal Sheth:	please share prompt
+02:00:05	Angelica Cifuentes:	Can you give us that prompt please?
+02:00:19	Alberto Voli  Puerto Rico:	@tyler, you are a natural!
+02:00:22	Simpatico Design Studio:	screen shot then copy text on screenshot (if on Mac)
+02:00:41	Zan:	@Simpatico. Great idea!
+02:01:21	Michela Gentile:	What are the email that they talk about? Are we supposed to receive any information by email?
+02:01:41	Olya:	Thanks for the tip Simpatico, it worked 🙂
+02:02:04	Zan:	It was too wide to screenshot for me 😃. I’ll catch it on the replay.
+02:02:37	Isabelle Mickelson:	Great idea @Simpatico
+02:02:44	Eloise Mathieu:	THANK YOU !!! 🥰
+02:03:05	Dayleen:	@Tyler and @Sara - amazing - thank you
+02:03:09	Olya:	I wanted to paste the prompt here, but pasting is disabled
+02:04:46	Marie Ramos:	what is the best way to open up md files? for example directions for homework pt 2?
+02:04:52	Laurie Mann:	@Michela, once this is all set up, we will need to test it out by drafting a "Complaint" email from an email account to the Test Email account that is the trigger for the filter process. That is the reason for a test email account so the test email account can be the trigger for the filtering process.
+02:06:04	Lea Emery:	@Marie - I’ve opened them in Google Docs to read it “old school” style, but It can open in VS Code window if you open it from there.
+02:06:09	Ana Cristina de la Torre:	I always did it like that. MY Claude instruct me to do that way.. It never made it by himself… lazy again
+02:06:33	Ana Cristina de la Torre:	Or I am not connecting something?
+02:06:59	Lea Emery:	Or tell Claude Code to open your local file - giving it the name.
+02:07:21	Joffrey Berti:	so CC can go to n8n ?
+02:07:33	Ana Cristina de la Torre:	Mine couldn't
+02:07:42	Joffrey Berti:	thought the MCP that e set up in our Claude Destrop
+02:07:43	Ana Cristina de la Torre:	It actually say.. I can’t but I an guide you
+02:08:15	Marie P.:	I have to go but looking forward to get started with this. Thanks for another great session! 🦾
+02:09:13	ileana - Host:	@Marie thank you for joining
+02:11:10	May Cheung:	@ozzie I 10000% agree
+02:11:12	Flavia Padilha:	can you wrap up and set us for Friday? what to expect by then? we haven't seen it working yet
+02:12:28	Alice Greene:	Please don't forget to show us how to retrieve your responses to our Qs in repo and latest updates correctly
+02:12:35	May Cheung:	Ileana - Suggestion, to give us more time to complete the work, can you move the Q&A from Friday to next Monday????
+02:12:44	Gisli Rafnsson:	can we get the promt for the project manager and the workbe  :-)
+02:12:46	Joffrey Berti:	I think I am fried sorry. maybe it will be useful for us to have a walkthough for the Homewor ?
+02:12:57	Daniel Wang:	Love Claude Code, I could never go back to traditional development!
+02:13:41	Ozzie Stewart:	I really appreciate the deep dives being done. The time that @Tyler @Sara are offering are gold... Now to implement..... given the time available
+02:13:48	ileana - Host:	Of course!
+02:13:55	Joffrey Berti:	thank you !!!
+02:13:56	Raadi:	that is very kind of u thank u# :)
+02:13:58	ileana - Host:	Question submission form: https://docs.google.com/forms/d/e/1FAIpQLSenm7XJl4h6tEnRzI9aMMWgla7WUxZCvzUrmwEvhJXv4GyNyg/viewform
+02:14:06	Jeanne:	How do we get the responses to the google quesitons
+02:14:08	Ching:	Where will responses be?
+02:14:24	Eloise Mathieu:	This is very kind and appreciated ; THANK YOU 🙏🏻
+02:14:25	Mark Ligthart:	What a great offer!!!!!
+02:14:46	Danika Holiday:	Yes CC pushed it with and API into my Gemini Store. I will continue doin git this way
+02:15:16	Simpatico Design Studio:	Sugar customization wasn’t part of my week 1 homework.
+02:16:25	Isabelle Mickelson:	it's not letting me import the w2 approval handler in n8n
+02:16:27	Alice Greene:	Walk through getting latest repo updates.  I'm a bit lost on that, since I asked Claude Code to do that and didn't get it all
+02:16:44	Olya:	Thank you so much for a great lesson! We will need a lot more time to fully understand how these workflows have been built, but it is a great way to learn by deconstructing a working workflow and modifying it for our needs.
+02:16:57	Sara Aibuildlab:	❤️‍🔥
+02:17:55	Laurie Mann:	That is my goal as well!
+02:18:00	Alice Greene:	I'm going to have to go, and hope you address how to get updated repo.
+02:18:30	MikeL:	Don't we just ask the updated claude code?
+02:18:42	MikeL:	The same question we asked Tyler in forms?
+02:19:45	Sara Aibuildlab:	@mikeL yes we’re trying to encourage you to lean on code and if you’re still stuck, use the google form 🙂
+02:20:05	Alice Greene:	But how do we update this to see what you are showing
+02:20:14	Ana Cristina de la Torre:	github
+02:20:20	Ana Cristina de la Torre:	Claude do it for you
+02:20:49	Alice Greene:	Claude didn't update it all for me, so what is the prompt for this
+02:21:14	MikeL:	It's a fantastic way of doing it. Just ask claude your question!!!!
+02:21:15	Ana Cristina de la Torre:	Is in the prompt document they posted under the first or second session.. you have a library of prompts
+02:21:18	Alice Greene:	Not clear. Need way to get this updated repo
+02:21:29	DEW:	THANK YOU!! That was exactly what I was hoping you’d demo!
+02:21:31	Joffrey Berti:	@Alice just ask CC to check the GitHub from Mindvalley course if there is an update.
+02:21:32	Teresa O'Keefe:	@Ileana all the guides are in .md (markdown) format on the MV platform.  Can they be converted to the normal pdf format you normally post.
+02:21:44	mica tufillaro:	THANK YOU FOR ALL OF THIS!
+02:21:47	Danika Holiday:	To get a git pull
+02:21:53	Darren Sweet:	Claude says I have the latest repo, but I have no docs folder? Do I need to specifically ask it to download this folder?
+02:22:04	Alice Greene:	Yes, because didn't get it all when asked Claude before
+02:22:05	Ana Cristina de la Torre:	They are .md
+02:22:12	ileana - Host:	@Teresa Yes, if you all consider thats better I will do that. I uploaded it as sent by Sara and Tyler
+02:22:49	Ana Cristina de la Torre:	Actually is easier how it is if you get it how to ask
+02:23:09	Eloise Mathieu:	Q - should we do this everyday?  Is there a way to “see” if there is an update, a red dot or something ? or we need to ask ?
+02:23:18	Ana Cristina de la Torre:	Yes!! hehe
+02:23:23	Alice Greene:	How will we know if didn't pull it all?
+02:23:24	Joffrey Berti:	Same Q as @Elo
+02:24:05	Eloise Mathieu:	Is there where we need the Slack channel ?
+02:24:08	Teresa O'Keefe:	That would be good.  If you’re in Github it shows the .md format text, but we have to download a markdown app or convert them to read on MV app.  Is that okay?
+02:24:30	Bala Balendra:	How about the version ? Does it increment when you commit changes
+02:24:31	Ana Cristina de la Torre:	Slack? Did you open a channel in slack for us?
+02:24:33	ileana - Host:	Yes lets make a plan for that thank you
+02:24:38	Danika Holiday:	That would be amazing to be notified! <3
+02:24:38	Teresa O'Keefe:	Read from MV app not on MV app
+02:24:58	Lea Emery:	I determined - with Claude Code’s help - that I will start every new session with “check the class repo (not my local) for updates that need to be pushed to my local”
+02:25:27	Eloise Mathieu:	GitHub should have an Announcement Bar ! ;)
+02:25:29	Greg:	Can someone provide the MV What's App channel?
+02:25:49	Sheila Hunkin:	I still puzzled about how multiple updates will affect our settings in the workflow. Would we have to update it all every time there's an update?
+02:26:03	A S.:	can you share again the link for the Q&A?
+02:26:06	Eloise Mathieu:	@sheila ! same Q … good point
+02:26:15	ileana - Host:	Question submission form: https://docs.google.com/forms/d/e/1FAIpQLSenm7XJl4h6tEnRzI9aMMWgla7WUxZCvzUrmwEvhJXv4GyNyg/viewform
+02:26:22	Lea Emery:	@Sheila. That is my current conundrum. Going to submit to Q&A Form
+02:26:22	A S.:	thanks
+02:26:31	Ana Cristina de la Torre:	Same question as Sheila.. does the updates affect the previous work in workflows?
+02:26:39	Audrey Kohli:	FYI: I am up to get online for help for the Stacks
+02:26:51	Ana Cristina de la Torre:	ok
+02:27:44	Joffrey Berti:	how do we know what do to with the update. CC will have the knowlddge of exactly what needs to be fixed ?
+02:28:00	Jason White:	the original instructions asks us to check the version which is 1.0.0. When you do an update and you update the version?
+02:28:06	Greg Giles:	What do you do when you reach your maximum in a context window?
+02:28:15	Greg Giles:	In Claude Code
+02:28:20	Jeanne:	Ive continued to get “load failed” with Stacks API
+02:28:52	Audrey Kohli:	Same for the stacks…Apparently a problem with a workflow in 8N8…
+02:29:19	Audrey Kohli:	Did the latest pull
+02:29:21	Tyler:	https://github.com/8Dvibes/mindvalley-ai-mastery-students/commits/main/
+02:29:26	Gwen Mitchell:	I have issues with Stacks as well will try latest pull
+02:29:33	Jeanne:	I pulled during the call and it is still not working
+02:29:43	Lea Emery:	Someone should create an n8n workflow to ping us (email or WhatsApp?) with commits in GitHub - anyone game? 🤣
+02:29:45	Ceca:	same
+02:30:28	James Wilson:	yes, I updated the echo processor and have to go back in and replace all the apikey calls and webhooks again
+02:30:45	Danika Holiday:	@ Lea -  I am certain I see you hand raised - thank you for volunteering! LOL
+02:30:54	Lea Emery:	YES!!
+02:30:57	Jeanne:	Claude has had me use the direct API Mode
+02:31:11	Jeanne:	And I’m still getting teh load fail error
+02:31:11	Panda:	yeah I spent over 4 hours and I gave up lol
+02:31:21	Greg:	Same!
+02:31:24	Ana Cristina de la Torre:	James.. how many apikeys you updated? And where?
+02:31:27	Gisli Rafnsson:	same
+02:31:35	Audrey Kohli:	It looks like I may have ran into the same problem….
+02:31:39	Lea Emery:	@Danika… it might be less complex than working on Hatti Bs?  🤔🤣
+02:31:48	Ceca:	Yeah when N8N web hook removed it worked with direct API but had to delete webhook
+02:32:03	Danika Holiday:	@Lea 100% guaranteed! LOL
+02:32:54	James Wilson:	@Ana I have to do every spot in the analyzer and each web call that happens
+02:33:02	James Wilson:	like 17 places
+02:33:03	Jeanne:	can you please post that prompt
+02:34:10	James Wilson:	Also, because I'm using OpenRouter, I have to change each instance of the model it's asking for and put it into OpenRouter syntax...there are quite a few spots to change
+02:34:26	Sheila Hunkin:	CC did that for me.
+02:34:28	Jeanne:	I’ve had problems with it finding rheumatoid arthritis corpus
+02:34:32	Mark Ligthart:	Can you show the prompt so i can take a picture?
+02:35:22	Cat Tabor:	@JEanne - here is his prompt or you can watch the replay and let claude here his prompt from there at this time in the reply
+02:35:41	Ana Cristina de la Torre:	Thanks.. @James.  I guess I still need to get there
+02:35:53	Cat Tabor:	Hey Claude, uh this is Tyler. I'm in Mind Valley class right now and I'm doing a live demo and I'm wanting to demonstrate how I would talk with you. set up my stacks front end and also any of the NAN workflcnvs to go. And do all Of that. so please be sure that you have pulled down the latest version Of the repository so that we know that we're working with the latest information. Then I want you to explore the repo thoroughly and then walk me through the process so that you and l, and we can also spin up additional Claude agents to help get all this set up. Set up and working for me with my Gemini File Store and my Stacks front end please. And also just because it's it's me and I'm doing this and I'm doing it as a demo, like we've done this in the past, so please don't get confused. like pretend like we're doing this for the very first time and walk through it in that sort of way please. Thank you
+02:35:58	Tyler:	Hey Claude, uh this is Tyler. I'm in Mind Valley class right now and I'm doing a live demo and I'm wanting to demonstrate how I would talk with you. set up my stacks front end and also any of the NAN workflows to go. And do all of that. So please be sure that you have pulled down the latest version of the repository so that we know that we're working with the latest information. Then I want you to explore the repo thoroughly and then walk me through the process so that you and I, and we can also spin up additional Claude agents to help get all this set up. Set up and working for me with my Gemini File Store and my Stacks front end please. And also just because it's it's me and I'm doing this and I'm doing it as a demo, like we've done this in the past, so please don't get confused. like pretend like we're doing this for the very first time and walk through it in that sort of way please. Thank you
+02:36:14	Jeanne:	Thank you!!!!! will adapt
+02:36:26	Dietrich Busacker:	Direct API didn’t work either and Claude couldn’t find the cause of the error till it opted for a way around to the Gemini file store. The problem is that you can’t directly see what is in the Gemini file store , not like Stack where you which docs you got.
+02:36:34	May Cheung:	Can we have the Q&A on Monday?  Instead of Friday?
+02:36:40	Lea Emery:	Wow! You’ve given us so much of your time. Thank you Tyler & Sara.
+02:36:45	Cat Tabor:	You two are doing such a great job with so many at different levels
+02:36:45	Nathalia Carbajal:	You guys, THANK YOU. As always so kind and giving. 🙂
+02:36:47	Audrey Kohli:	I did run in the latest problem of the webhook
+02:36:47	TH:	Thank you Tyler and Sara!
+02:37:17	James Wilson:	You're welcome
+02:37:23	Catalina Villarreal:	Thank you so much, I LOVE your class and your support.
+02:37:26	Isabelle Mickelson:	Thank you so much Tyler and Sara!!
+02:37:34	Jeanne:	I’m on a Mac LOL
+02:37:48	Khadijah Sellers:	I will start over and follow step by step. I feel more comfortable moving forward after these sessions. Thank you. I see much potential.
+02:37:49	Cat Tabor:	LOL.. just got that Windows ping... You apple lover
+02:38:01	Tyler:	lol
+02:38:02	ileana - Host:	😂
+02:38:12	Dr. William Cole:	Sandra... YOU ARE NOT ALONE...!
+02:38:17	Ana Cristina de la Torre:	You meant Part 2 of homework 1
+02:38:43	Dr. William Cole:	Theory vs Reality Very Different.
+02:39:55	Joffrey Berti:	Volkwagen is nice LOL. But same quesiotn. How do you challenge CLAUDE when you Don't understand ?
+02:40:17	Khadijah Sellers:	Excellent Sandra! Exactly
+02:40:45	JEN K:	Love that @Sandra is asking this question and doing a GREAT job communicating the concerns! ❤️
+02:40:51	Isabelle Mickelson:	Claude Code also tried to tell me not to use stacks but I told it I had to use stacks.
+02:41:15	James Wilson:	I might have done that, but I told Claude to only do the example, but I feel the same way, my Claude started to "design" the app on it's own
+02:41:39	Sheila Hunkin:	CC completely bypassed stacks for me. I didn't even know it existed. I agree with your point Sandra - we don't know what we don't know!
+02:41:51	IreneSF:	where is the link to the forum where we can get answers from instructors when we get stuck
+02:42:16	Dr. William Cole:	I would like "Santa Claude" to help me over the holidays...!!!🎅
+02:42:23	Isabelle Mickelson:	lol
+02:42:26	Ana Cristina de la Torre:	lol
+02:42:40	Khadijah Sellers:	Absolutely Tyler, I will do that.
+02:42:47	Cat Tabor:	It sounds like speaking to an audience though a translator
+02:42:54	Dietrich Busacker:	WOuld it be good to get the files back into stack if it works a gain?
+02:43:03	Tatiana Safronova:	Great points! I used ChatGPT, when I was stuck ... I realized that some answers were wrong (ex: default settings) ... there were few other things
+02:43:43	Ana Cristina de la Torre:	@Tatiana separetely or you also have connected to your  VS?
+02:44:36	Tatiana Safronova:	@Ana separately. I had issues connecting Claude. I used separate chat, then realize I went wrong way
+02:44:41	Lea Emery:	This is so so helpful to hear Tyler hitting walls too! Xo🙏🚀
+02:44:43	Mark Ligthart:	Great question and great answer. Very helpful!
+02:46:01	Jeanne:	I was concerned that was what was happening
+02:46:15	A S.:	Why do we need to add a sub-agent to do the research given that Claude is trained a massive dataset including maybe problems we run into? is that correct or not?
+02:47:04	Ana Cristina de la Torre:	Trying and getting frustrated and loosing open router credits
+02:47:04	Dr. William Cole:	Ask "Santa Claude"!!!
+02:47:09	mica tufillaro:	well said Sara
+02:47:09	Lea Emery:	Thank you for asking this question Sandra and explaining the disconnect between Claude creating solutions that divert away from what will later affect the steps and system. ❤️
+02:47:10	Gisli Rafnsson:	Sandra points are very valid for us beginner
+02:47:14	May Cheung:	@Sandra Thank you soooo much for clearly voicing our problems
+02:47:26	Michaela Schuler:	Thanks for this questions, Sandra! Very well phrased.
+02:47:27	Frank Carreon:	Thank you sandra
+02:47:34	A S.:	Why do we need to add a sub-agent to do the research given that Claude is trained on a massive dataset including maybe problems we run into? is that correct or not?
+02:48:34	Ana Cristina de la Torre:	How long are you going to be available to help us?
+02:48:37	Greg Giles:	I think the sub agent helps it provide better answers for each individual task at hand as it specializes more. Want to say Tyler and Sara mentioned this a class or two ago
+02:48:46	Laurie Mann:	yes
+02:49:39	Teresa O'Keefe:	@Greg, yes that’s right
+02:49:43	Kamion:	How does that not become problematic for implimentation?
+02:50:16	A S.:	yes then shall we give a Role (like prompt engineering) to claude to give him a specialized task to do for us? instead of setting up a sub-agent
+02:50:22	Ozzie Stewart:	Thank you @Sandra
+02:50:26	Zan:	That’s so helpful, @Sandra. 🙌
+02:50:35	WButler:	The project manager and the Worker bee claude code chat windows is such a great tip…using it now and I like how it works as its easier to track where you are
+02:50:37	Joffrey Berti:	thanks Sandra
+02:51:07	Steven E Jones, PhD:	Appreciate you Sandra.
+02:51:17	Dr. William Cole:	WHERE CAN WE FIND THE PROMPTS???
+02:51:21	Ching:	Thank you, @Sandra ! This is very helpful.
+02:51:33	Ana Cristina de la Torre:	Under the first or second lessons docs in MV
+02:51:44	Dietrich Busacker:	Claude at one moment asked me of i didn’t want to go to sleep , but when I pushed on, 5 min later it blocked at 77% and I had to go to bed
+02:52:15	Dietrich Busacker:	Thanks Sandra!
+02:52:23	A S.:	yes but chances are that our problem that we encounter, happened before the cut off time?
+02:52:25	Lea Emery:	@Dietrich 😆
+02:52:27	Ana Cristina de la Torre:	I guess that it sends us to sleep when we are going to be sent to jail 😂
+02:52:28	Gwen Mitchell:	Yes I hit that last night … the corpus disaster … but Claude and I prompted our way back to the file sharing approach
+02:53:02	Laurie Mann:	It's like people in their 20's not knowing 70's and 80's music; you have to purposefully seek it out and play it so they know it!  😅
+02:53:05	James Wilson:	Yes, I had to tell claude to stop suggesting the Google UI for the corpus because it doesn't exist
+02:53:25	Daniel Wang:	@Lea  How do I find you in WhatsApp?
+02:53:29	Nathalia Carbajal:	🥰
+02:53:31	Lea Emery:	🎡❤️
+02:53:34	Khadijah Sellers:	Thank you! Love you guys
+02:53:42	Ozzie Stewart:	Appreciate your time
+02:53:45	James Wilson:	This is great, thank you
+02:53:47	Isabelle Mickelson:	What is the homework for week 2? Is that going to be in the repo?
+02:53:50	mica tufillaro:	🥂♥️
+02:54:00	Khadijah Sellers:	Homework
+02:54:10	Sheila Hunkin:	Brilliant, thank you!
+02:54:11	mica tufillaro:	thanks for all of your extra time with us.
+02:54:11	Barbara Platteel:	thank yoouuuuuuu
+02:54:13	JEN K:	Thank YOU
+02:54:17	Dayleen:	thanks to you both for a great session - appreciate you hugely!
+02:54:18	Isabelle Mickelson:	Thank you!!
+02:54:18	MikeL:	Thank you for your patience and help
+02:54:24	Laurie Mann:	It's necessary and thank you!
+02:54:26	Michaela Schuler:	🤩
+02:54:35	Alberto Voli  Puerto Rico:	you have been truly awesome!  What a treat!
+02:54:36	Isabelle Mickelson:	Yes!
+02:54:38	Khadijah Sellers:	Amazing and so thoughtful and patient with us.
+02:54:42	Dietrich Busacker:	Thank you - great class!
+02:54:46	Steph:	Thank you for the extra time Tyler & Sara!!! ❤️💜
+02:54:48	Patricia:	Thank you for your time! Learning and trying everyday.
+02:54:49	Anthony Stephens:	❤️🫡🥳🎉💯
+02:54:50	Sandra Salem:	Thank you everyboody! Great learning experience!
+02:55:08	Dayleen:	that would be amazing
+02:55:11	Joffrey Berti:	please YES
+02:55:14	Khadijah Sellers:	I am 69 and I am not going to quit!
+02:55:17	Joffrey Berti:	this exctly.
+02:55:23	Gisli Rafnsson:	we just need two or three more sessions with you both :-)
+02:55:35	Ana Cristina de la Torre:	Put it all together and make it work.. hehe
+02:55:42	Gwen Mitchell:	We appreciate all your efforts Sara and Tyler … know we are grateful for all your effort
+02:55:43	Laurie Mann:	Keep at it, Khadijah! You got this!
+02:55:43	Zan:	Such a steep learning curve.  Thanks so much Tyler and Sara.  Great sessions.
+02:55:45	Angelica:	Tyler and Sara, Thank you very much .
+02:55:49	WButler:	thank you!!!
+02:55:50	Ana Cristina de la Torre:	Agreee..!!!! More sesiones please
+02:55:54	Joffrey Berti:	thnak you
+02:56:03	PI:	@Tyler. No need to apologize. Your zeal for teaching is wonderful. Mark Twain said when you love what you do, it becomes fun. You and Sara seem like you’re having boat loads of fun.
+02:56:10	Dr. William Cole:	You mean 20-30 sessions before we all get this...🙃
+02:56:13	Ozzie Stewart:	Thank you so much
+02:56:14	Eloise Mathieu:	thank you for your time, experience and patience.  Trusting the process 🙂
+02:56:16	Sandra Salem:	Gracias Ileana!
+02:56:24	Charissa:	Thank you both x
+02:56:28	Barbara Platteel:	thank you guys: you are AWESOME!!!!!
+02:56:33	Dietrich Busacker:	You really got us working!
+02:56:38	Sophie Duchesne:	you both rock so open and curious about our stress thank you
+02:56:40	James Wilson:	Thank you all for the assistance!! This class is challenging but it's great!!
+02:56:54	Tom:	thank you Tyler, Sara & Ileana
+02:56:54	Eloise Mathieu:	troubleshooting IS a skill !
+02:56:55	Nathalia Carbajal:	SO MUCH GRATITUDE!
+02:57:06	Laurie Mann:	Yes
+02:57:10	Dr. William Cole:	Hey Illeanna!
+02:57:15	Michaela Schuler:	Haha, very true
+02:57:25	Saskia:	Thank you so much! I appreciate how you try to teach this to us. It is difficult, but for sure we keep trying to get this up and running!
+02:57:25	Dr. William Cole:	Happy Ho Ho🎅
+02:57:26	Teresa O'Keefe:	You are both such great instructors.
+02:57:43	Laurie Mann:	Oh gosh!
+02:57:52	Isabelle Mickelson:	lol
+02:57:55	Laurie Mann:	LOLOOOLOL!
+02:58:03	IreneSF:	where can we find the forum that instructors are checking so we can get feedback on questions
+02:58:08	Laurie Mann:	It's ok, that would happen to me as well!
+02:58:13	Dietrich Busacker:	Friday is just 48 hours
+02:58:18	Khadijah Sellers:	That makes me feel much better
+02:58:21	Alberto Voli  Puerto Rico:	Likewise - Amazing rest of the week!
+02:58:24	Ceca:	Thank you so much..we won’t surrend-)
+02:58:30	Dr. William Cole:	Just like Brain Surgery...   It's Easy When You Know How to Do It!!!
+02:58:30	Giselle Fiumara - ETHERNAL:	Thank you both as usual!
+02:58:31	Laurie Mann:	Thank you all!
+02:58:32	Michaela Schuler:	Thanks so much - see you Friday!
+02:58:34	Daniel Wang:	Thanks to ALL!
+02:58:36	Tatiana Safronova:	thank you
+02:58:36	Alberto Voli  Puerto Rico:	ciao
+02:58:36	Hazel Mindvalley Team:	Thank you everyone! We will see you on Friday! 🥰
+02:58:39	Teresa O'Keefe:	Thanki you so much
+02:58:41	Sandra Salem:	Bye!
+02:58:41	Jason White:	no surrender is right! I've burned the boats
+02:58:56	Khadijah Sellers:	Thank you.
+02:59:02	IreneSF:	ileana- where is that forum Tyler was speaking about so we can get responses to questions
+02:59:04	Dr. William Cole:	I've Burned the Brain... Not the Boats
+02:59:12	Danika Holiday:	Both please!!
+02:59:15	Giselle Fiumara - ETHERNAL:	No
+02:59:15	IreneSF:	yes pdf
+02:59:16	Khadijah Sellers:	Yes
+02:59:17	Michaela Schuler:	Yes, would be nice
+02:59:18	Marie Ramos:	yes
+02:59:18	JEN K:	both
+02:59:18	Teresa O'Keefe:	Not txt. The txt is ok
+02:59:20	Gisli Rafnsson:	both
+02:59:20	Dr. William Cole:	Sure
+02:59:25	Raadi:	we need text aswell for GPT purposes
+02:59:25	Marie Ramos:	md is a nightmare
+02:59:25	Christine V:	Yes please
+02:59:28	Raadi:	Test
+02:59:30	Raadi:	Text too
+02:59:30	Danika Holiday:	Yes please… easier for me to read - at least instructions. / onboarding
+02:59:31	Cat Tabor:	Both please... one for Claude and one for us to read
+02:59:33	Teresa O'Keefe:	They are in the repo in .md
+02:59:34	DEW:	PDF please for consistency
+02:59:34	Ana Cristina de la Torre:	The .md will anyway be in the repo
+02:59:35	Raadi:	Text aswell
+02:59:35	Giselle Fiumara - ETHERNAL:	AI reads .txt better
+02:59:38	Dr. William Cole:	Text takes less room
+02:59:40	Michaela Schuler:	1 format is fine I would say
+02:59:42	IreneSF:	ileana- where is that forum Tyler was speaking about so we can get responses to questions
+02:59:44	Danika Holiday:	Thank you!
+02:59:47	Raadi:	AI reads .txt, please confirm both
+02:59:47	Eloise Mathieu:	thanks
+02:59:48	mea:	pdf
+02:59:52	Ana Cristina de la Torre:	Repo!
+02:59:54	Raadi:	AI reads .txt, please confirm both
+03:00:02	Teresa O'Keefe:	In the repo you can get the .md - no need to put on MV
+03:00:06	ileana - Host:	Question submission form: https://docs.google.com/forms/d/e/1FAIpQLSenm7XJl4h6tEnRzI9aMMWgla7WUxZCvzUrmwEvhJXv4GyNyg/viewform
+03:00:11	Giselle Fiumara - ETHERNAL:	Exactly, AI reads .txt better
+03:00:15	Gisli Rafnsson:	it takes time to get used to the md. but it is acctulay very good in claude code to use it here
+03:00:20	Patricia:	Thank you Ileana, also for your extra time!
+03:00:21	Khadijah Sellers:	That is what Tyler said
+03:00:25	Raadi:	thank you
+03:00:48	Gisli Rafnsson:	Thanks for amazing lessons
+03:00:49	Kamion:	Gratitude to all.
+03:00:52	Dr. William Cole:	Illeanna--- What do you want for Christmas?????
+03:00:52	Ana Cristina de la Torre:	You don’t need to Ileana.. the .md are in the repo directly updated through Claude.
+03:00:59	Giselle Fiumara - ETHERNAL:	Thank you Ileana!
+03:01:08	Ana Cristina de la Torre:	thanks!!!
+03:01:11	Kamion:	Happy Season of Light!
+03:01:13	Michaela Schuler:	Thank you, Ileana!
+03:01:14	Ana Cristina de la Torre:	🌲
+03:01:17	Michaela Schuler:	wonderful
+03:01:21	Dr. William Cole:	WOOOW!   Great!!!
+03:01:30	Alberto Voli  Puerto Rico:	awesome!  It is wildly starry?
+03:01:33	Teresa O'Keefe:	@Ileana the MD is on Github, if it’s difficult to have both, the .md is available for us there.  I see that the app has PDF, but the platform didn’t.
+03:01:43	Cat Tabor:	So awesome.. was just in Argentina.. so great
+03:01:43	Raadi:	That's beautiful ilay, stay safe :)
+03:01:44	Dr. William Cole:	Mut Bien!!!
+03:01:49	Dr. William Cole:	Muy Bien
+03:01:51	Teresa O'Keefe:	@Ileana - how lucky for you to be there in the Andes!
+03:02:18	Dr. William Cole:	Have the BEST Holiday with Your Familia...!
+03:02:23	Kamion:	I love high desert!
+03:02:25	Vicki:	Ileana, I'll be in BA next month and would love to know from you what activities I should focus on to get to know BA.
+03:02:27	Elizabeth Romero:	Bye Ileana!!!!
+03:02:27	Teresa O'Keefe:	Thank you as usual!
+03:02:29	Angelica:	Th
+03:02:30	Daniel Wang:	Gracias por todos.  Nos vemos luego!
+03:02:35	Teresa O'Keefe:	Thanks to Hazel too!!!!
+03:02:51	Elizabeth Romero:	than you for all your kindness
+03:02:54	Michaela Schuler:	Hasta luego!
+03:02:54	Hazel Mindvalley Team:	Thank you Teresa ❤️
+03:02:57	Giselle Fiumara - ETHERNAL:	Gracias Ileana!
+03:02:57	Ana Cristina de la Torre:	Graciassss!!!! Adiosss
+03:02:58	Sandra Salem:	Gracias!
+03:03:00	IreneSF:	thank you
+03:03:02	Dr. William Cole:	Chao!

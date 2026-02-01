@@ -1,0 +1,1113 @@
+AIM Dec 10
+===
+
+Ileana: [00:00:00] A
+
+Sara: whatever time when you're 
+
+Ileana: at. Hi guys. Hello. Hello. Nice to see you guys all again. Thank you for coming 
+
+Tyler: in. Good morning. Good morning everyone, or afternoon, evening. Goodnight. Wherever you're calling in from, I guess. 
+
+Ileana: Jeffrey says hello. Hello, Pascal. Hi everyone. It's so good to see you guys again today. As you know, we are continuing with part two of beautiful Sarah and beautiful as well, Tyler's series on building automations with AI agents.
+
+We had such an amazing turnout on Monday. Thank you guys so much for coming the bonus session. You guys all got a step-by-step walkthrough clearing blockers from part one and getting fully set up so you can move confidently onto this next stage. It was all about getting you guys unstuck, updated, and ready to build.
+
+It was super hands-on and really, really supportive as Sarah and Tyler are. So if you weren't able to join in live, I really hope that you had a [00:01:00] chance or make that chance to watch the recording. And today, as I said, we continue where we left off and we're gonna dive even deeper into this part too. So with that, welcome Sarah and welcome Tyler.
+
+Thank you for being here today. How are you both? 
+
+Sara: We are doing good. Yeah, we're doing really good. We're happy to meet you guys. Um, like you feel like our crew now, so we know you guys. Um, I, I honestly feel really comfortable with you guys, so, um, I hope that that's the, um. You know, sentiment on your end as well.
+
+If you're hearing like stuff in the background, hopefully you're not at, the gardeners are here doing the blowing, uh, Jason knows about this. It's full in Raleigh, North Carolina, and there's leaves everywhere. So that's what's happening in the background. Um, Tyler, our, how's things with you? 
+
+Tyler: Good, good.
+
+Really good. Uh, so we've just been working, we have a lot of, uh, answers for y'all too that we've been working to get sent back out into the repo. Like we've seen a lot of [00:02:00] the, the questions that have been submitted through and the screenshots. So thank y'all so much for doing that. Uh, rest assured that you're, you're helping us figure out and squash bugs that we didn't even know existed in some of this stuff.
+
+So that's great. All, and we are, are we sleeping? Sometimes we see, I have two little kids, so I, I don't sleep that much anyway, but, um, yeah, so we're getting all this solved for y'all, so, uh, just rest assured that you'll have responses back to those as well. Um, after this session. We can cover some of that during this session, but for now, we're gonna kind of switch gears and go into teaching mode, I think for, uh, the next part of this.
+
+Yeah, yeah. And 
+
+Sara: you guys know, we're like, uh, we're here to make sure that you guys get to the finish line and we're gonna stay over and all the things. And obviously we've got Friday as well. Um, so, um, because we've got like one demo section, I'm gonna share my screen today. I do have a, uh, a quick note for you guys.
+
+If you are [00:03:00] triggered by messy desktops, you might wanna just like close your eyes right now because I'm gonna share my screen and normally this is something that like, I think actually I can skip it. Uh, woo hoo. I skipped it. You guys are messy. There you go. You guys don't have to be traumatized by my messy screen 'cause it's, it's really, really bad.
+
+But I'll let you guys, uh, like maybe when we're, you know, maybe on Friday when you guys are chill, I'll show you how bad it is. But anyway, we'll get started. Um, yeah, 
+
+Tyler: every time Sarah does a screen share, we need to have like the soundbite from like the emotional damage, uh, if y'all know what I'm talking about from TikTok.
+
+Sara: Yeah. All right guys. Okay. We're here for part two now of our, uh, building our adjunct department. Um, so part one was about, you know, setting up the setting up plot code and getting our first agent underway and now we're gonna get our agent [00:04:00] team pulled together. So, um, like I just said, that's the recap in terms of where we're at in this journey.
+
+If a few of you are, are so kind of needing to get unstuck and then you've put your questions in the form where we're gonna process, keep processing through that, um, even beyond this, like this, uh, session today. Um, so keep a lookout for that. And then today we're going to be working on, um, on pulling together the ENT team.
+
+And the live demo part will be about these, the workflows that you need to kind of pull together and configure so that you're able to deploy this in terms of your, in your own environment. And then we're gonna go into a wrap up and homework and q and a. And don't forget, we have our session on Friday, so that's there for you guys too.
+
+Um, so where we were last week is, you know, really focused on the setup of the workshop, um, and connecting the brain, as you guys know. So like giving our agents the [00:05:00] information that they need inform that is contextualized and teaching our sugar agent, which remember the sugar agent is the, um, your version, like you were hired by Hattie Bees to work in their customer service department.
+
+And it is your, like the AI version of you reflecting your voice as someone who works for Hattie Bees, right? And today we're going to be pulling together the department, so the other agents in the agent workflow, um, and having them all be part of the, the team that collaborates to, uh, resolve, you know, customer service inputs, complaints, uh, questions that come in for Hadie bees.
+
+So the idea is that we are now able to be able to scale our Agen team in the customer service way. So like what we're trying to teach you around Hadie Bees is for you guys to get. As I mentioned, the experience of pulling this together for a case study that we can provide a lot of the scaffolding around.
+
+And once you [00:06:00] have that experience or the runs around it, then you can extrapolate it into your own, uh, like, you know, your own business, um, putting your own docs, that kind of thing. So I think we like talked a little bit briefly about the different, um, agents in the, on the Agentic team. So, uh, reintroducing them because this is, you know, now you need to, you need to know how they all work together.
+
+So cinnamon that is, I'm gonna say cinnamon and Tyler does it. Alright? Um, so think of cinnamon, think of the customer service workflow, right? You get it, um, uh, input that comes in. So cinnamon is like the agent that reads the room, right? That goes, uh, like what's the temp check on this? Is the customer pissed or are they asking a question or like, what is actually happening right now from the customer that we need to be aware of so that we know how to handle the situation?
+
+So that's what Cinnamon's role [00:07:00] is. Hatch is like the expert. So it's like the expert that has the, um, context around the uh, uh, hadie bees and the knowledge base and all of that. And has access to the librarian as well. The librarian is there to like be the bridge, you know, to go into the library to find the books, to answer the all done.
+
+Um, that's Tyler's, uh, agents in the background. 
+
+Tyler: Well, it's in the background. Y'all got, it's in the 
+
+Sara: background. Um, and so that's how like the librarian fits in because you need that intermediary to kind of like go and, and, and retrieve. Remember we talked last week about retrieval, augmented generation or rag.
+
+So this is what's happening there in terms of the context that's being brought in. Sugar. You guys hopefully are quite familiar with the sugar agent now we've, me mentioned them a few times already, but is the agent that's going to be responding in your brand voice as like the customer service piece and Bishop [00:08:00] is the quality assurance or QA agent.
+
+So this is the agent that's going to be like, uh, receiving the information in the draft and QAing it, right? Or evaluating the response, is this good enough? Is this how we would actually respond? All of that kind of thing. And holler is, um, the agent. That is going to like, gather essentially all of the information and the draft and everything and, and be and send it to you in Slack.
+
+And we're gonna go why? Into why. Like, you might be wondering, well why, why am I involved? Like why don't the agents just do themselves as this team and, and automate it all right? And we're gonna go through why our approach is to have what we call a human in the loop as part of the process in the beginning.
+
+And then you, um, you know, you have, you build up the degrees of autonomy by the more trust that you have in a system. Because remember, agents are tools that can reason, um, [00:09:00] plan and execute on your behalf. And you wanna make sure that you have trust in their ability to do the job right. So we're gonna go in a little bit into that.
+
+'cause I know that it might be in your minds like, why am I involved? Why shouldn't I, uh, automate it? So, um, here's how it all fits together. Hopefully you guys are now familiar with like the, this part of the screen in terms of like the VS code and cloud code and the stacks and how it interplays with N eight N um, and N eight N is, is essentially the workflows within that is where you're, your a I think there's six agents.
+
+I got that. 'cause I think it counted the generative filter as an agent. Um, 
+
+Tyler: yeah, sometimes it counts that or the library and the agent sometimes. Yeah. 
+
+Sara: Yeah. Um, this is where your agents live and where they're going to be doing the collaboration piece. Right. Um, so what's going to be happening in terms of like the flow is that like there, there's going to be an email that comes [00:10:00] in and then the agents are going to be like, you know, acting as your, your customer service department or Heidi B's customer service department.
+
+They're going to. But um, the hauler agent is gonna send the draft response in Slack and then based on your response, um, that re you know, gets sent out in terms of result with the customer. And that's gets, um, all that's all connected in eight in and gets logged in sheets. Tyler, do you wanna mention anything about the flow?
+
+Tyler: Yeah, I mean mainly like the human in the loop checkpoint that we create with the holler agent is a big deal because it helps not only ensure that we're just not gonna auto send an email that maybe is not in alignment with what we would want to send in one way shape or another. And it can also be used and recorded because we use the Google Sheets audit log to help record everything that's happened.
+
+And that helps with doing evaluations. Evaluations is something that's like quality [00:11:00] assessment, something that we teach to. We say that that is like the 1% skill of AI practitioners and, we'll, we'll touch on that a little bit, uh, in class today and on Friday on how we're gonna do observational evaluations, which isn't necessarily like.
+
+The full eval end to end, uh, for the sake of time, but it's helping you begin to understand how to use that audit log once you get this all set up and it's running to make sure that it's answering the questions for how do these correctly, that it actually sounds like you, uh, like all sorts of different things like that.
+
+Sara: Yeah. So this is again, like the just, you know, for, if you just want like the bird's eye view of like what the actual flow here. Um, we have essentially like the generative filter, which is a separate workflow that checks on like, is this like a newsletter or spam or whatever, right? Um, and then we have workflow one, which is where essentially the agents and everything are going to [00:12:00] be, um, interacting as part of that department.
+
+It gets sent to Slack, and then there's an additional workflow, which will be the workflow that is based on whether we are shipping that answer, we're revising that answer or that response and whether we're confirming. Right. Um, so the ma, the majority of the demo is going to be showing you like how to piece that all together.
+
+So that, uh, the things work together. So again, like just to, you know, go a little bit deeper in case that you, you were like, I had a, a couple of people, I think it was Mikayla, who was like, can we, can you just like paint the picture for us about how, like, where the tech is and why the flow works like this?
+
+So this is really for you Mikayla, and for anybody else who's more visual. Um, so that's essentially the flow. Again, just to go a little bit deeper in terms of like, um, where the input is coming in from, what's happening with the agents. Um, again, talking to the human in the loop [00:13:00] checkpoint. Um, so the agents actually do their job here in this level of the workflow, and they like collaborate together.
+
+They pass on information, they kind of generate what they, based on the, the context that they have based on the different expertise that they've been given as agents, what a good response looks like. But you are the checkpoint, right? That's, we say human in the loop, we just throw it around. But it, it's an actual AI term.
+
+It's an actual technical term human in the loop. Um, and you are the, the person who's like in the decision around, did your team do a good job at this stage? Is this exactly how we would want it to sound? Does this, like, do we feel like we could do a better job of, um, of, of responding? And again, like Tyler said.
+
+All of that data that you are building as part of that process gets logged so that you are building this kind of, uh, database, you know, not just off like, hey, let's, let's follow how the [00:14:00] issues get resolved and whether they get resolved and how they were resolved. But then you have a very valuable database in terms of what good looks like and what bad looks like, you know, and that forms, um, when we teach evaluations more and more around like how you can train your agents to do a better job next time.
+
+Um, and I think, I can't remember who it was that actually brought this up, um, where they asked about like, Hey, how do you do KPIs? Like do you introduce KPIs and is there like a way that you monitor? Yes, evaluations is essentially your quality control of, um, of how you monitor the, the, the performance of your agents, but not only from the point of view of like, Hey, the quality is good, but also let's collect through that process more, uh, like data points around what good looks like and feedback into our agents as training data to say, Hey, this is what good looks [00:15:00] like.
+
+We, we want more of this positive loop. We're, we're strengthening the system like that, but we don't have time to teach like a whole evaluation piece. But I just wanted to flag that because, um, Tyler and I'S approach, we teach building AI agents through evolution, not revolution. Um, and this is a core part of like, what we believe is like there needs to be a human in the loop, a human in the checkpoint in the beginning.
+
+So you can gain trust in your agentic team members. And as you get more and more trust in the responses, then you can like give more and more autonomy for your agents to be able, like you can pull back more and more and it become more of an automated cycle. But, you 
+
+Tyler: know. Yeah, and, and just like to add to this too, so that like, we're not gonna cover this in this course, but to show y'all where this can go too, is once you do the evaluations yourself and you have enough of those human evals in a system, then not only are you improving the system to [00:16:00] make it better over time because it can learn from that, but you're also creating the training data set for an agent that we've made a version of this.
+
+Lots of people will do this as well. It's called an EVIE agent, it's an eval agent. And, and it can be an LLM as a judge. So an AI that helps run evaluations for us, it can't do that to begin with, at least not on things that are, excuse me, subjective evaluations versus objective evaluations. They're kind of in two buckets there.
+
+So if we have a rule or a criteria that we want to have in place in this flow that's saying like, you know, never use emojis in your output. An LLM could be a judge for that sort of stuff pretty easily right out of the gate. What it can't easily judge, uh, right outta the gate is does this sound authentically like Sarah or Tyler, or is this absolutely correct in the way that we at Hattie Bees would handle this particular business issue?
+
+But when we do enough of those human evaluations, we can use [00:17:00] that dataset to train an EV agent to help us scale ourselves in evals. So that's like, we teach a whole, like 10 week long course on, on this end to end. It's like really in depth to get to that point. But I just wanna foreshadow of like, once you get these systems in production, um, like it's, we would be spending a whole lot of time running evals on all of our systems if that's all we did, and we didn't work towards having AI help us with that process also.
+
+Mm-hmm. 
+
+Sara: And like, you know, we, we, we warned you guys we're gonna be the people that anthropomorphize ai. And this is like the example, right? So when you hire someone, like, but this is what you're doing right now, you're hiring an agentic team, right? It's kind of like you're hiring an intern. When you hire an intern, you're not gonna just hand over the keys to the castle, right?
+
+You're going to, you know, you're gonna give them the guides, you're gonna give them the context you're gonna give them all of the stuff that we've taught you, like the context in your business, the training, all of that. A lot of the scaffolding we've already built for you. [00:18:00] Um, but you're not, when you hire someone, you're not just gonna be like.
+
+Hey, see you later, Ciara. Right? Like you might do quarterly reviews where you go, okay, these are the KPIs that I expect from you, like as this is your job description. Um, and these are the KPIs, and you're gonna give them feedback as to what good looks like and what bad looks like, right? And that's how you create a self-improving, uh, a system that gets better and better over time.
+
+So I want, we wanted to give you that, like, uh, even though you're not gonna be doing, uh, like the full blown evals, there's no way that we could teach this as part of the, like, the limited time we have with you guys. Um, but we want, it is so important to Tyler and I that you guys understand the importance of it, which is why we're kind of like emphasizing it a little bit.
+
+Um, and then it's up to you guys to kind of like dig a little deeper and, and, and, uh, and go down that pathway. Um, so yeah, just to, just to like, I guess go through the workflow again in terms of what's going to happen. And Tyler, like, we'll go [00:19:00] through that, but the customer email arrives. There's a, like a generative filter that goes basically, is this junk, does this need to get to passed on to the team or not?
+
+Um, and if it's not junk, it goes into, um, our agent, like the team, the workflow with the agent team, um, and where, where we have cinnamon who's like, okay, received input. How, how are we feeling about, like, what is the, the actual thing that is being asked? What is the sentiment around this? Is it a complaint, which requires a different way of handling it?
+
+Is it like a question about opening hours or something like that? Which is completely different, right? Um, and then our hatch agent is the, the expert on the business, which has access to like the knowledge that we need. Um, and then sugar again is the like receiving all of this input from the two agents and going, okay, now that we know what kind of, um, email this is, or this customer service type thing, [00:20:00] that's kind of come in, um, let's write the response in our brand voice, like as if we were the customer service representative, the AI version of us that works for Heidi B's.
+
+And then sense to Bishop, Bishop is our, uh, quality assurance agent, which goes, is this good enough? Like, is this, how does this meet the quality standard that we're looking for? And if it does, then that's passed on to the slight, like the human in the loop checkpoint. And from that process of the feedback that gets, you know, fed back into the system or sent or whatever, we're gonna go through this.
+
+So, um, but hopefully this gives you an idea of why you would want to have multiple team members, right? So think to like, if you were putting together a task force. Of like, uh, or a project or something like that, right? You would want someone who is like, oh, I'm, I'm great at marketing, or I'm great at like customer service.
+
+Someone who is like, I really know how to answer in our brand voice. Someone is an [00:21:00] expert on that business. Uh, someone who's like a qa, right? Like a quality assurance that very much describes like the skill sets that as you're thinking how, how to build agen teams. You're thinking, what is it, what are the skill sets that are necessary to make this work really well?
+
+And then you are mapping your agents towards those things. Um, and that's how you're able to get the level of depth versus having like one major agent that, you know, you overstuff with all of the, in the information, then you don't get great results. Okay. So, um, why does human in the loop matter, right? Um, this is like, you are still involved in the process, but you're moving from the doer of the thing to the decision maker of the thing.
+
+So, um, you are judging whether the team's done a good job and whether it needs to pass or be reviewed. So that is, uh, [00:22:00] your process of being involved. Um, and like we talked about, evals is a key piece to that. Um, and as you create more and more, um, scenarios and you feed the system more and more, uh, input and you're like, yeah, team's got it.
+
+Team's got it, team's got it. Then you can create like a, a better level of autonomy then just like if you literally deploy it out the gate and, and it's automated, especially in something like customer service where you know your reputation's at risk and things like that. Um, if you don't have that, then it is kind of like a recipe for disaster, right?
+
+So you want to have a human in the loop checkpoint to begin with, build that confidence, build the data about what good looks like, and then you can move to different levels of autonomy. All right. Tyler, do you wanna, um, take over in terms of what they need in the demo? 
+
+Tyler: Yeah, for sure. So we're gonna talk about a couple of different things now that we kind of go look at the infrastructure and what we're gonna do [00:23:00] as part of the homework for week two.
+
+And I, I fully recognize 'cause we've been reading and answering and responding to all the questions that have been coming into the form and even just like watching the chat that not everyone is necessarily at this stage yet. So just to give everyone a little bit more peace of mind, that's, that's totally okay.
+
+Uh, we still have today in q and a, we have Friday in q and a and Sarah and I will continue. To monitor that Google form to answer async as well as we keep going. Um, like this is like a difficult build, honestly. And it is, it's a new skill set that y'all are learning too, like getting in new tools. So just give yourselves a little bit of grace.
+
+I know we're trying to cram a lot of stuff into a few very short sessions. Um, so just I promise, like we'll get you all to the finish line. You just gotta, uh, have a little patience with yourself and also with us on that. So what we're gonna need for, uh, or already [00:24:00] have done in week one, the goal is that we would have our in a then cloud account active.
+
+We would have our Google AI studio account active and have our API key for that. We would have the, the latest version of the student repo, cloned and downloaded. We would have, um, our, our stacks set up. Ultimately we want to have the Echo workflow run so we can add the information into the stacks and personalize our sugar agent so that now in this week in like part two of this, we're able to connect into to Slack.
+
+Um, you're gonna need your open router key, which you should already have from week one as well, so that we can use, um, either open AI or, or a different, uh, model if you choose to do the classification. And then you're also gonna need to go into your, uh, N eight N account and. Connect your, your Gmail account and your Google Sheets account for OAuth right there.[00:25:00] 
+
+So we'll go actually look at this. It, it is way the, these parts are much easier than they necessarily like sound. Um, and Claude Code is trained to be able to walk you through this process as well. 
+
+Sara: Mm-hmm. Cool. Um, okay. 
+
+Tyler: And then, oh, go ahead. Sorry. 
+
+Sara: Oh, no, no, I was gonna say, uh, do you wanna go through the s slide or do you wanna just show them?
+
+Tyler: Yeah, so what we're gonna do too is y'all will need to import, uh, some of the latest workflows as well. If you've not done that, especially the week two stuff, uh, you're gonna need to connect the credentials, which you're gonna walk through here in a minute. We're gonna go through and configure all these settings.
+
+We're gonna need to set up a channel in Slack and make that our, our correspondence channel. And people have asked this as well, like, do we really need Slack? Do we have to use that? We just use that as a, a tool for this demo. You could slot that in for lots of different things. After class. Um, but it [00:26:00] gives us a way to interact with that hauler agent.
+
+And the hauler agent is the one that's basically coming in and checking in in that human and loop checkpoint. Slack is a really good medium for that because it's, it's such a, um, a robust, uh, tool and workspace and it allows us to kind of go back and forth and, and connect a lot of these workflows together with Slack is kind of that, that main point of conversation for us.
+
+Um, so we're gonna get that, we're gonna need to get the, our librarian set up and connected. Uh, then, then it gets into like testing and setting this stuff up. And honestly, like this is where, um, like just as y'all are seeing in like the week one kind of homework and getting things set up as you start building your MVP workflows, like their MVPs in a draft for a reason, like even when you get all these parts and pieces together and then you start running tests through it, you're still going to need to go and make sure that it, it's acting as you want it to.
+
+This is called obser observational evaluations. And so is [00:27:00] it actually. Piping things through the system like it's supposed to. Is it generating responses like what we want? And it's in alignment with that. Is it recording everything into, uh, to sheets like we want it to? Is it ping us in slack correctly?
+
+So it's, it's like end-to-end QA testing to get this thing fully dialed in because with anything with tech and especially with ai, uh, you're gonna run through this process of, of observational evals and q and a in here. So, uh, sorry, I think we have like one more or a couple more slides after this. Um, I 
+
+Sara: think this is it.
+
+This is just the demo. Okay, 
+
+Tyler: cool. Alright, so let's do this just to kind of walk through some stuff here. So let me share my screen and all right, let's pop over here into my end. Set up all y'all. So let me zoom in. Hopefully everyone can see this. That's a little too zoomed. Hold on. [00:28:00] There we go. Y'all. So let's do a quick walkthrough now that we're in it, in just to kinda look at these different, um, parts of all of this.
+
+You'll have two active echo workflows. So this is a, uh, an update that we have shipped. So if you have not gotten your Echo workflow working yet, um, 'cause I'm gonna kind of go back and we're gonna work our way through this entire, like how all these parts and pieces connect together, right? Um, you're gonna want to go and make sure that you do with Claude Code.
+
+Make sure that you pulled down the latest version of the student repo because there were some bugs that, uh, we had students encounter. We went in and tested multiple different fixes. You can even see in here, like where I've been testing stuff even this morning with some of the things that students had sent through to ship fixes that they were encountering or y'all were encountering.
+
+And so what this is gonna, 
+
+Sara: can you expand, uh, questions around that. 
+
+Tyler: Oh, is expand on we're [00:29:00] 
+
+Sara: Oh yeah, 
+
+Speaker 4: yeah. 
+
+Tyler: Better. Yeah. Better hopefully. Alright, cool. Um, so right here, like the first one is going to be this response trigger. So once Claude helps you get this set up, this is a very simple workflow. A few things that could potentially be like little stumbling blocks that, uh, Claude will help you set up, but just to call them out in case you're running into them.
+
+Is that on this last node right here, you want to double click into this? I usually switch this over to from list instead of by id. This is basically a node that's saying once this form is completed, where are we piping all this information to? And you can either do that by workflow id, which which is totally valid.
+
+I think it's generally easier to do it from a list. 'cause when you do that you can just click here and look at any other existing N eight N workflows that you have. You just choose the correct one. And also don't forget, this thing doesn't auto save, so you're [00:30:00] gonna need to save it anytime you make an update in here because it will not automatically save.
+
+I even forget about this from time to time. 'cause some of the other tools that we use do auto site save. And so I'll kind of get into a habit of either remembering to do that or not. Um, and you can lose a lot of work quickly if you forget to do that. So just heads up there, uh, over here as well. In the echo form.
+
+Once you have this set up and you're ready to test it, make sure that when you have these two flows toggled on, you're using the production URL right here and not the test URL. You wanna do this, copy it, and then come over here and paste this in. This gives us the form to do our Echo brand voice analysis.
+
+So you're gonna put in your email, you're gonna select personal, your name, and then your mega doc information is gonna go in here. You're gonna submit that and then once that happens, let me pop back over here into the workflow. [00:31:00] Uh, a quick way to make sure everything is working properly on anything in it.
+
+In is right up here in the center section. You have editor executions and evaluations, executions shows past runs. So right here you can even see, like, I've even been like running this multiple times this morning, like QAing this for some folks. And when I run this through, you can see this is the run, this is how long it took, if it was a successful one, if it failed, if it fails, it's gonna give you an error message like this so that you can come in here and click on this node and even right here, you can expand it further and copy this to give that back to Claude code to help you debug this.
+
+So again, remember, uh, like SAR and I shared that document last week that was, you know, prompting your way out of problems, beginning to, to use that mentality change. And when you hit blockers, [00:32:00] taking it back into an LLM like Claude code to help problem solve this alongside of you really helps keep this momentum moving forward versus just getting stuck like you might otherwise, or spending a lot of time researching on Google or YouTube to try and, you know, figure out how to fix it.
+
+But this, uh, basically shows that it's running successful. Once that completes it then sends it over into like our Echo brand voice analysis workflow, uh, where it's going to enter in. Do all of the analysis here, do the XML snippet generation, and then email that to you. Uh, same thing here. You can look at the execution section to see when these are executed properly and they run, um, and even be able to have Claude code go in and look at that as well.
+
+So I'm just trying to rehash this 'cause I know that like from the, the questions that we've been getting and even what I was seeing a chat a minute ago, like this has been a stumbling block for folks. So I would encourage you to [00:33:00] like, number one, talk to cloud code to make sure that you have the most recent patch or the most recent download from GitHub.
+
+And then use that to like, go through and update what you've done. You're not gonna lose existing work. It can go in and like help fix, uh, like where you might have hit a block because other people have run into those. We've debugged them on our end and then sent the update to GitHub. Uh, so that's what we have here.
+
+And then once this completes, it sends, uh, an email over here to you. Let me get over here to the like where it is. Uh, lemme see here. Brand voice. Lemme see if I can find one here. Brand voice.
+
+There we go. So you'll get an email that is sent to you in here, uh, that'll just read like this, and you'll have two different files. Uh, this one, the, the second one that actually has your brand voice analysis in it should be pretty comprehensive. It should have like quite a bit of a writeup in it [00:34:00] because each of those nodes, uh, that do the brand voice analysis do up to like 4,000 token output each, which is, is quite a bit of text.
+
+It's not saying that we'll ne necessarily use up all of those tokens, but, um, it, it could. So depending on how much information you give it to work with as your input information will be the output that you get here. And then you're also gonna get the XML snippet right here, which is you're gonna take back to Claude code and use that to have it help you personalize your sugar agent, which is like your email type agent.
+
+So it sounds more like you. This one is the one that we're gonna go and add into our, uh, stacks or upload into Gemini. So just again, like trying to close some loops here on some previous, uh, work that we have all been doing is, let me go and just quickly spin up my local host right here. I might have it spun down.
+
+I need to reopen it. I do. [00:35:00] So let me do that one second y'all. Um, let's see here. Can you spin up the local host of the stacks for me to demo live, please? Thank you. Alright, cool. Alright, so while that's running, um, like that's, that's what you're gonna see here. The other thing, so we can kill two birds with one stone here, is when you are doing your Echo brand voice analysis in this workflow to have this work properly, there's a node right here at the very end that you're gonna need to go in and set it up.
+
+Google is, I mean, not Google Cloud Code is not gonna be able to do it on your behalf. So if I'm in the editor of this and I come to this node, when the template is installed for you, uh, you're gonna click on this and up here you're gonna see credential to connect with. And this, if you've not ever set up a Google account or Gmail account, rather within your [00:36:00] NAN account, this will be blank and you're gonna need to do this.
+
+It'll probably just say like, create new credential. You're gonna click on this. Uh, it knows that you're trying to create a Gmail credential. So you could name this, you know, whatever you'd like. Uh, I'm just gonna call this one. Let's do it with a different email. I'm just gonna go, uh, galactic Ranch, and then I'm gonna just simply sign in with Google.
+
+This is much easier to set this up on the Cloud eight in account because it allows us to use OAuth. Uh, which just looks like this process versus if we're doing it on a self-hosted version of NAN, it's a little bit more involved to do this. Alright, so just that simple. We have now connected our, uh, Gmail account and it shows up here.
+
+So if you have multiple Gmail accounts that I do here, I have a personal one, a business one, and another business one here, you can select the one that you want to email you from so that when you get your [00:37:00] brand voice outputs, uh, it's sending it from that email. Plus we can use this same inbox, uh, in our next nodes that we're gonna be setting up in the week two workflows again here in a second.
+
+So that's one of the credentials that we needed to go in and set up as a prerequisite for this coming week. Uh, let's see here. All right, so I have my stacks set up here. So let's come over here and look at this. Uh, once this loads and for me to get this working too, by the way, y'all literally all I did was I went to cloud code, um, I asked it to, uh, go ahead and my, my stacks was already kind of like set up and installed from the template and I had to go ahead and just like spin that up and local host so I can go and test it.
+
+So if you've done the work from week one where you're setting up your, your web hooks that power the backend of this, you have your AI studio, Google, API Key, and, uh, cloud code has helped you do your initial [00:38:00] setup of the stacks. Then this will launch properly for you. And if you have, are blocked on any of those things, like please submit the questions in either q and a in here, in Zoom, or send it through to us in that form, because we've been helping get folks, uh, like unblocked on this too.
+
+Uh, there's like all sorts of different things that people can encounter based on like different kinds of machines and, uh, what sort of, of, um, like scripts and, and credentials they have installed on their computer already or, or not. So that's why we're trying to solve these on a case by case basis. Uh, again, we have shipped a new commit on this even as recent as this morning.
+
+So if y'all go and, and make sure that you've pulled down the most latest version, not only could it fix the echo thing that you might be running into that someone else ran into it might fix that for you. Same thing for the stacks here. Uh, so once this is up, you're gonna need to initially put in your API key [00:39:00] from Google Gemini.
+
+Sara: And we, um, there's, because you mentioned about the Google Sheets mm-hmm. And everybody, like, there's about seven or eight people asking the same question. Like where, where do they, how do they receive the responses essentially? I just wanna, because people are asking regularly in the chat, so I just wanna make sure it's answered.
+
+Like, as in where do they access that, basically? 
+
+Tyler: Oh, oh, where do they get the responses from? The form you're saying? 
+
+Sara: Yeah. Yeah, essentially. 
+
+Tyler: I see like as, as we're answering those, we are pushing those back to the, actually to the GitHub, um, repo publicly, so that if someone else encounters a similar problem and they're talking to their Claude code, it'll not only be able to look at the latest documentation, but see our answers to people's questions.
+
+So have, uh, Claude code go pull down the repo and see if your answers are in there. That was basically the easiest way we could think of to triage, um, like all the different [00:40:00] inbound questions that we're getting without having to have the Mindvalley team, like individually send out responses to all of you.
+
+That would be, uh, like a big pass ask of them 
+
+Sara: when we finish from this part. Um, 'cause people are asking like, how do I actually go do that? We'll, sh like, we'll get Tyler to show you how to navigate to that. 
+
+Speaker 4: Yes, for sure. 
+
+Sara: Yeah, 
+
+Speaker 4: because 
+
+Sara: like there's like 17 people who were asking about that, so I'm like, let's just deal with it now.
+
+Tyler: Yeah, no, great question. Yeah, we're responding back to 'em, like as we go through 'em, there's a lot of them in there, y'all. So if, if you pull it down and your question isn't answered yet. Like, rest assured we are gonna get it. We're just like it take, there's been a lot of questions, so we're trying to make sure we answer 'em and give everybody, um, like the individualized attention that we can there.
+
+So, all right, so now that we have this page pulled up, um, you're gonna need your innate n Web hook, you base web hook, so that you're gonna have, after Claude helps you set up all of [00:41:00] the knowledge based web hooks that you have over here. Let me show you here. Um, in, in, in aid, in, so like I have all these Gemini, like the list documents, delete documents, upload, create, store, all of these different ones through here.
+
+Claude will help you set these up. And this is what was like personally being, um, a part of what was being a blocker for us. Like we shared early on our N eight in cloud account. Um, the web hooks are, are our screwing up and it's just like local to our own account. Um, we've even still been working with their team as even this morning trying to get past that because that's been super frustrating.
+
+Uh, so I did a workaround. I got all of these set up for myself in here in a, a self-hosted account and point to it Clogged helped me do that. It knows what the webhook URL needs to be and that is what I would go and pace back in right here. And you can just ask it if you're not [00:42:00] sure. And if, and if it doesn't know, then that means it probably hasn't helped you set them up all the way yet.
+
+And we'll walk you through that process. The API key right here is your Google AI studio key that you need. So again, that's like you've set this account up when you're in the dashboard over here, when you first land in, this is what it looks like down here in the bottom left hand corner is where you're gonna click on get API key.
+
+And if you've not made one yet, you're gonna need to create an API key and name it and assign it to a project. Uh, so I have already done that. So I'm just gonna grab my API key from right here, copy it, go back over to my stacks and paste it in. So now that we have that, I'm gonna just save my API key so that we're all good.
+
+And boom, once it did that, it will update. So any sort of files that you have, al if you've uploaded anything to it, or even if Claude Code has uploaded things directly to [00:43:00] Gemini on your behalf. 'cause we've had some students have that issue and Claude kind of help them troubleshoot it and just pushed it to it straight for them instead of going through the stacks.
+
+Totally valid. It works the same. Remember, this is just the front end UI that's calling that backend in Gemini. So if Claude, uh, like there's more than one way to get about this and if Claude wants to solve it in a different way, but the end result is your stuff is still getting in the Gemini, uh, file store, then like that's success.
+
+Um. Right here though, in the stacks is where I can see all the different stores. The stores, if you remember, are like sections of the library where we're gonna add our, uh, different kinds of documents to for the rag ret retrieval process. And if you need to like delete anything that's in here, so if I come in here and let's just find one I can delete.
+
+Here's a, a QA test store. There's a button right here that will allow you to [00:44:00] delete the entire, um, store out. So like, not only just the section, but all of the pieces that are in there that allows you to delete it. Um, if you need to create a store for the first time, you can do that down here, um, in the settings section.
+
+Uh, so you can name it whatever. So I'll call this like mine. Uh, let me do this right here. So create a new store. We'll call this Envy, uh, live demo week two and create. You see that it's telling me down here that it's done it properly. If we look in the activity log here, it also is recording that so we know what's been done, uh, in case we ever need to share that with Claude.
+
+And if we look up here, uh, occasionally it'll say like, undefined initially, and you might have to like refresh to get it to populate correctly. Um, and then it'll start showing up, up here, um, when you create your stores. Then once you have that done [00:45:00] and you're adding things to it, it's pretty intuitive.
+
+You're just gonna be adding your documents in here and what that will be is so, so I'll back up for a second. You're gonna need, when you run your, run your Echo workflow and you download that, uh, right here, I think this is a good one. Yeah. Right here is an example. I have my brand voice that I pulled down from a test earlier this morning.
+
+I'm just gonna upload that. It's going to give me a success right here. And then it will show up in here and also log it to the activity log. So now that we know that, you know, this brand voice analysis one is added into my rag system, we need it in here to be accessible to the librarian agent, which we're gonna go look at and it in here in just a moment.
+
+So I know I'm going through this fast, y'all, this just 'cause there's so many like, moving parts and pieces to this system. I'm trying to make sure that I'm, I'm touching on each of these so that we can connect the dots here and, uh, help pick up people from where they are in this process too so they can follow [00:46:00] along.
+
+Uh, the other things that we're going to need to upload into the stacks are going to be, uh, the documents that we provide y'all for, uh, Hattie Bs for the knowledge base. So if we go and look, let me pull up my repo over here. If we come over here and I'm in VS. Code now. And I'm clicking on the upper left hand corner on the Explorer, and I'm gonna open a folder and I'm gonna go and look for my student demo in here.
+
+So I have one that we did from the other day. I think this is from Monday. Yep. Cool. And it populates it, it even brings back in the chats that I had open when I close this out. Um, the first thing that's a good habit to get into would be spin up a CLA code and let's just ask it and see if there is, are any new commits, uh, that are we would need to pull down to update our local [00:47:00] repository.
+
+Hey, Claude, I need you to go and check and see if there have been any new commits to the public student repo, uh, to see if there's any changes that need to be downloaded to my local repo here, please. Thank you. All right. So I'm just gonna do this. This is always a good habit to do, not only in this course, but um, for instance, we we're working on a project at AI Build Lab and there are, what, six of us, I think, working on the same repo, asynchronously of each other.
+
+And as we're doing work in that repo, uh, each of us are are doing work making edits, updating 'em, pushing 'em back up to GitHub. And so we have to get into a, a pretty regular routine of communicating with each other when we've pushed updates and people need to go and do polls. Or even if we forget to, like, we're just getting to the habit of going and checking frequently to pull things down.
+
+So as we can see, there's been several new [00:48:00] commits 'cause we've been pushing updates here to help address things that, that folks have been running into. Uh, so I'm gonna say, uh, yes, please go ahead and do this poll so that my local repo is fully in sync with the latest updates from those commits, please.
+
+Thank you. All right, cool. So Claude's gonna go do this on my behalf here.
+
+All right y'all. And while that is working, I'm trying to remember 
+
+Speaker 4: all done. 
+
+Tyler: Think here where I was going to next with this. So it was stacks. So we have the stacks in here, we have the repo, we have this pulled down with the latest commit, uh, right here. And what was the next thing I was getting ready to move to?
+
+Sorry, y'all dad. Brain moment here. Um, yeah, I mean, like, that's, that's, that's the next part. I think I was just trying to get that up and active so I can move on [00:49:00] into N eight N to show you where we're at next. So the next part would be if we come over here and I've gotta remove that API key, uh, over here into N eight N.
+
+Let's look at what this now, uh, looks like. So we've covered echo brand voice and how we would get that up and running and what we do with that information. Ah, I remember what it was. It was over here. We're going to need the demo documentation to add into the stacks. That's why I was trying to pull this up.
+
+Um, so if I'm in the repo and I look at demo Hattie B'S knowledge base content, there's gonna be uh, 1, 2, 3, 4, 5 different files right here. That is Hattie B's specific information that we've already created for y'all on your, uh, behalf. So you don't have to go and like gather all this to add in there. And this is stuff like the menu, some information about their [00:50:00] locations and hours around it, policies that they have to show.
+
+What is the kind of information you might want to put into this second brain system for the AI in here? Uh, it's not limited to just this 'cause we wanted to keep this somewhat simple. Uh, like on on top of this. This could be like website scrape of the entire website. It could be much more internal documentation on top of this.
+
+It's a really good exercise as well, not just for this project, for for any project where you're gonna be building out, uh, some sort of a vector database to go along with this to ask an LLM to brainstorm with you. Uh, like, here's what I'm doing, here's what the goals are of this. Here's how this is gonna be used once we get it into production.
+
+What are some good types of information that we should be thinking about to go and gather and add into our, our library to our rag database in there? And that can help you brainstorm to think through [00:51:00] beyond the class, uh, what sort of things do we wanna put in, like, like we're providing you with here.
+
+And we can, like, on Friday, if we, if we have enough time too, we can even get into how did we make these so that y'all can see, uh, how do we come up with this stuff? 'cause it's all from publicly available information and we use deep research to help with that. It's a really good use case for deep research is creating, uh, rag knowledge based items, uh, that we need.
+
+So, all right, so we have this, we need to get this into the stack so that we have it ready for our week two homework stuff today. Uh, and we do that by going back over into our stacks, clicking on, uploading the file. We're gonna navigate to our repository on our computer. So I'm just going to this exact same repo that I just showed a minute ago just on my computer clicking on demo Hattie B's knowledge based content.
+
+And there's those same five documents right here, [00:52:00] and I'm just gonna click open and it should update all of those into here. So there we go. It's uploading, it's giving me the success down here. There we go. All of 'em got loaded in. And then if we look down here, we should see that also in the activity log.
+
+And if they all updated successfully, then we're, we're good to go. We can check this off of our list. Alright, cool. So now that we have that, let's pop back over here to our workflows. So at this point we have, we've done our echo, we have our knowledge base set up with the stacks. We've now successfully uploaded information into it on our, on our brand voice as a, as a individual.
+
+And we've uploaded the five different knowledge base items for Hattie Bees that we are providing y'all. So the next part is that we're going to need to get y'all to set up the five different kind of like production workflows that actually make this whole email system work end to end. So let's just start here [00:53:00] at the very beginning and talk through these and then I can go and show you, uh, how we would, how I would do this in Claude code to have it, walk me through this process.
+
+So the email classification, this is the upstream filter right here. And this can be a little bit like it, it works really well, but it can be a little bit tricky when we're trying to set this up for Hattie Bs. And we're not Hattie Bees and our email isn't Hattie bes and all this sort of stuff. So when it's looking at emails coming into your watch folder here, uh, and it's classifying them, you're gonna want to like get all this set up and then test it with several different kinds of just synthetic emails that you can have claws spin up for testing this workflow out to make sure that it's actually going through the pipes here correctly.
+
+'cause what this is doing is like once clog imports this into your N eight n, you're gonna want to click on this first node right here. And again, you're gonna choose the Gmail account [00:54:00] that you want to be the Hattie B's customer service email account that people, um, clients would be sending stuff to. So it obviously it's like fake for this class, but I just chose my Tyler AI Build Lab email account.
+
+And so anytime a new email hits this, it runs through a filter and then if it passes this initial filter, um, it'll go ahead and send it on down here. And if it doesn't, it skips it and goes ahead and records it to Google Sheets. So now's a good time to go ahead and talk about right here in Google Sheets.
+
+If you've not set up this credential yet, this is the same process for setting up any credentials within in a, in cloud accounts is you're gonna click on this and you're gonna click create New Credential. And it already knows that we're looking for Google Sheets. So I'm just gonna go ahead and let's set it up for something different.
+
+I'll call this one like, uh, galactic Ranch. Sheets. Uh, and that's like ranch, like farm, not like your, your favorite [00:55:00] salad dressing. One of my friends, like, she made a, uh, um, a funny like, what was it, it was Midjourney image of like, this looks like Hidden Valley Ranch, but it was Galactic Ranch, like space themed.
+
+It was, she was busting my chops on my, my business names. Um, okay, so I've successfully added that in. And now like again, I have Galactic Ranch sheets connected as an account to choose from this list. Now I'm gonna switch it back to my other one, 'cause that's one I've been working on. And that is the Sheets account that you're going to be.
+
+Now you have your, your credential in here and you're good to go on that front. Uh, same thing down here. Uh, this is going to be the Gemini Flash model. And for some of y'all, uh, if you want to go ahead and use your API key from Google AI Studio and start building up your, your street cred in there to get your rate limit raised, because you're gonna, you know, go up tier with them, [00:56:00] uh, you can use that same API key when you're setting up this credential here.
+
+If you, you don't want to do that, you can just as easily swap out this node or have cloud code help you do that for open router. And you still want to use, uh, like something like a Gemini Flash, 2.5. Or it could be like KU 4.5 or uh, open ai, um, chat GPT, like 5.1 mini. You want to use like one of these like mini or, or fast type models for this specific use case.
+
+'cause what happens is the email hits this little node right here, it sends it to the model and it's looking at it and it's saying, Hey, is this customer service email? Is this spam, is this an internal email? Is it something that's been just automated or is it something other, it's trying to assign a, a classification to it and it logs all that here.
+
+And then down here it hits this little gate and it's determining, [00:57:00] you know, is it actually a customer service email? If yes, it's gonna send it on out the exit ramp to go onto the next workflow. If not, it's gonna send it here, kill the workflow, and be like, Nope, we don't need to burn any more credits on this.
+
+So by using this flash 2.5 or a similar model, it's really inexpensive to basically like watch your inbox tag and classify emails and then I use it as a filter on if we want to keep, let, let it pass, go and continue on down this waterfall right here. So that's, this the kind of the first step in this process.
+
+The next part, uh, let me make sure, see if I wanna save this or not. Bear with me. Make sure I didn't change my email. So that's my Gmail account. That's correct. All right, cool. I'm gonna save this. I don't think I did anything to break it. Alright, so that's the first part. The second part is it's gonna go into this email [00:58:00] processing pipeline.
+
+So this is like the big, where a lot of the work is getting done, kind of chunk right here. And what happens is this is the entry point. So if it passes go in that previous step, it's gonna send it through in here. Um, from here, it's now gonna go in and tag the emails. Uh, mine actually was giving me some issues when I was trying to debug this for a, a student earlier.
+
+And, and so something like a tip as well. Uh, when you're working on debugging something with Claude, it's very, it is like anything in the future when you're doing stuff in AI and like building workflows like this, uh, it can be helpful when you're running into, um, like issues to toggle off things that are becoming like a blocker.
+
+Get the workflow running and then toggle, like add those pieces back on. So for some reason, um, we had a note from a student that was having [00:59:00] issues with the tags here. And I think that the ultimate, like what I had come to figure out is like they, they didn't have the labels set up in their Gmail account.
+
+And so that's what was causing this to fail. Um, and so like, but in the meantime to keep from like getting here and hitting blocked and getting here and getting blocked every time, having clogged, deactivate some of these things to like get down to the root cause of let's get this thing working, then build it back on and toggle stuff back on.
+
+That's a little tip that you can do, um, not just for class but just for out in the wild as well. So it's taking the email though, it's giving it to the cinon agent. The cinon agent is then going to do the, the vibe check analysis or the sentiment analysis on it. It's gonna pass it over to the hatch agent, who's the expert agent and, and answer it.
+
+It understands completely that it is not going to be talking to the customer that's in the system instructions for all of these agents, minus the sugar [01:00:00] agent and the hollerer agent Sugar knows that it's writing, customer facing, facing emails. Hollerer knows that it's talking to us. The, the people team, the other agents know that they are just doing agent to agent communication and they're not talking to the the front end customer.
+
+It's a really important distinction anytime that you're writing system instructions for an agent, that you give it that context of what's the set and setting that it's working in and who is it working with and how does it need to communicate to them and all of these sorts of things. Uh, and and someone asked earlier too in the chat on like, where, where does the brain or where does the instructions for this stuff live?
+
+Uh, and that's called the system instructions or system prompt and an N eight N. If you click on the actual agent, uh, that's gonna be right here. It's the system message is just what they have it labeled in here. So we already provide y'all with the agent instructions for, uh, [01:01:00] all the agents in this workflow.
+
+Normally, uh, we would make y'all build these from scratch, but for the sake of time and like us not being able to teach that completely end to end, um, we are providing you with the agent system instructions and then you're updating and personalizing the, the sugar agent, uh, so that it sounds more like you.
+
+So you are going in and doing some updating in that way. 
+
+Sara: Yeah. If we have. Todd, I just wanted to make sure everyone understands that. 'cause like, uh, people want us to go back and do the bigger picture as well, but to Todd's, uh, just double clicking on there. 'cause I know that you guys worked on customizing the sugar agent.
+
+Mm-hmm. You don't have to do that with the other agents. Like we have set up the process so that they're templatized. Um, so that like, you know, if you, if we were creating these agents from scratch, we would take months like doing these classes to not months, but, you know, we would need a lot of extra time.
+
+So all of the other agents are now templatized for you to be able to use essentially. 
+
+Tyler: Yeah. And, and like [01:02:00] here, hearing a little bit, like once we kind of get through week two kind of stuff, I had pulled up to walk through the methodology that we go through to create an agent from scratch. Like any kind of agent, whatever that might be.
+
+Uh, so like we can show that again, uh, here, like towards the end of class. 'cause I think that would be a really useful exercise on how do you even come up with system instructions. Um, from, from zero, from like idea, right? Uh, so right here, this is the Hatch agent and the hatch agent is the expert agent.
+
+And if we look through this. Um, this is the entire system instructions. It's telling it, uh, the, the context, its role, the tools that it has available to it. Um, the output format that it needs to be printing its output in any criteria that we have for it. Um, potentially like shock prompt examples could be in here too.
+
+That's like, uh, not only the instructions, but telling it how to go do a thing as well. So you can look at those in [01:03:00] here if you're interested in how those work. And then the user prompts, this is, if you're using like chat GBT, let's say like that front end product, uh, you don't necessarily get to change the system instructions on that, like OpenAI does that for you.
+
+So when you're prompting in the text box in there, you're sending through user messages. So that same kind of location here in N eight N is like in this field, in the user prompt. Alright? Uh, so like we have a, like, again, so the backup for one step, uh, email comes in from the filter it pass go that it was a customer service email that we actually need to respond to.
+
+It gives it to the cinon agent, the sentiment analysis agent. It then hands it over to the expert agent. The expert agent, uh, in, in mind, because I've been troubleshooting for some folks, is gonna be connected to the librarian tool. So it's connected to our knowledge base to be able to query against that.
+
+It will also be connected with a, [01:04:00] a tool to do web research as well. So if it needs to, it can go out and look up things on, on, you know, up to date information off of the internet, uh, to either validate or find out something that it doesn't know or, or isn't in its, um, knowledge base. Let's say the sugar agent then gets the handoff from both of them and it's gonna write the V one draft of the email.
+
+This agent, again, is connected to just like a simple short term memory right here and, uh, the librarian tool as well, because sugar's goal is to take the input from the other two. Think about this and write an email that is on brand for Hattie B's. It sounds personally like, like me or, or you for your brand voice.
+
+And it even uses this tool right here in the library to go and double check. Like, do I do, I actually sound like Tyler, how would he phrase this? Like, it sends queries into the librarian agent and they respond back to help them sort through that and print their draft [01:05:00] out after we get done here. This is what we call with the, the, the toast method.
+
+If y'all remember my, my like silly dad story of like toast and, and this sort of iterative process. We, we do that in evaluations. We do that when we're making agents. We even do it in line in the workflow. So that's what you're seeing here is that we had sugar tri thing, it wrote the email one time. We have it quality assessed by our bi bishop agent, who is the quality assessment agent.
+
+It also is connected to the library and tool so that it can go and fact check things to make sure that it's proper. Um, once it determines if it passes QA on the first time and it's ready to go ahead and send it, sends it on, uh, one path. If it determines that it does not passco on, on the quality check, then it sends it to this other flow down here where sugar gets back the email that it wrote.
+
+It gets bishop's input, it gets all the input from Cinon and, and the Hatch [01:06:00] agent, and it gets another try edit, and it knows that it, it is on a v uh, like on its second try. So that it, it knows how to like what it did right where it fell short and what it needs to go improve on. And that's what it's writing right here.
+
+From here, it hands it back to the Bishop agent for quality check yet again. And if it passes, go from this step, then it's gonna swing on up, log it here into sheets, and send it over to our hauler agent to be able to brief us in Slack. And if, uh, we have not, uh, if it does not pass go, then it can send us, uh, kind of more of a stock message that's telling us that, Hey, this thing has tried writing an email twice, it's failed twice.
+
+You need to come and look at it here in, in eight in, and it sends it to us in that way. Uh, so that's what this bottom path is right here. Which brings me to the next point. We need to set up Slack. So this is yet another credential here. So if we click on the Slack node, if this is your [01:07:00] first time doing this, you might not have a credential in here.
+
+So this is just gonna say create new credential. So you're gonna click on that and here, uh, we're gonna use OAuth again. So you're just gonna click connect my account. You ju if you, if you don't normally use Slack or you don't have a Slack account, you just need a, uh, like a free account. You don't need to pay for anything there.
+
+'cause we just need to go set up a channel for this to work in. And so I've connected this to my Galactic Ranch workspace. Uh, I'm gonna click allow. Alright, cool. And once that is done, if I go back over here, it's showing connected and now I can choose between my different accounts. So in fact, let me choose this and I don't know if I can edit this right here.
+
+Yeah, there we go. All right. So we're gonna call this like Galactic Ranch Slack. So now I have this set up in here, not only for this workflow, but this [01:08:00] credential is in here at a system level. So any other workflows I want to use with Slack or, or, or Gmail or Google Sheets, you already have that credential set up to be able to use out in the future as well.
+
+Alright, so you, you need to do that here. And then there's another Slack node right here. So if you need to go and select that correct account also, so in case, uh, like once you have the credential, it's like it knows which account to use in both of those nodes. Right here, the same thing is true, like I have mine grayed out and deactivated at the moment.
+
+But there are these Gmail steps in here also where throughout this process as it comes through, it's, it's going and updating the label or the tag within Gmail on that customer service message. And so the same thing here, like we would've already had like added our credential for our Gmail account at this point.
+
+So we just need to make sure that we go through each and every one of those nodes and [01:09:00] set up the, like connect the correct Gmail account to it. And that way as it passes through, it'll add the labels. I can tell you as well, uh, if Claude forgets to walk you through the process of adding these labels into your Gmail account, uh, you're gonna want to have it help you do that so that they matched exactly with what it's gonna label it in this workflow.
+
+And like, that's super simple. That's literally like coming into your Gmail account. Um, uh, coming into like, lemme just see if I can find, uh, here we go. Let's find an email I can show here. So like here, uh, this is like the labels I'm talking about. So you can go to like, manage labels or create new, uh, so you just come in here, create new labels and make sure they match verbatim.
+
+Just have Claude give 'em to you to copy and paste in here so that you have each label that it might use, created and saved in your Gmail account. And that way you won't run into any sort of errors [01:10:00] there on that front. Alright, y'all, um, so let's come back over here. Alright, so that is, uh, that gets us most of the way set up in this flow.
+
+The only other thing that again, uh, might become a point of confusion, and it's only because like, there's more than one way to do this. Uh, in, in each of these agents right here, you have the model right here that's connected, that's going to power this agent. And so if you would like to, and you have the API key already for Anthropic or open AI or, or Google Gemini, you can put that note in right here.
+
+Or, or have Claude Code do that for you. And if you don't have that yet, or your rate limits aren't, aren't high enough for that yet, you can use Open Router for that and have Claude switch that out. So just to kind of like, I have Enro connected right here directly on mine. If I disconnect this [01:11:00] temporarily, this plus button is here.
+
+So I can click on that and I can go and look for, uh, let's just go look for Open Router. I can add Open Router in. Let me move this over here so I can see. There we go. And I've already set up an open router account, um, at, at this stage in the game. Most of y'all would've already done that as well, but just in case you haven't done that yet, uh, you're gonna click on Create a New Credential.
+
+This one's a little bit different. It's looking for an API key instead. And so to get this rolling, uh, I'm gonna call this like open round or Mindvalley Week, week two demo here. Cool. Is I'm gonna go and open up Open Router. And if y'all, y'all remember, this is like, uh, Airbnb for, for LLM models. They have, uh, like a, just a, a huge amount of models that you can choose from and use.
+
+And they all work at this same API [01:12:00] key and it's all pay as you go. Um, and they charge the rate that the providers themselves would be charging. So once you're logged in, you're gonna click on Keys up here. You would click create Key, you're gonna name it. I'll do. So now I'm just gonna call it, uh, Mindvalley Week two demo.
+
+We'll just stick with this. Uh, let's go live demo. Cool. You can put in a limit here for like a dollar amount if you want to. You can have it reset, uh, if you want to as well or have an expiration date on it. I'm just gonna leave these blank and just let it be the defaults and hit create. It's then gonna give you a key here.
+
+So I'm gonna copy this. You need to be able to, um, like copy this and you'll paste it in right away. 'cause if you close this out, uh, you won't be able to get it back. And you want to either like save it into like a password manager, like LastPass or One Password or Dashlane, something like that. So that you have this as well.
+
+[01:13:00] And we're gonna take our open router key and go back over here into our credential in, in eight N And we're gonna paste that in and I'm gonna go ahead and save that. And it tests it and we're good to go. So now we have a working open router set up here, and it's connected to the Cinon agent. And if you, if you noticed as well, like you can choose right here from a dropdown of all these different models that we have.
+
+So if you want to stick with the Anthropic model, you could totally do that. So we could go and just start typing, uh, anthropic. Uh, maybe we make this one like Haiku 4.5 or something that's like a, a, a strong model that's, uh, really affordable and, and inexpensive and fast. So I could choose that. Um, or if you, if y'all wanna try out different models, you could switch this for a Google Gemini model, or if you prefer open ai, um, there's not necessarily like a wrong choice right here.
+
+Open Router gives you all those options. So you're gonna select [01:14:00] that. And now we've successfully set up and connected my LLM that's gonna be powering this agent. Another little tip in here that's just kind of like an N eight N thing that is like, you learn it, the more that you use it kind of stuff, is they have copy paste, which is so like, like easy and valuable for making quick changes like this.
+
+So let's say I've set up this open router node right here for send 'em on and I'm like, I wanna use Haiku for another agent in here. So I could just click on this and copy it and then I can, let's say I want to use it on my sugar agent over here. I can just paste it in and disconnect this one and literally like, just draw the node from here to here.
+
+And now, uh, I have the same setup in here with Haiku. It's running on the same API key. So like, it was that easy to just go in and, and make this connection, uh, if we wanted to do it that way. So I'm gonna reconnect this so I don't lose it. [01:15:00] Boom. 'cause I'm just running all my anthropic keys. And same thing over here so I don't break my own workflow here.
+
+Alright, all. Okay. So there's that. But this is the process you're gonna need to go through and or have CLO code get it as far of the way through it as it can. It's not gonna be able to go in and completely do your OAuth or do all your credentialing, but it can get it like 95% of the way there and you have to come in and complete the rest of it by like pasting in your API key or something.
+
+So you're gonna have to do that for every single agent in this workflow. So we have Cinon Hatch, the Sugar V one Bishop, V one Bishop, or Sugar V two, and Bishop V two, and then the holler agent right here as well. And then once that, oh, go ahead, sorry. 
+
+Sara: On that, people are asking like, why do we need to connect like different LLM?
+
+Like what is the purpose of that basically? Um, because there's two different reasons, right? Like [01:16:00] one is like, what do you have an API key for? And then the other one is like, how do they perform, right? 
+
+Speaker 4: Mm-hmm. 
+
+Sara: Yeah. So like, yeah, you might wanna go through it as like, because people are just confused as to why that needs to happen.
+
+Tyler: Yeah. Okay. Yeah. Great question. Well, there's, there could be a lot of different reasons why you might want one model over the other. Um, like just in general, like, not even necessarily just talking about this exact workflow. It, it depends on what's important to you. If latency, so like speed of it, doing a task matters, then that, that kind of like helps you point towards a certain set of models you're gonna want to go towards maybe like a Gemini Flash or a, a chat GBT mini or a Haiku model because they're, they're, um, they're, they benchmark really well.
+
+They do a good job, but they're very fast and they're cost efficient. They're not very expensive. If it's something where you need a certain size context window, let's say, because you know [01:17:00] that there could potentially be a massive amount of information that comes into a, an agent, right? Um, like that's like the short term memory amount of space that they have in their context window, right?
+
+Uh, like most models now, uh, have at least like 200,000 tokens in their context window. Uh, but maybe, and, and we do this, we've had several client projects where we had to use like the Gemini model that has the 2 million token context window, which is a lot of information to put that into like practical terms.
+
+These are rough estimates, but 50,000 tokens in, in like the equivalent of that. Is like the entire short story of the animal farm, if you're familiar with that story. And, uh, like, I can't remember if it's a million or 2 million tokens is the equivalent of the entire Harry Potter series. Like everything dropping it into its context window from end to end.
+
+So there have been certain workflows that we have built for [01:18:00] customers where like the model choice was kind of decided for us, or at least very much so narrowed down because we needed a bigger context window to be able to read through all the things that it would take as an input. So that's another reason.
+
+Um, cost could definitely be a factor. Some of these models cost a lot of money to run, especially like the latest, greatest reasoning models. Um, and it, it also could be like the, the way that you like that it writes or does a specific task. So that's something like right here for the sugar agent, uh, that's like a copywriting agent for email, right?
+
+You might really prefer the way that Anthropic writes and you're like, I love the way it sounds. It gets me, it sounds like my voice. I, I love its approach. I'm using anthropic for any sort of like 
+
+Speaker 4: forward 
+
+Tyler: facing copy that I want to do. You, you might think the same thing about. Uh, open AI chat, GBT or the, the new Gemini three Pro model or pro three model.
+
+Um, like that's personal [01:19:00] preference really. It's like a, a Chevy versus forward argument at that stage. Kind of, 
+
+Sara: you guys are asking like, advanced questions on this because like, like that, this is how we as practitioners, you know, think through this. Mm-hmm. Um, in the sense that like, you know, you end up having a multi-agent workflow and each agent has a different task that is more appropriately powered by a different type of large language model, like a different model itself.
+
+And you have to make that choice, right? Like, and you get in intuition, honestly, guys like around this, the more that you have the reps. But for simplicity for this like workflow, Tyler, just to keep it really simple mm-hmm. And not more layers of complexity. What do you suggest that people, you know, if they don't wanna bother with that, what do you suggest that they go for?
+
+Tyler: Oh yeah, we've even like, done that ahead of time for y'all. So it, it is already like in the template that in the workflow that you're gonna pull down and what cloud code is gonna help you set up the, the actual model [01:20:00] that, that we suggested that we thought would be a good fit for each of these steps. So, uh, if I'm not mistaken, 'cause I know it has changed this one, I'm pretty positive that we have sent on set to Haiku 4.5 because we don't need a massive model to do sentiment analysis.
+
+So, um, it, it's a cheap fast method to do this and it not, it doesn't incur a good, um, a huge amount of cost and it, it runs efficiently. The Hatch agent though, is an expert level agent, and so we want something a little bit beefier than just Haiku in there. So we've switched to Sonet 4.5 on that one and you can also see, like, this is kind of getting into the weeds a little bit more too, but temperature is also a big deal here.
+
+And so without like teaching a whole lesson on that, that's like the amount of, of randomness that we allow the model to have, uh, like temperature settings are already preset for you all. So because it, we didn't necessarily have a, um, enough time and space to teach to that end to end. [01:21:00] So we, we went ahead and helped make some decisions for y'all there, but Hatch, because we need it to be an, an expert to think through some more complicated type things to determine when it needs to look at the rag and when it needs to look online with the internet search node that'll be over here.
+
+Um. It needed a better model there. So that's what we have here. The, the sugar agent is also powered by Sonic 4.5. You could probably get away with the Haiku 4.5 here. Uh, or you could swap this out for like, um, chat GPT 5.1 or, or Gemini three. Uh, pro three, um, we just picked the sonnet 4.5 because it just went all anthropic models for most of this stuff in here.
+
+But Sonnet does a better job of, of like the high quality writing, and that's what we wanted it to get this job done correctly, uh, as quickly as possible. So that's what we're using that model here. 
+
+Sara: And, uh, and so, oh, sorry. Sorry, I thought you were, um, like No, 
+
+Tyler: you're, you're good. Like this is, 
+
+Sara: yeah. [01:22:00] 
+
+Tyler: Yeah. I think this is the last one right here is like, so, uh, or that I was gonna talk to it is like the bishop agent is our QA agent.
+
+So again, because this is a really important step and it takes a decent amount of reasoning, we chose the sonnet 4.5 model right here. But another key thing is we have the temperature set to zero. That's because we don't need it to be super creative when it's doing quality checks. This is like our, our auditor or, or like the person that's rubber stamping the output in here.
+
+And so when you raise a temperature on a model. You can also, you, you introduce randomness and you can also introduce that maybe the agent doesn't listen to your instructions to the exact T. So by keeping that down to either zero or extremely low, we can, uh, rest assured that we're gonna get a higher quality, um, output from our bishop agent.
+
+Right. Here's doing quality checks. 
+
+Sara: And, um, and I just wanted to clarify a few things for, for you guys. Okay. We are [01:23:00] explaining to you model selection. We have already done that for you. Mm-hmm. So like, do not have to go down that path. We're just sort of, because of the questions we're describing, how we would, how we make those decisions.
+
+But like, we want to keep you guys focused on actually getting this deployed, um, and getting this done. So like don't feel the urge to kind of mess with that and just like focus on the task at hand. And then the other thing that I just wanted to clarify, which might have been confusing, I saw a couple of messages that the agents are different than the large language models.
+
+So the agents, the names of the agents, sugar Bishop, they're, they're like the personality so to speak. They're not the, the models, the models are different. The models are powered by open AI about from anthropic. So when we say sonnet opus and things like that. Those are like the large language model, uh, types essentially.
+
+But sugar is not a large language model. [01:24:00] Sugar is the personality, the instructions that we've given our agent that needs to be connected to a large language model. That's why you see anthropic there. 'cause it won't function with the power of ai, without the ai, the model, the power, the brain power comes from the model and then we're customizing like the personality and the, and the parameters through the agent Sugar Bishop and things like that.
+
+Um, so hopefully that's, uh, set up every, like, like I know you guys were like using a lot of, um, terminology and things like that, so it's okay to ask these questions. I just wanna say, and if I feel like it is a stumbling block, I will, I will. Like I will. But in Tara's used to it by now. 
+
+Tyler: I'm used to it. Yeah.
+
+Y'all, y'all keep asking the questions. That's how we all like learn and, and we know that we're not like moving ahead and people aren't able to like keep up, uh, as we keep going. So yeah, keep rapid fire in the questions. Um, but yeah, like [01:25:00] exactly what Sarah is saying, that is like the, the persona or the AI team member that the, the engine underneath it that's running it is the, the model LLM model.
+
+But then it runs through that system prompt like we looked at. So like the sugar system prompt in here is completely different. The system message is like what they call it in it in, is completely different than what we looked at in Hatch or what we would go look at in Bishop. They're all, all different instructions or different, uh, roles or personas that they're playing in this that are powered by this.
+
+And then we give 'em access to these different tools as well. Um, cool. So like, this is like a pretty good general overview of this workflow and the nodes that we're going to need to, um, adjust and update in here. Again, there's, there's Google Sheets, nodes in here. There's, there's Slack nodes and there's Gmail nodes.
+
+So any of those, you're gonna want to come in, click on them and make sure that you are selecting your [01:26:00] correct credentials or set them up. Um, once, uh, Claude gets this into your eight N account, uh, like there's some of those things that it just, it can't do on your behalf entirely. It can get it most of the way there, but not all of the way there.
+
+And if you're confused, like literally just go talk to it and it'll walk you through it. And if you're, if it's not being super helpful, remember you can take screenshots because it can see what you're showing it when you do that, which is also like a really useful way to work with it. So, all right, let's, let's keep moving down the line here.
+
+Let's say that an email hit the inbox, it hit our classification filter, which is like stage one. Then it hits this email processing pipeline, which is stage two. Let's say it wrote an email that is good. And holler now sends us a message in Slack, and it's gonna send that here. Once we respond to that, that's when it's gonna hit, um, another system.
+
+So I'm gonna leave this without saving so I don't break [01:27:00] it. There we go. Uh, that's when we're gonna get into like this sort of router sort of set up right here. So let me clean this up a little bit. This is where, um, and you can see like, I was messing on this. I need to set some things up in here. Uh, this is where, when I respond back or when you respond back to the haulers message in Slack, it's going to look at that message and pull the entire thread back.
+
+And this is like a router agent, if you want to think of it that way. It's an intent classifier. It's another version of like a filter step, basically. So it's looking at our response back. So it's, it, they, they're like, Hey, you got an email about someone asking about shut the clock up spice level, which that's literally what it's called.
+
+Or hot one. Um, and wanting 'em to know if, if, if it's gluten free or something. And, uh, here's how we thought about it. Here's the email that we wrote. Do you like it? Do you wanna go ahead and send it? Is there an edit that you want to make? Um, or something [01:28:00] else? And we just respond to that in that slack thread.
+
+And as soon as we respond, that ticks off this trigger right here. So once Cloud code sets up this workflow for you, you're gonna need to make sure again, that you have connected your Slack account credentials and mapped it to it. Here you're gonna need to do the same thing for each Slack node in this same thing for Google Sheets.
+
+You're gonna need to make sure that you map it to the proper, your, your Google Sheets account that you're gonna be using for this. Um, so right here. And then, uh, there's even some other choices that you might need to come in here. So like, here's the, the from the list, the Hadie Bees pipeline, uh, from the list you're gonna choose, like which, which of these sheets that you need to pick right here.
+
+And from memory, honestly, I don't even remember right now, is like, which one that I picked for this particular node, which is okay, because y'all, y'all wouldn't know either. Um, and so what I would do is just leave this open, [01:29:00] take a screenshot of this right here, take it over into Claude Code and say, Hey, I've updated this node.
+
+I'm in this workflow, I'm on this Google Sheet step. Can you help me decide what is the correct list and what is the correct sheet that I need to be picking that it's writing to for this audit trail right here? And Claude will literally like walk you through it and tell you what, which one to pick and which, what's the correct one for this system.
+
+But it it, that email or that, I'm sorry, that Slack message comes to us from the hauler agent. If we say, yeah, this looks great, please go ahead and just like send it, uh, then this will fire this trigger. It comes through here, it determines at this classifier step. If this means, um, if, if the person's intent from this was that, yeah, it's good to go ahead and send the email, or if nope, it needs to have some revisions done to it, or if it is, uh, a confirmation step, then it will classify it as [01:30:00] such.
+
+Hit this little routing switch right here and then send it on to whichever workflow is applicable. So that's what's happening, and then it sends it to another, like to do the rest of the work. Basically. The other things that you're gonna need to update in here are any sort of Google Sheets nodes that I said you're gonna need to go in and, and add your credential to it.
+
+Um, if it needs you to map, like what I showed in this one map to specific like which sheet and what, what page on the sheet that you need to be writing to, uh, Claude will help walk you through that. Um, if you, if same thing with Gmail, you're gonna need to connect your Gmail credentials to it. Uh, so that that's all properly done.
+
+And then here in the intent classifier, this is an agent, again, this is like a really simple agent. Uh, this is where you're gonna choose the model. So right here I just have like sonnet 4.5 running this one, it's labeled as, oh no, hold on, let back up here. It's labeled as, uh, sonnet four, but it's, it's sonnet 4.5.[01:31:00] 
+
+Uh, so that's where I can set this up or, or just like any of the other agent. Uh, nodes at any of the workflows. If you're gonna be using open router as your provider, you would just swap this for open router instead and just let cloud code know that so that it can go and update anything on your behalf in any of the workflows.
+
+Um, that's, that's the process that we would do here. So once it hits this, it's basically going to determine our intent and either go ahead and send the email for us. 'cause it's good to go and record it to the log, or it's going to like send it back to a revision workflow. Uh, so let's leave without saving.
+
+All right. It's gonna send it back to a revision workflow, which is this one, um, where it's like, Hey, we, we almost got it right, but like Tyler had something else to say about this, and he wanted some sort of an edit made that was the intent that he said in plain language. And so that, that sends from that other flow into [01:32:00] this one where it's now gonna give it back to the hatch agent, the sugar agent and the bishop agent, and then it sends it over again.
+
+Uh, so that it's like, Hey, here's this like newly revised email again, uh, after you, after your feedback, Tyler, uh, now do you wanna, does this look good? Are you ready to send it now? Or are there additional things you wanna fix or not? Uh, so that's kind of what this, uh, workflow is doing in the exit ramp here.
+
+And then the, the last one is going to be the librarian. And this isn't necessarily like last, this is a, it is more of a tool. Um, so whenever any of the agents have a librarian connected to them as a tool, and they are pinging that librarian to go and look into the knowledge base in Google, this is where it's sending that message to.
+
+And then this sends it to an agent, uh, which is a Gemini agent, to go and ping the knowledge base store and then [01:33:00] respond back and give that message back to the agent that it's connected to. So, like, that's what the flow looks like, but what it looks like in, in practice is over here. If Hatch decides that it needs to ping the librarian tool right here, this librarian tool is that workflow I just showed.
+
+And so it's not just like going into like the Ether, it's sending it to that other sub workflow. That's just a tool that we've created here. Uh, another point to call out, because this is something that, uh, can be a, a point of frustration if, if you just don't know it, and that is that when you have a, uh, tool that you've created or a a sub routine that you've created like this, they don't have to be toggled to active because the, the workflows that are using them will push it to 'em automatically and they don't have to necessarily be active for that to work.
+
+So for when, when the hatch agent in this email processing pipeline sends a message to the librarian, [01:34:00] even though this is toggled off. It'll work. And if you try and toggle these on, uh, it's gonna give you like some errors because it's, it's the way that they're set up is set up as a tool and not as like a normal workflow kind of thing.
+
+So that's a distinction right here. All right. So this is, this is what we're working towards right here is now we're like connecting all these parts and pieces and getting all this in place. Um, now let's kind of go through and pop over here into Claude and let's do a quick, um, walkthrough on like what are some steps we would go through to make this happen?
+
+Sara: Um, and guys, like we are doing the walkthrough right now so that you get the visual of like, essentially how it's all put together. So like at the beginning of the session I did the bigger picture view of the workflow parts and how it works. And Tyler's showing you essentially like the, the pieces that need to be integrated to make it work.[01:35:00] 
+
+Um, but we will be sharing like step-by-steps and all of that in terms of you being able to complete this. It wasn't intended so that you guys absorb everything and just like automatically record it. We're not expecting that of you guys. Um, we're gonna like make sure that you get, have all of the scaffolding you need to complete this.
+
+For sure, 
+
+Tyler: for sure. Yeah, we're gonna send that through, uh, in, we'll send it in an email to the Mindvalley team so they can distribute it. And we'll also. Um, like push and commit that to the GitHub repo again, so it's in there as well. Uh, so that if you, you go and do that, that new pull to get all the latest info, like remember that's a good habit to get into.
+
+Like anytime before you get rolling into work, go see if there's been any new commits that you can pull down. Um, because then now Claude Code has that updated like walkthrough information and can help guide you even better. So that's, that's really useful as other people in class encounter issues or errors or, or, or [01:36:00] stumbling blocks that we haven't solved for yet.
+
+'cause it's, it's, there's like so many different variables in this. It's hard to account for all of 'em. Uh, we're we're troubleshooting them, debugging them, answering questions like saying, this is a common stumbling block. This is how you should walk through it. And we're pushing those updates frequently back into the public student repo.
+
+So it'll, we'll do that and we'll also send an email to the Mind Valley team so they can share it as well. All right. Cool. 
+
+Sara: We, we like, I just wanna like acknowledge 'cause you guys like this is a lot and, um, like our intention about for, for our session and the mastery to give you guys like, uh, something that is an end-to-end thing.
+
+Like we didn't wanna give you like one small part. We wanted to show you how like the whole thing works, right. And we. We actually like reverse engineered how we teach this [01:37:00] workflow. We completely reverse engineered it because we knew it was important for you guys to have like something tangible at the end of it.
+
+And so you are not, you are not going through the like, step by step of actually, you know, week by week going through it. We've kind of like created the architecture so that you guys can customize and see how the parts come together and see it working. And the intention behind this is that it starts to trigger for you what becomes possible for you guys.
+
+Like what becomes possible when you can actually understand how the pieces fit together. How to actually, you know, think about even how you would go about creating a system like this. And for it to give you like more, um, a place to start from on how you can like bring agentic workflows and that whole piece into your business.
+
+So for sure, this is like, uh, a lot and I wanted to acknowledge that and there's a lot of moving parts, but like we said, we'd be, we'd make [01:38:00] sure that we give you the right information, the right scaffolding to get you to where you need to get to. For sure. 
+
+Tyler: Yeah. Yeah. And, and like, um, so I'll, I'll do a walkthrough and show you some tips on this, but also kind of keep in mind that we're learning how to do a lot of this process for class, but also kind of step back and think about some of the meta lessons and techniques and methodologies that you see us do in here, because you can use those.
+
+For like completely different sets and settings. Like if you want to come in and work with Claude code for something else, I'm getting ready to show you a technique that I've done that works really well, um, on like how I, I have multiple Claudes and I treat one as like a project manager type agent, and the other one is a worker bee type agent.
+
+And I, I have very distinct, like, split in there, which helps me, uh, get this work done better within the cloud code tool. Uh, same thing for like, uh, here in a minute we'll go through the process on you. You don't have to do this because we're providing this stuff to you all [01:39:00] for, for class, but if we wanted to go from zero and how do we come up with an A or an assistance system instructions that we're then gonna turn into an agent, how would we do that?
+
+And I'll, I'll walk through that process and then, uh, probably for Friday for the sake of time, um, we will also talk to, once you have this whole system end-to-end built, uh, and these processes figured out and, and your workshop now set up with VS. Code and cloud code and, and all the things, how would I go and work with the system to make some other workflow that I think would be interesting to me that has nothing to do with email or, or any of that stuff.
+
+And how can we use the work that we've done in this class and the materials we've provided y'all? To like, do that quicker and, and, and more efficiently and get to the end goal faster from zero basically. And, 
+
+Sara: and, and also like you guys also give yourself like space, because this is a cognitive, like this [01:40:00] is intense, right?
+
+Like you are learning a lot, you're trying to absorb a lot. And like the intention for us was to get you guys to go through the process so you have the practical experience and then you can see it all together and then take some space and actually go like, give your brain some room because I'm sure right now, like your brain is like melting, right?
+
+Um, but like, just trust the process, follow through on just, you know, going through the, and getting the runs and then, and then like give yourself some space and your creativity around how this can be applied in different things, you know, that will come to you. Um, yeah, we, we are expecting a lot of you, I wanna say that, but we, like, we, we think that you guys can do it and we're gonna give you guys the scaffolding that you need to, uh, to get there.
+
+For sure. 
+
+Tyler: Yeah. Uh, so like, I, Sandra, I see your hand up right [01:41:00] now. Uh, SAR do we wanna go ahead and just like, let her come on and ask a question or, or pause for a minute and, and do that here in a minute? Or what do you wanna do? 
+
+Sara: Um, yeah, if you are done, um, then we could do that. And like, I wanna make sure that.
+
+Like the priority for me in terms of student questions that I've been seeing. And, uh, and what's in the q and a is like just troubleshooting, like focusing on troubleshooting and set up stuff and making sure like they, they know where the echo workflows are, all of that kind of stuff. And then if we have time, like we can go into like more of the ad stuff, but I, I really wanna make sure that, um, that like, that is locked in for everybody for sure.
+
+Tyler: Okay. I, I'd say then, like, if we can go for about five-ish more minutes on this, I at least wanna show the process of like, how would I go into cloud code having, um, I get my week one stuff done and how do I go ahead and start working towards the week two stuff [01:42:00] and how would I talk to it and how would I set it up?
+
+And then, and then I think we can like flip gears into a q and a time if that's good. Yeah. 
+
+Sara: Because that's been, a lot of people are like, can you spin up an AI agent that will help us go through this? And I'm like, and maybe we can show them how cloud code could be that, like how your, the process is of how to work with it to walk them through this step by step.
+
+Tyler: Cool. All right. All right. Cool. Sandra, I just wanna acknowledge that we saw your hand and we will definitely come to you. So just, um, hang tight with us for one moment and we'll, we'll holler at you here in just a second. Sweet. All right, so I have two different CLO code tabs open now, and hopefully everybody's is pretty familiar with that at this point.
+
+But if not, uh, it's just like this icon over here in the upper right hand corner that you're gonna click on. And I'm gonna set up one of these to be a project management type agent. And the other one is going to be, um, an agent that's gonna go do stuff on my behalf. And I'm, I'm really kinda like separating those two, [01:43:00] uh, threads into two different roles for, uh, like a good reason that helps me preserve context in my project management thread for longer.
+
+So it, it could help me troubleshoot and work through getting all this stuff set up. And it's more of a thought partner and helping qa the work that the worker bee agents go and do. Um, and I can keep it running for longer. And these worker agents are much more like task driven and focused and they're only working on that sort of stuff and they're not trying to project manage.
+
+So we're delegating in that way. And then also, like technically, uh, if I'm talking to the main agent in here, in cloud code, it can only spin up one layer down currently of subagents and, and nothing beyond that. So I could be talking to the project manager agent and have it, you know, just go spin up a subagent to go execute on the task.
+
+And it still preserves its context window on the main agent. It can't spin up another level down so the subagent can't spin up [01:44:00] subagents and it can't, like the family tree can't keep branching. Um, but if we have Claude, like you'll, what you'll see here in a minute, like, give me the prompt to give to a worker.
+
+Be agent. That worker bee agent now has the ability to have its main agent and all of the subagents underneath it, both, which is huge because that allows it to be able to run, uh, for a lot longer time, delegate even further to subagent to do parts and pieces of the work that it's doing. And it, it gets worked done faster and better and it preserves context window.
+
+It's just like a good process that you would want to try and replicate here. Alright, so, Hey Claude. Uh, this is Tyler and I need to go through, I've just pulled down the latest poll from the GitHub public repo, and I'm doing the Wednesday week two live class, and I want to do a demo walkthrough of how would we do the rest of our setup right here.[01:45:00] 
+
+So let's pretend for a second that, uh, I have all of my Echo workflow complete. I have personalized my sugar agent. Um, I have information in my Gemini file search tool via the stacks. Um, and that I'm, I'm really ready to set up all of the. The email pipeline workflows. I think there's five workflows that we need to set up now.
+
+And I want you to just like start at one and walk me through this beginning to end. And I want you to be solely the project management agent here. And you and I are gonna work on this stuff, QA work that gets done and we're, you're going to give me task specs that you write into the repo and a prompt that you're gonna give me that I will play monkey in the middle and go give to a worker bee agent to go and execute on those tasks.
+
+That's gonna keep you very focused on what you're good at and what you're gonna [01:46:00] do. And that's gonna help the worker be focused on what it's gonna do, and it's gonna preserve and protect both of your context windows. So all throughout this as well, if you need to go and look through the repo or research anything, please spin up subagent to do that.
+
+Again, to protect your context window. And because teamwork makes the dream work. Um, now think through this, explore the repo and walk me through this process so we can get started on the week two setup, please. Thank you. All right. That was a mouthful. Um, a lot of that is like me having to tell it backstory because I have multiple repositories and, and like, and because it's me doing this.
+
+And not y'all doing this. Claude could take this in a bunch of different directions. So that's why I had to be like very explicit on I'm doing this for a demo. Like I have multiple versions of this repo on here already. So just to make sure that we're, we're on the same page. [01:47:00] And so Claude, you can see it's like thinking through this.
+
+It sees like what I'm, I've told it in its internal thinking traces. Um, it's going ahead and trying to run a bashed man. So I'm gonna let it do that. It spun up, it listened to me, it spun up subagents right here to understand what is the week two pipeline that we need to be doing. And then it's gonna come back once those subagents complete to inform the main agent.
+
+And the main agent will come back to me with its game plan and it should have like the task specked out and the prompts that we need to give to it, uh, to go ahead and launch this worker, be agent over here and let it start doing things on our behalf. So we'll give this just a second to run here and I won't, I won't do this completely like end to end for the entire week two setup.
+
+I'm just, we'll see what it comes back with. We'll get it through part of the process and then, 'cause this is, this will take a little bit of time to like go back and forth with it to do this work. Um, so I just wanna do it a little bit so you guys kind of see the, how I [01:48:00] use both threads or multiple threads to do this and we'll go from there.
+
+All right, cool. So, excellent. Uh, it's got the full picture here. Here's what we're working with for week two. The week two pipeline is five workflows. So it needs the email filter, the librarian tool, that workflow right here with the main flow, the, the approval handler and the sub-process, which is the revision revision process.
+
+Uh, what I'm gonna do is it's gonna write the task spec and add it to a task folder, and then it's gonna give me the prompt back, and then I'm gonna go and give it to the other agent. And then once it's complete, we will bring it back to, uh, the project management agent here to look at and QA alongside of us to make sure 
+
+Speaker 4: all done 
+
+Tyler: it, did what it was supposed to and that we're good to go there also, um, like quick, quick thing.
+
+I, I think it's in the tool sections where it put it, uh, yes. I like, we had a request, I think Monday or [01:49:00] Friday. Uh, what, what is time, um, about the Claude Hook so that it will talk to y'all, uh, when it's done doing a thing that is in the repo now. So if you pull the latest version of the repo, now this is like extracurricular, but it, you can set up Claude code.
+
+So it will talk to you. And there's a couple of different options in here on, if you wanna run it with your local computer's voice, if you wanna run it on an open source tool that you can run locally, that will generate the voice. Or if you just want to insert an API key and use like. A paid text to speech model, uh, and use that like it.
+
+But if you tell Claude, um, maybe after you're done doing your homework, or if you wanna do it ahead, I guess you could too. If you wanna set up that hook, it's in here so that Claude code will talk to you and tell it to look in the repo for it, and it'll walk you through that process. So, all right, there's that.
+
+So it is now written that our project management agent has written a spec right here, which is just like a really long document that's telling the [01:50:00] worker bee agent what it wants it to go and do. And then it gave me this prompt right here, and it's telling me, Hey, copy this. Go to a fresh CLA code agent, open this up and paste that in.
+
+Here's another little thing. Whenever you have things opened or selected over here in the explorer, down here in the bottom, you see how there's like this little bit that says email filter setup.md. That means that like you're selecting a file for this agent to be able to look at for sure. And if you didn't mean to do that or click on it, you can just click on this and it shows like the, you know, do not see eyeball right here.
+
+And it's, it's not saying that it might not go look at it eventually, but it's, it's not guaranteed to look at it, but like forcing it to see it right here. Uh, so it's giving me this prompt. I'm gonna go ahead and just like, spin this agent up and let it go and start doing its work. Then it's gonna tell me what happens next.
+
+You paste in that prompt the worker be, agent's gonna start, it's [01:51:00] gonna walk through that process. You report back to me with the results. I'm gonna QA it over here. Once we get to a, a stopping point in this task over here and then this, uh, project management agent will be like, yep, that looks good. Uh, it'll tell you to give a message.
+
+All done, give a message back to the worker, bee agent to either like, yeah, this is great. Document your work, commit your work and push it. Or uh, hey, you need to do these revisions and then report back to me again. It's like one of those kind of things that are, are gonna happen. Um, okay, so it's saying the workflow file is ready.
+
+Let's go through this together step by step. The workflow, one filter set up file, this is the, the gateway for the incoming email. It classifies it before routing it to the right place. Again, there's a couple different ways you can do this. So if you want to be the one to import the file yourself, it is telling you exactly where it's located in the repository.
+
+So we could do that, we [01:52:00] could, we could come over here to, um, NAN and I could come out here. Lemme just go out here so I'm not putting it into a folder. I come out here and go create workflow and hit the three dots up here in the upper right hand corner and click import from file. And then if I go look at this path right here, where it is, it's telling me, go to the repo, go to workflows and look for this, this file right here, this JSON.
+
+And so if I come over here and go to, here's the workflow or here's, here's the repo, rather, here's the workflow. And I'm looking for, uh, let's see, what did it call it? Uh, email filter V one, email filter V one. I could do that, import it. And yeah, it usually imports and it looks ugly, but boom, we have it imported this way.
+
+And it's not, it's not super hard to do this. Like it's not done. Like we still have to go in and do some things here, like connect our Gmail, connect our Google sheets, connect our [01:53:00] model for the classification agent. And, and same with here, but like we've got a starter shell going right here. The other option that we could do, um, if you don't feel confident in that or you just want to push cloud code to its limits, let's tell it to go add that in there.
+
+Okay? So, hey Claude. Uh, thank you. I would rather you go ahead and please, uh, can you go and add this into my eight n account for me on my behalf and set it up as much as you possibly can, and, uh, only have me do the parts that I specifically need to do. Please. Thank you. Okay.
+
+So we will let it, uh, go do this. If you have not set up the uh, N-A-N-M-C-P tool yet, uh, it's gonna have you walk through and do that process. Um, and, and like you can ask it to set that up for [01:54:00] you. That's what's gonna give it the ability to do that. Or another option is that it might present you with, is that it could do all this work by sending what are called curl commands, like writing a script basically that sends the message to your N eight N account.
+
+And it's gonna need your n innate NAPI key for your actual Innate N account. And so if you, if you need that for any of this stuff, you're gonna find that, uh, over here. Lemme just open it in a new window here. Um, lemme just grab a different one. Uh, you're gonna come into your N eight N account, come to your, down here, to your settings right here is N eight NAPI.
+
+And you can set up an API key and it's probably gonna, you know, give you some beef about that potentially. 'cause you shouldn't share API keys directly with, uh, the models, like in the chat for security reasons, right? But it's not gonna hurt it for like a little bit of time. So if you're gonna do that, you could even set it for an [01:55:00] expiration for, you know, seven days.
+
+Just in case you forget. Um, you could call it, uh, I'm gonna call it Mindvalley Live Demo two. Or like week two, and I'm gonna save it. I can copy my key and I could come back over here if I did not have my N eight NMCP or, or API key provided to Claude, yet I could give that to it, have it settle that stuff up for me and tell it that we're doing this as a temporary measure for it to be able to use my tools and that it could do that, get it all set up and then have me go replace it with a new API key, or tell it that we're just gonna delete the API key once we're done using these tools.
+
+So it's no longer out in the ether, uh, for a security issue. So that's kind of like options on that front. Uh, but right now, like I already have my MCP connected and it's going and setting up all this workflow for me, and it's telling me exactly [01:56:00] where it puts it. Um, and it tells me what I need to go and do now for the rest of my stuff.
+
+And so if I come back over here into N eight N and let me delete this before I forget. There we go. Uh, if I come back over here and I look into my home, uh, should be able to see a new flow that it made, which is, yeah, right here. Just made it last, updated just now. So here it is. And you can click the brush icon so it cleans it up a little bit more.
+
+And now we have, uh, the workflow set up right here. And again, it's not done. It told me what I needed to do, like come in and do the parts that I need to do. And it, it still is not at this stage, it's not completely done because once we add in the rest of this, uh, email workflows that are also like the other four workflows we need to build, it'll need to come back in and add some nodes to this one to [01:57:00] send it from like this workflow to the next one.
+
+But it's not doing that now 'cause it can cause it to error out if we do that at this stage. So it's doing it in a smart way. It's doing it kinda like bit by bit. So we could build it, connect it. We could even ask it like once we were done with this to give us an email to go and test it with, to make sure it's working properly.
+
+And it would just give you like, Hey, here's a Hattie B's email. Go send it from one email to this one. Uh, then you'll see that run. It can even go look at the executions of it on your behalf. But once it runs, remember it'll show up in this executions section right here and it auto refreshes. If you have this toggle on and you can see that test email you just sent through, did it complete successfully or not?
+
+And it, and if it does, you can like tell Claude that. And if it doesn't, you can, um, have Claude go look, or I'm sorry, have Claude go look at it or, um, copy the error message out of it. That'll show up over here to give back to it. That's [01:58:00] kind of, uh, this is the very, like, similar process I would do is spin up the, the project management agent.
+
+Work through as many of these tasks as you can. Go and complete the tasks over here. Have the, the worker be agent, and it should do this automatically, but if it doesn't, tell it to give the report message to give back to the PM agent and tell it that, and then take its response and give it back over here to the PM agent for it to review it, qa it, and help you decide.
+
+If we're like, we're done with workflow one, we can tick that off the list, we can proceed onto workflow two, it'll make a new task. It'll give you a new prompt for a brand new worker, bee agent, and you just keep on trucking along like this. And if, and if you're, uh, hitting context window with your project management agent, you can ask it to write a handover prompt for a new project management thread so that you don't lose context.
+
+It writes information into the [01:59:00] repo and gives you a handover prompt so you can pick back up with a completely new fresh thread and like keep on going. And so that's, that's the, the methodology I wanted to teach here of like, how do you run project manager and worker B type agents in here? And, and once you get good at this, you can run multiple worker bees, even multiple project managers.
+
+It's at the same time in parallel. If they're working on tasks that won't, um, like cross streams with each other basically where they're working over the top of each other and, and it can help you kind of delegate all that as well. So hopefully this makes sense on this process. Um, if not, I think we're good and we can kind of like switch into q and a mode here for a minute, Sarah, before 
+
+Sara: we do that.
+
+Like, I think people like, 'cause they have absorbed a lot. Yeah. Can we summarize like step one, like what is the homework that they need to do? Mm-hmm. And we need to have completed by Bri, uh, Friday. 
+
+Tyler: Yeah. Um, well, I mean also let's like normalize [02:00:00] this, right? Like you're learning this on a Wednesday and you have until Friday and unless y'all have just like unlimited free time, like it, it might be a tough ask to say like, have this completed end to end.
+
+That's why we're saying that, um, even beyond the class, like if y'all are stuck and you're still working on this, like as, as long as Mindvalley and I'm sure they will be, is cool with leaving that Google form open. Y'all can keep submitting questions through there and screenshots through there and we'll keep monitoring that and, and responding in, in the way that we've been doing.
+
+Um, so that's, that's hopefully that's helpful in that way. Um, the, the other thing, okay, so like coming out of last week, the goal was to have our, our echo flow up and running, having run it once with our mega dog. So we have our brand voice, our XML snippet to personalize your, your it's sugar or your, it's sugar, your sugar agent.
+
+And, uh, have information in your Gemini file store, whether you did that through the [02:01:00] stacks or if, uh, you ran into a bug and, uh, 'cause there's more than one way to get it in there. If Claude was like, Hey, I'm just gonna push this straight via API call on your behalf and get it over there. If as long as you have information in your Gemini file store, then that's getting you over the hump for week one process.
+
+Week two process is now we have our customized sugar agent, uh, we have information in, in our knowledge base in our library, and now we need to go in and set up the five different workflows to be able to be like the production workflows for email. And so the, the process on that is like what you're seeing here.
+
+Uh, make sure that always, like, get in the habit of going and before you start work or, or like even just like every now and then, go check and see if there are any recent commits into the public student repo because we've been shipping updates to that relatively frequently. Uh, as, as we answer questions, we're shipping updates, so we'll, and we're [02:02:00] gonna continue to do that.
+
+So any, uh, look, you wanna do that so you're working with the latest information, you're gonna tell Claude, Hey, I'm ready. Like what I just did here. Hey, I'm ready to go ahead and set up all my email workflows and get this thing up and rolling. And it's gonna do what you're doing here, like walking you through that process step by step.
+
+And so the goal from this. Is that, uh, by Friday, if you're like a, a, like a type A, like go getter and knock this thing out by Friday, um, then you would have a working workflow where you can send an email into your, your email, uh, that you choose. It's gonna run through all the different, uh, workflows in, in it, in, it's gonna ping you in Slack where you can respond back to it.
+
+It's then gonna successfully go take action on, based on how you respond on either go send the email or um, uh, go edit it and bring it back to you to then send it and then come back and send a confirmation and record all this to your Google [02:03:00] sheets as well. Um, once you've done that, then now you have a fully working MVP, and, and now you're in the, the stage of, uh, for this class, what we would say is like, you're gonna be doing observational evals.
+
+That's where you're basically gonna keep running tests through the system, uh, with, and you can have Claude come up with like different email types that might break the system or, or like be an edge case to see if it still is working properly, uh, to make sure that everything flows to the pipeline properly, that you're gonna do your own observational evaluations on.
+
+Do I think this sugar agent even sounds like me at all. It's supposed to, but it also needs to sound like Hattie B's too. So it's gonna be like a blend of your voice and Hattie B's voice. But that's a subjective thing, right? And so there's, there's ways, and we can maybe talk about that today or, or it might make more sense to do it on Friday of once you get to that stage and you want to start [02:04:00] adjusting the, that quality of that output from sugar, let's say.
+
+So it sounds more like you, how would you even go about doing that? Mm-hmm. Um, like how would you go talk to, to Claude or, or LLM to sort that out and get it, get it dialed in more. Um, 
+
+Speaker 4: yeah, and that's 
+
+Tyler: the, that's the recursive process, that's the toast method of like continual testing and improvement basically.
+
+Sara: And like, you guys that, like we, where we wanna get you to by Friday is like the working, uh, workflow. Like the, like that's the focus, right? Um, and in relation to that, like what we've just discussed here before we go into pure Q and a, because there, uh, there's a lot of people asking the same question because the Google form, um, Eliana posted it in it.
+
+People wanna know where to find the answers. So do you wanna like screen share and show them how, like how to like when they submit their questions 
+
+Tyler: Oh yeah. 
+
+Sara: Where to find things. 
+
+Tyler: Uh, yes. Sorry, one second. That is, [02:05:00] 
+
+Speaker 4: um, 
+
+Tyler: is that docs troubleshooting, I think or no? Hold on one second. Let me ask a different Claude Co.
+
+'cause I can't remember what the exact directory is.
+
+Hey, quick question. 'cause I'm having a dad Brainin moment. What is the directory that we're pushing back to in the public student repo as we answer student questions and provide new guides, um, that are also based on those as well. Where are those located in the student repo so that we can show students that right now on the live call?
+
+Thank you. Okay. All right. So as soon as that responds back, I'll pop it open and show it. Um, I just, yeah, there we go. Mind Valley Mastery students. Yeah, that's what it is. So, like, if that's what I was thinking, but I wanted to double check. Here we go. So if we go share, um, lemme make sure I'm in the right one.
+
+Is this the [02:06:00] student repo? Yes, it is. Okay. So in here you're gonna go into students and into docs. And in docs we have, um, QA stuff. So there's, we've been doing 'em in batches. So these QA questions right here, uh, if you click into those, there's like questions and answers of like, uh, who asked the question, um, and what's an answer?
+
+Um, or like, or, or sometimes it's like even like condensed it down a little bit or some people were submitting anonymously. So it's like going in and, and. Talking through that in that way. Uh, and then it also is a adding in additional guides in here, which again, I know that this is a, a lot of, of documentation to have to go and like sift through.
+
+So the easiest way to do it is don't manually go do it. Go and ask Claude to go and look through the, the, remember the key phrase, explore the repository and see [02:07:00] if, uh, if there is an answer to this question or if my question about this has been answered, or if there's a tutorial that's been pushed to the repo.
+
+And if it hasn't yet and you've already submitted a question, uh, we are getting to them. Like, like I said, we're going through 'em as quickly as we can to, to make sure that, uh, we, we get them answered correctly and we get a fix for it and we ship it back up with an answer. Um, so that y'all have it. But if you ask Claude and you've done the latest get pull as well, so you have the latest repo, like it's, it's within this docs folder is where it's gonna be.
+
+So you can even guide it a little bit and tell it, Hey, it should be in the, in the docs folder and that's where, uh, you're gonna be able to go find this stuff. So hopefully, hopefully that's clear, but just like with, um, a lot of this like mentality we're teaching y'all is like. How do you prompt your way outta the problem instead of like going and like reading through all this documentation, which would take forever and it's not really value added work on your part.
+
+[02:08:00] Um, ask Claude to go and do that on your behalf and it it's gonna go retrieve it for you really quickly. 
+
+Sara: Yeah, and like, I guess related to that, Alice's asking, um, like how do you actually go and get the updates? Like what do you actually ask essentially? Yeah. In terms of like, is there new updates? Like how do you ask it, I guess is what she's trying to see so that she knows how, like, how to ask a question.
+
+Is that right? Yeah, I hope, I hope I got your question right. 
+
+Tyler: Cool. Yeah. I mean, if that's right, this is how I would go and do it. I mean, like literally just open up a fresh thread and you, I can just go, Hey Claude, can you go and check the public student repo and see if there has been any new information added to it that I don't have here locally yet.
+
+Thank you. So I did that on purpose. Like I didn't even use like re like, um, commit or pull. I didn't use any of like the, the tech bro [02:09:00] phraseology around that on purpose because cloud code's gonna understand the intent and it's gonna go do this on my behalf and it should go check. And since I just did this a second ago.
+
+It, it should not, um, have anything new. It should come back and say like, yeah, you, you, I'm up to date. So that's what it said. So your local repo is up to date right here. And if, and if it wasn't up to date, like if you were what's called like behind the main, 'cause main is like the main repository. If there have been updates committed to that, that we have sent and you have not pulled them down yet, then Claude would've pulled it down right now.
+
+And if it didn't, or if, if you're up to date, it's gonna tell you you're up to date. So hopefully that's, that's clear. Like literally just like talk to it in plain language. You don't have to know the exact phrasing. You can describe it as best as you can and just say, Hey, Claude Tyler and Sara said to keep checking that public, um, GitHub for students to see if there's new information added to it.
+
+Can [02:10:00] you go and do that? And compared to what I have on my computer, like just as best as you can, can, uh, you know, get it out to explain it to it, we'll work. 
+
+Sara: Mm-hmm. Cool. Um, Eloise is asking like, do we, how often do we do that? And is there a way to, instead of like checking every day, is there like a notification or something that shows up?
+
+Essentially a few people are asking the same question. 
+
+Tyler: Yeah. Um, I need to check with, uh, Eliana to see if there's a way that, so that I'm not like emailing the daylights out of her. If there's a place that we can go post it into the community or something like. Every time we do a commit that we can send it to y'all so that you know that we've done one.
+
+Uh, 'cause like when we're doing it in, in, like in our internal team, let's say, and we're working on a project together. Whenever we make a commit, we'll go and send a Slack message to the team and be like, Hey, we just sent a commit. Just like notify everyone. Um, so that's, if we can, I don't know if we need to send it into WhatsApp or, or what would be the [02:11:00] best like way of doing that?
+
+We'll, we'll talk with the Mindvalley team and see, uh, but we'll see if we can't like, also notify y'all that we've sent additional commits. 
+
+Sara: Okay. Um, I think that, that, that should cover, um, uh, no, Anna, we don't have a, we don't have a Slack channel for this, uh, for this. 'cause I know that you guys have your own comms channel and stuff like that, so we'll have to communicate.
+
+Either you ask a question to Claude or like occasionally when we do an update, we'll just let Eliana know or something to let you guys know on WhatsApp. Mm-hmm. Um, 
+
+Tyler: that's why we've been trying to do 'em in batches too, so that we weren't just doing like individual question, answer, commit. 'cause then it would be like, it would be a bunch.
+
+Right. Um, so that's why we've been trying to do 'em by like days, uh, or like batches within the day that we're answering and submitting. 
+
+Sara: Okay. Um, so hopefully that makes [02:12:00] sense. Um, that like, you know, in terms of. The, the big picture of how you ask for, for information essentially. Um, I wanted to go through a couple of questions.
+
+I'm going to group them together 'cause I basically answered a lot of questions in q and a and then I left some, which I think that will be helpful for everybody to know so they don't get lost in like the chat. But, um, let me see. I'm just gonna group them together. So,
+
+um, troubleshooting what to do with stacks. So my stacks is still not working, but once I get it, working with the files that have been uploaded. Okay, so there's a question is like the stacks, a couple of people have been talking about stacks, like not uploading documents or getting errors or something like that.
+
+And then the other part of the, like, a lot of [02:13:00] questions that have been asked is, um, if I've already downloaded, like the previous workflows all done, I do with the new ones, essentially, 
+
+Tyler: yes. So if it, if it pulls it down, it's going to pull down like versions, right? So it's gonna pull down the new files.
+
+It's not gonna just like overwrite your existing stuff. And when it does that, if you're working on something, you should ask it. Hey, are there any new, like assess what's been pulled down and see if I need to go in and update any of the existing work that we've done. And Claude can go and like double check that and ship a fix if you need to.
+
+So for instance, um, if, if you're trying to get the Echo workflow to run from week one and you've gotten blocked on that and you pull down the latest version of the repository and whatever the bug was that, um, was in there that we might have fixed that another student had encountered, and it's the same thing you've encountered, Claude can recognize [02:14:00] that and go and ship that new update into your account also so that you're not, um, you're not having to like go back and double up.
+
+It's not sending you back to zero and like starting all over again. It's gonna take the work that you've progressed so far, learn from what needs to be fixed and go do like a surgical fix update on that is what's gonna happen. 
+
+Sara: Okay. Um, yeah, uh, there's a lot of like stacks, um, about uploading files and changes in the repo.
+
+I cannot get the stores to come up. I will keep trying, but not sure if this is just me or oth others are having the setback. So maybe you wanna just like double check on stack Stack. 
+
+Tyler: Yeah. No, that's, that is, um, that's working. We've had a couple folks that have had issues with that and we've pushed commits.
+
+So this is another page too, and I'll share this link in the, um, the chat as well. And we'll send it, uh, in the follow up email. This goes to the [02:15:00] repository, um, commits page so that you can see like when commits are sent and what they are and go look at 'em and stuff. But honestly, like, I mean, I, I personally don't even go look at this page a lot.
+
+Like if I'm working in a repository, I've just gotten in the habit of asking Claude, 'cause it's easier to have it go do that than for me to go and constantly check. But this is like a, the probably the best sort of thing. Someone mentioned like a notification bar or something like this page is probably the closest thing that we have to that, but it's not necessarily gonna just like ping you though.
+
+Um, so I'll I'll drop this in there too. So, all right. Sorry. You said where's my, my thing here. You were saying about the, the stacks is what something was running into. Yeah. Like 
+
+Sara: even in the, a couple of people in the chat are still saying, um, this, they're having issues with the stacks. 
+
+Tyler: Okay. Yeah. I think that if you do the latest poll, you should be good.
+
+The only other thing that I, I would [02:16:00] say is that if you are unlucky enough to have run into the. The same issue that our new cloud account is running into and our web hooks are not firing properly, then that's what's caused, that's what's blocked us from like being able to do a lot of the demo and to be able to do that second Loom video to show how all that works without like a workaround.
+
+Um, so if, if you're running into a web hook issue and that's where it, if it's failing and you're continually seeing that, let us know and, uh, we'll help like troubleshoot a solve for you on that because there's, that doesn't walk you completely, it just, if it's definitely that, then there's a way that we can have you do it with a direct API call.
+
+So let me, let me show y'all even here. 'cause this is something we had to troubleshoot for ourselves, but I, I wouldn't do this unless you have to kind of thing. Um, let me see here. So here, here's the, uh, the [02:17:00] stacks page, right? Um, and let me collapse on this stuff now. So when I'm in here, in the settings, you'll see that there is a direct API mode in here that you should be able to see.
+
+So if I had to build that in so that if I had a, a blocker, uh, of the webhook, which w which was what was happening on our account, and I was like, racking my brain on this. You ask. Sorry. It was really pissing me off honestly. 'cause I was trying to debug this and I was looking at everything. I was like, everything is right.
+
+Like there's no reason it shouldn't be working. It was really frustrating. And then I was like, it has to be the, the, the um, like something on N eight inside and not what we're doing. And so I sent them the messages and we confirmed that it's a known issue that can happen when they host your innate in account in the cloud.
+
+Uh, there can be an issue when they're first setting it up with the webhook stuff [02:18:00] and like, that's what we're having with our account. So that could potentially be a blocker. If that's the case, then you can, uh, talk to Claude about that and switch into a direct API mode, which basically bypasses the innate in web hooks.
+
+It's like the back end of this. And instead is just using like pure code API calls straight to Gemini back and forth. It's a little bit more difficult because Claude's gonna have to build like two local, um, hosts that it's gonna spin up one that's like the proxy for that. Those API calls back and forth and one that's running this stacks right here.
+
+So like, that's, that's why I'm like, unless you just have to go this path, I wouldn't do it. 'cause it's kind of a, a little bit, it's not hard, but it's a little bit more involved. Um, but even to get to this stage, like again, if you're, if you're here and you're trying to set this up. Uh, let me come back over here.
+
+Lemme show you how I do this to begin with. [02:19:00] Uh, hey Claude. Uh, this is Tyler. I'm in Mindvalley class right now and I'm doing a live demo and I'm wanting to demonstrate how I would talk with you to help set up my stacks front end and also any of the NAN workflows to go and do all of that. So, please be sure that you have pulled down the latest version of the repository so that we know that we're working with the latest information.
+
+Then I want you to explore the repo thoroughly and then walk me through the process so that you and I and we can also spin up additional Claude agents to help get all this set up and working for me with my Gemini file store and stacks front end please. And also just because it's, it's me and I'm doing this and I'm doing it as a demo.
+
+Like we've done this in the [02:20:00] past. So please don't get confused. Like pretend like we're doing this for the very first time and walk through it in that sort of way, please. Thank you. Alright. So again, I'm, I'm having to give it a little bit more background context because my mine is set up and Claude can go look through my computer files and stuff and it might see that and be like, oh, hey, we've already got it done.
+
+Here you go. And I needed to like, act like we're doing it for the first time. So that's what it's gonna go and do. So it, it went and checked the repository again. Again, that's a good habit to do. Um, you could do it as part of like kicking off a new pro like project manager kind of thread like this or just like a, a brand new thread.
+
+And then I'm having it explore is the key word there because that has it spin up subagents to go and look through the repository to fully understand what's up. And then we'll come back and it should give me the game plan on what we need to do next. So the stacks, the N eight end [02:21:00] web hooks, the Gemini file, search, APIs, like what we're building, that even drew us a little diagram here for that.
+
+Uh, and then step by step, this is what we're gonna do. We need to import the workflows right here, which is like this. And so again, like what I showed a minute ago, you could either manually choose to import these workflows just to get 'em into N eight N and then have Claude help you from there if you want to do that.
+
+That helps you like save some Claude credits too, so that you're not maybe burning through your chat as fast if you wanted to do it or just want the experience of it. There's nothing wrong either way. Or you could tell Claude, Hey, I want to do this and I wanna have a worker be agent. Let's have a separate thread and it go and spin up and do step one as much as it can all by itself and only have me do the parts that I need to do.
+
+And it would go set up the web hooks, and then once it gets the web hooks, it's gonna set up the, um, the, the, [02:22:00] uh, base URL and then the, the stacks, which like, as you can see, it already went proactive on me here and did it. So it spun up a brand new stacks for me right here. This is what it would look like.
+
+It even has the link back to all done to Google AI Studio. And it's telling me, Hey, go get my API key and paste it in right here. And then it walks you through the rest of the process. Um, um, 
+
+Sara: people are asking for that prompt for you to put it in the, like, the chat, but you guys know that you're gonna have to adapt it.
+
+Right? I, I think that they're just wanting a starting point, I guess. Um, yeah. But you guys have to adapt it so that it's not like, obviously Oh, Kat's got it. Yeah. 
+
+Tyler: Yeah. There you go. I just pasted it into, yeah, again, that's like my brain dump. So change it like what Sarah's saying to fit your needs, but, uh, yeah, that's it.
+
+Sara: Okay. Um.
+
+Speaker 4: Um, 
+
+Sara: yeah, I think like [02:23:00] there's a bunch of questions. I feel like we've answered them throughout 'cause they're earlier in the process, like 1230 and it's like two 30 now. But does anyone have any burning questions? Like, uh, 'cause like we're also gonna take this stuff and make sure that we have it answered for you guys in the Google form or whatever.
+
+Um, but yeah, Sandra's got a her hand up. Sandra has been waiting. Sorry, Sandra. 
+
+Tyler: Yeah. Thank you so much Sandra, for being patient with us and, and guys like, I'm seeing messages come through too. Like I would, I would suggest if you've been running into bugs, like do what we said. Pull the latest, commit first.
+
+Tell it what you, once it's done that have it. Go look at the files and see if any of the fixes that we need to be working on are now in there and see if that works. And if it doesn't, like, definitely use that Google form. Ping us back please. Like, we, like we're answering those to try and get everybody unblocked, but there's, I don't even know, there's over at least 300 [02:24:00] people in this class and we've had like a bunch of varied like odd blockers, especially from you Windows people like, yeah, just joking.
+
+Uh, Sandra, how are you today? 
+
+Student: Yeah, fine. Um, and thank you for this class. Uh, even though it's a hard class, I can see the potential of what we're building here. Um, but as a beginner student of ai, um, I just wanna figure out with you what is the best approach for a beginner in terms of mindset? Uh, because I belong to the WhatsApp group and I've seen the students struggling every step of the way, and I was holding and waiting for the tech issues to get solved before I would jump into the part two of the Walmart because I didn't have issues with part one.
+
+It's only installing stuff in your computer, which my area of people know how to do. Mm-hmm. But the part two is where we're building the Ferrari. So I was looking at the documentation and I can see the architecture [02:25:00] overview and I can see the whole taxonomy of what we're building. And in the theory it works well, but because we haven't ingrained the habits and the foundation understanding on how to work with the AI and how to work with the costs of these transactions, um, some students were following the instruction of.
+
+Ask Claude to figure it out for you. 
+
+Speaker 4: Mm-hmm. 
+
+Student: And what happened is Claude is gonna try to fix the problem regardless of the cost. So a bunch of students are like, Hey Claude, this is not working. And he's like, oh, we don't need stacks. We can do this. And he goes wrong and starts eating your credits because those computations, they're costly.
+
+Mm-hmm. So based on what I experienced as an outsider, would you say there is a safe approach for a beginner that is learning all this stuff to, um, once you confront a tech issue, to report it [02:26:00] to you guys, the instructors, and walk away from the computer instead of align Claude, do something that you don't know what he's doing.
+
+Because some people, they built a Volkswagen instead of a Ferrari. And when I was looking at your blueprint of what we're doing with the NAN workflow 
+
+Speaker 4: mm-hmm. 
+
+Student: You had a section for stacks. So a stacks is important for the whole thing to work. And if Claude decides to, we don't need this thing, we're gonna do this other thing.
+
+Now we lost track of the blueprint of what we're building the parts. And because I'm not a car lover, I really don't know if we need an engine or if we need an A wheel or if we, if we need a, a brake. Right. I don't know. Mm-hmm. So, um, my assumption. Is that when Claude tries to work around things and we as orchestrators don't know what we're building, the best approach is to say, wait a minute, report the [02:27:00] issue to the instructor, wait for an answer and walk away from the computer instead of trying to build a Ferrari without knowing how Ferrari works.
+
+Would you say that that's a good approach for beginners? 
+
+Tyler: I, I would say that for, for the class and since y'all have, like, since we have that form open and y'all can ping us and we're checking it and answering and help, like, solve those questions for you. Like take advantage of that resource right now while you have it.
+
+And also at the same time try and like, use that to help, uh, like build up your own intuition and, and skills at the same time and, and like the way that you could go about doing that. Is have either cloud code or, or desktop. It doesn't really matter which one have it go through and explain like, what was broken, why was it broken, how did you fix it?
+
+Like, what's the teachable moment here? And, and like tell it like I'm, I do this all the time. Like, 'cause [02:28:00] I'll, I'll write projects in, in programming languages that I do not know how to use. Um, like if it was just me completely. And I, that's, that's how I taught myself Python a couple of years ago, is I, I used some of the earliest versions of Cursor to like, go do a thing and then teach me, uh, how, like, what, what did, what did you actually do here?
+
+Like, explain this back to me. Pretend like I'm a dummy and I don't know anything and explain it in really easy, accessible like language. And it is amazing at doing that. Like, it's helped me. Um, I, I still would not consider myself like a developer by any sense of the word, but I, I, it is like if you learn a new language, like if I, I, I can like read Spanish or I can understand Spanish, let's say, but I'm not like fluent in speaking Spanish.
+
+It's kind of the same way for some of this sort of stuff. So for, for now, like, um, like while, while we're in class and while y'all have like, you can submit stuff to us through the form, it's good. Instead of [02:29:00] just like stressing out and like spinning your wheels and stuff, uh, and letting Claude go rogue.
+
+Document the issue, take screenshots, describe it, or even have Claude help describe it and send that to us. That's the other thing. I can't believe I haven't said that yet. Y y'all don't have to write your, your support ticket forms either. Like brained up to it, what's going on. It also knows what's going on, and have it send through the message on your behalf.
+
+Like write it for us, like work, work. Um, like we can work smarter now or be lazier now, I guess is the way to put it. Um, so I would do that after class though. Um, and just like as a general practice that you want to get into, is this sort of mentality of how do I troubleshoot some of these problems with Claude when I hit these, like ruts and, and how do I like navigate around that?
+
+Part of that is, is through, um, using like multiple [02:30:00] agents to try and problem solve, solve it, even when you put Claude into planning mode Now, um, it doesn't always do it, but a lot of times it'll come up with two kind of different opinionated plans and compare 'em and determine which one's the best one and proceed with it after that.
+
+So it's like better informed, um, having it instead of it guessing at how to fix something and like doing it by like, uh, I caught it doing it this morning when I was trying to like replicate a student issue and like troubleshoot it with it. It kept trying to like. I call it like vibe to the answer of the problem and fumble through it, come back.
+
+I, I would test it again after it was done. It would work. And then it either like was still broken or broken a new way. And I was like, Jesus. I was like, first of all, 'cause I, I looked at what it was doing and I was like, it's, it's trying to like test and guess at how to fix it. Instead of that tell it to go spin up a subagent research, like [02:31:00] what it's running into someone on the internet has also hit this problem most likely and they've solved it.
+
+Claude can go find that documentation, learn from it, and then help fix your problem. So like that's, that's one of the powers of, of like using research agents and deep research tools is like when you hit these ruts, how do you like get your, how do you prompt your way outta the problem? That's like a really good like practice and then using those as teachable moments, like even after class, uh, or 
+
+Student: yeah.
+
+And, and, and there was a lot of students that they were troubleshooting and using Claude, but then Claude was going its own route and doing things that are not part of the blueprint. Mm-hmm. And that was my concern. I didn't want Claude to do things out of the script because then if something doesn't work and I'm not an expert like you are, you're an expert on your Ferrari, I don't know what is broken.
+
+And it, for a new brand student, it is a source of frustration, right. [02:32:00] Because you're hitting walls constantly and there is no. Education lesson moment to gain from it because we don't even know what we're doing. And that's not a problem with you. It is a problem with the whole AI shift mindset. Um, by default we go into, oh my God, what am I supposed to do?
+
+Okay, Claude, you do whatever you, I'm gonna say yes to everything, but now, because I don't know what we're building, Claude is gonna take into a different route and break the system. 
+
+Speaker 4: Mm-hmm. 
+
+Student: Um, a lot of people were facing problems with stocks, and I imagine it was a tech issue. So I stopped there and I was like, I'm not gonna get to a point until fixed, because I saw that in, in your NAN workflow stacks was part of it.
+
+And now if I see syn or vented, it's not gonna work. And now Claude is supposed to be the manager. And I don't want Claude to be the orchestrator. I want to be the orchestrator. And so I'm asking these questions to give people like a philosophy [02:33:00] as the beginner while you're building that skill of knowing what is right from what is wrong and what is, what is the AI doing correctly and what is the AI not doing correctly?
+
+While you're in that shifting of mindset, what should you do right now? Mm-hmm. 
+
+Speaker 4: As 
+
+Student: your foundation, like when I hit a wall, should I keep trying to go even though I don't know what we're doing? Or should I take a break, walk away from the computer? Because, you know, people have jobs and family and stuff, and they want to get through the homework as fast as they can, but the old traditional way to get homework done doesn't apply anymore to this system.
+
+It's a different philosophy. So that's what I was asking this question to give people peace of mind when it comes to troubleshooting. 
+
+Tyler: No, it, it's a great, a great question to ask and I know a lot of people are, are running into this sort of stuff. So I mean, there, it is not wrong to necessarily [02:34:00] keep trying to prompt your way out of the problem.
+
+And, and if Claude helps find an alternative solution, specifically, let's say for the, the, the stacks deal. 'cause there's more than one way to do that, right? Like we have the, the front end UI of stacks. And the way that I have it set up in the blueprint is that when you do a thing, it calls the web hook from N eight N.
+
+Like that's one way to do it. Mm-hmm. Uh, like a completely viable, another way to do it is still use the stacks, but to do that API call thing I was talking about. And so like, that's not wrong. It is diverging from like Plan A that we have here, but it, it's also. The model's trying to fix a problem for you.
+
+And, and it's like relentless in wanting to do that sometimes. So like it, I guess it depends on like how much time and what your frustration level is and all that stuff. Like, don't keep going. If, if you're, like, if it's stressing you out too much or you don't have the time to do it, like stop, have it document where you're blocked, what you're running [02:35:00] into, what screenshots you need to take, send it to us and like, like, we'll help that.
+
+Like you, y'all don't need to be stressing on that kind of stuff. And, but, but still, like the, the practice of what I was describing, when you're out training wheels are off and you're out in the real world, like after class, like you're gonna encounter this like a guarantee, you're gonna encounter this kind, this kind of stuff.
+
+Again, with any new project that you do. So you have to be a little bit, we, we call it like, you have to be uncomfortable with the squishiness of AI because it people also will get really frustrated when they see me do something or, so I do something with a model and they can even send the exact same prompt in and it does something different.
+
+And I'm like, you don't like take into consideration the amount of like variables in that, that it's not a, like a, it's not rote automation of like A plus B equals C every single time. It doesn't work that way. That's not how generative AI works. So anyway, I just wanna like, normalize all that stuff [02:36:00] and thank you for sharing that too.
+
+Um, someone also, oops, sorry. Go ahead. 
+
+Student: A last thing that I wanted to share with the, the other students is that, um, before going to part two, go through the documentation so you know exactly what you're building and you can understand the changes that are taking place without guessing. Um, there is a document that I really appreciated that you put that it was prompts for each po potential blog or for each step so you can copy, uh, a prompt from Tyler for every step on the way, and you just copy and paste.
+
+Mm-hmm. Instead of you trying to communicate without knowing the vocabulary or the architectural stuff going on the, on the background. Right. So I just wanted to share that. Thank you. 
+
+Tyler: Yeah, thank you so much. And, and good call. That's what we've been trying to do. Like when people submit questions, we're trying to answer 'em.
+
+And then we're also trying to give y'all like, if it's applicable, to give you a prompt to give back to Claude to help get you unblocked. Like what, what Sora was saying there too. Um, [02:37:00] someone asked, I saw in the chat, I just wanna address this for, I forget it, and it gets gone. They were saying like, why do you, why do you add subagents to do research given that Claude is trained on a massive dataset, including maybe problems we run into?
+
+Is that correct or not? Yes. And there's a cutoff date on that training data, um, that any model is trained on from like, whenever it is that they took all these, like trillions of parameters of data and like chucked it into a model and trained on it and boom, it has no, uh, understanding of what happens beyond that point.
+
+A lot of these training data dates might be in like early 2025 or, or late 2024, or depends on the model, right? Uh, that's where like using that information and going out and researching to get the current, uh, like state of whatever the thing is it's researching, like, is super valuable for it to bring that up to speed, [02:38:00] especially when it comes to AI tools.
+
+I'll give you like two really quick examples. Um, uh, Google Gemini's file search, they changed on their backend, the documentation around the, the corpus or, uh, corpora, I forget how they, they phrase it like the language of what they're calling file stores. It's, the model is trained on it being one way and it's, Google has since renamed the way that you call that in the API like recently, and it would not know that, it would not be in its training data.
+
+So it, it has to, like, we tried to provide that and put that into the documentation in the repo. So Claude will not go back to its old ways, but that plus research helps. Same thing with n eight NN eight n ships updates frequently, um, like versions of TypeScript that they run underneath the hood on that, which is like a programming language.
+
+Uh, it's like saying you're not speaking the right like version of, of English when you're writing out this code. [02:39:00] And again, if the cutoff date on that, uh, is different from your model, like that's where research really helps a lot on that front. So yeah, the, also the prompts that we were mentioning, you can find those in the, the documentation section in the repo where I, I showed a minute ago where we had those batches of questions that were answering.
+
+They're in there, but like the easier way is instead of you like going and, and rifling through all that documentation trying to find it, ask Claude, uh, like what your question is and see if it's now in the repo with an answer and a prompt that you can give back to it that we have like com, like answer responded to and, and committed back a response with that.
+
+Um, that, that would be the easiest way to go find that. Cool. All right, y'all, um, sorry. Do we have other questions that we need to knock out? I don't even, what time are we supposed to stop at? I don't even know. 
+
+Sara: Uh, like an hour ago, 
+
+Tyler: if y'all can't [02:40:00] tell, we have time, time blindness most of the time, and we just have a good time at what we're doing.
+
+So it's a manmade construct. Anyway, I'm sorry we ran over, but I just was trying to like see where we were supposed to stop. 
+
+Sara: Yeah. Um, we can definitely, 'cause there's like a bunch of, um, like, uh, not, I wouldn't, I don't wanna say random, but like niggly kind of things I think that we can work through as part of the q and a.
+
+So like, we'll take this with the q and a and get those answered and pushed out. Um, so hopefully that answers like, we'll get, we'll get your questions answered, basically. I just don't also wanna repeat, um, for a lot of people who have been sitting here for two and a half hours, thank you for your, thank you for like, also hanging in there and, you know, being committed to your learning as well.
+
+Tyler: Yeah, yeah. We, we appreciate y'all. We know that this is, it's a hard skill e even with us trying to like, put the training wheels on and get y'all to [02:41:00] really push the boundaries of what you're comfortable with. Um, thank you for trusting us with that process and your, your persistence to keep moving forward through it.
+
+Um, the payoff is something pretty special, like once this clicks and, and like what you're able to do beyond this now, which is, I guess like for the sake of time today, um, I, I'll like, sorry, I know you can help me remember too. Like, I, I wanna show them, um, the method of how we create an agent from, from the jump.
+
+How would we kind of even talk about coming up with a, what we call a PRD or like a document to make a completely new workflow with agents? And how could they use what they're doing in class as like a shop prompt example after class for like new stuff. So we can kinda touch on that some on Friday with like questions and stuff too.
+
+It'll be like open office hours, but I doubt that we run only an hour on Friday. Let's not, that's not for us, you 
+
+Sara: know? Um, also like we [02:42:00] will, uh, like I think a few people are still unclear about what the homework is and how to actually like put it all together. So we'll get stuff out for you as well.
+
+We'll send it through to I Eliana once we get the information from this session through, that way we can consolidate everything in one, uh, one go. So yeah, we'll, we'll put everything together for you and make sure that, you know, you guys have all the information you need for sure. 
+
+Speaker 4: Cool. 
+
+Ileana: That sounds great.
+
+Thank you so much. Thank you. And thank you everybody. Thank you Sandra as well for coming on live. She had such great insight. Um, you can really see, and I know you said this, Sarah, at the beginning of the call with these questions coming in, you can really see how much work the students have been putting in.
+
+'cause the questions are just getting more detailed with more insight. So that's really great. 
+
+Sara: Right. Thank you guys. So we're enjoying this process too. For sure. 
+
+Tyler: Yeah, it's been a lot of fun and it's been fun to see y'all. [02:43:00] Like you can see it in the questions you're asking like both here and through the form and stuff that.
+
+Y y'all are definitely putting in the work and you're pushing the limits. So I, I love it and I, I promise it, it pays off. Like even just the struggle bus, like getting there, it pays off. There's these moments where it just clicks and yeah, it's fun. 
+
+Ileana: Yeah. Thank you so much and thank you so much for also your honesty and, and saying that it is a struggle and showing that while you troubleshoot and while you explain to the students, you know, and even sharing your experience with some of these, uh, troubleshooting things or, um, yeah, 
+
+Tyler: yeah.
+
+You have to fall in love with that process kind of to be in this field for sure. 'cause it's, uh. It happens a lot. It, I mean just like in general in the space. And it always happens at the most inopportune times it seems like too. So yeah. It's fun though. My god, y'all, y'all have to remind me too on Friday 'cause I don't want to like what?
+
+Take up more time today. But, uh, I'll have to [02:44:00] tell this story about, I'll tell all myself just so y'all can normalize that this is normal. Like even we struggle with this stuff sometimes. We built out a demo for a live talk and uh, an API key was the goof for us on a in front of like, I can't even remember how many thousands of people we were doing that presentation for.
+
+Oh 
+
+Speaker 4: yes. And it was 
+
+Tyler: the most new beginner error that I made and I just was like, oh my God. It was, it was funny and it was like a teachable moment but it was just, yeah. Yeah. 
+
+Sara: We had 10,000 people sign up for that. 
+
+Tyler: It happens. Yeah. You get into the weeds of like so many times when you hit like a, a, a blocker and it just like cycling through trying to fix it and it can be just the most basic thing in your it is you can't see it 'cause you're in it, you know?
+
+So. Yeah, for sure. I'll, I'll tell on myself to make it more normal for y'all on Friday too. 
+
+Sara: Alright guys. Have a great afternoon or wherever your time zone is, um, and we will like collate stuff for [02:45:00] you and, and pass it on. 
+
+Ileana: Thank you so much and I will speak to you both about how we get these announcements up, about when the questions are answered.
+
+So I'll make sure to get that to the students once we align on that as well. 
+
+Tyler: Sweet. All right, thank you. 
+
+Ileana: All right guys. 
+
+Tyler: All y'all, we'll see you soon. 
+
+Ileana: Bye. 
+
+Tyler: Bye y'all. 
+
+Ileana: Bye everyone. Thank you so much. See you Friday.
+
+I don't have any announcements. I will just make sure to get everything to you all once I get it from Sarah and Tyler. As I said just now, I just have one question, so I don't remember who it was. I think it was, um, Theresa was asking that it was beneficial for all of you guys to have the last class resources in PDF file instead of the more TXT file, how they're up now and how Sarah and Tyler pass 'em to me.
+
+Do you want those in PDF file?[02:46:00] 
+
+Yes. Yes. Would be nice. Yes, both, both might be a little cramped in the, in the lesson. Um, so I can see how I do that, but uh, if it's both, it's both. Um, but as I said, it might look a little bit, a little bit cramped right now. Yes, they are in MD, but yeah. Okay. Let's pass 'em to PDF then. Okay, that sounds good.
+
+And Irene is asking where is that forum Tyler was speaking about so we can get responses to the questions. So the forum that he's talking about is actually the. The same question, the Google question form that you guys are filling your questions in when you submit questions over there, if I'm not mistaken, he uh, updates it on the GitHub.
+
+On the GitHub,[02:47:00] 
+
+okay? Okay. Thank you guys. I see you guys are saying please confirm both. Alright? Alright. I will do that
+
+and if you guys need anything else, I, um, I'm happy to stay back, but if there's something that we don't talk about now and it occurs to you in a second, just put it on the feedback form. You always have the feedback form inside the lesson. If you, you know, think about it hours later, put it in there. I make sure to read all of them, and I will get that to you as well.
+
+Dr. Williams says, what do you want for Christmas? Ilena? Yes, I saw your you're ho, ho. Happy ho. Thank you so much. Happy cri. Happy. Not yet, but happy December to all of you guys. Uh, I want to, I already asked my family that my family's coming to visit and I want to go up a high mountain with all of them and spend at least one night in the mountains.
+
+So that was my Christmas ask, which [02:48:00] they fortunately agreed to. I'm from Mendoza, it's a city in Argentina. I live in Enos Aires, but I'm from Mendoza and right next to the Andes Mountains. I love Trek. I love how high mountains. So that is my Christmas wish. But I wanna ask you guys when we get to the last lesson, uh, before the holidays with Vitas, I would love to ask you guys at the end of that lesson, what are your holiday wishes?
+
+I know a lot of you guys wanna get this and this is your holiday wish and you wanna ask Santa to get this in. Um, but I'm sure you guys can do that on your own.
+
+Okay. Theresa, I see the MD is available for us there. I see that the app has PDF, but the platform didn't. Okay, that's no worries. I'll still get it to you in PDF 'cause I saw a lot of people, uh, thought that that was useful as well. So Yes. Yes. I love the mountains. It's my place. [02:49:00] Alright guys, thank you so much for staying back.
+
+Thank you, Dr. William for that question. That was lovely. And for your wishes, cameo says, I love high Desert. Wow. Wow. Okay, Vicki, please write to me, write to me, uh, uh, I'm on six, so you can write to me a, a personal DM on six. I would love to let you know, and if I'm here also to meet up with you.
+
+Alright guys. Cia, uh, I loved spending time with you again. It's such a great class. Thank you for your focus. I know it's a lot. So thank you again, and we'll see you on Friday.
+

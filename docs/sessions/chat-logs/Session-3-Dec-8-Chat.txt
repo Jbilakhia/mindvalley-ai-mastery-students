@@ -1,0 +1,1005 @@
+00:15:17	Dr RaShon:	Hey there
+00:15:17	mica tufillaro:	hello!
+00:15:19	Sheila Hunkin:	Hello!
+00:15:24	Ana Cristina de la Torre:	🖖🏼
+00:15:25	Teresa Boixadera:	Hello!
+00:15:26	Dayleen:	Happy Monday !
+00:15:27	Cheryl:	Hello
+00:15:28	Nathalia Carbajal:	Hello!
+00:15:28	Sharon L. West:	hi all
+00:15:30	Joffrey Berti:	helooooo
+00:15:30	Eloise Mathieu:	Hi !
+00:15:30	Amandine Russell:	Happy Monday..Everyone .
+00:15:32	Carmen Stone:	Happy Monday!
+00:15:33	Glenn Tjon:	Hello from Panama City, Panama
+00:15:34	Laurie Mann:	Hello!! Good to see you!
+00:15:34	Federico Gallegos:	Happy Monday!
+00:15:34	Greg:	Good morning from Roseville CA
+00:15:35	Shikha- MV Team:	Hello everyone
+00:15:35	Andrea Burns:	Happy Monday!
+00:15:37	Domenic:	Hi, I'm an AI assistant helping Domenic Ashburn take notes for this meeting. Follow along the transcript here:  https://otter.ai/u/lxVYjCzFDmxJAqdhu8h_nM9uMcc?utm_source=va_chat_link_1
+
+You can see screenshots and add highlights and comments. After the meeting, you'll get a summary and action items.
+
+
+If you'd like to stop this recording, you can go to the link above and click the Stop button.
+
+If you'd like to stop the recordings for all Otter Notetakers in this meeting, you can type "otter stop" in Zoom chat.
+00:15:41	DiAna C:	Good Monday to All 😍
+00:15:42	Edgar Castillo:	Good Morning!
+00:15:43	Baron Alberto Voli  Puerto Rico:	oh yeah!
+00:15:45	Maria Malcherczyk-Hoffmann:	Hi everyone from Jacksonville, Florida
+00:15:48	Danika ~ Enteleki Coaching Inc:	Hi! Thank you for being here with us today Ile !
+00:15:49	Fireflies.ai Notetaker Mariana:	Mariana invited Fireflies.ai here to record & take notes. View Security & Privacy info: https://fireflies.ai/policy
+
+Type:
+'/ff leave' - Remove Fireflies
+00:15:58	Angela:	I don't know about well rested but Happy Monday@
+00:15:58	Gisli Rafnsson:	Evening from Reykjavik
+00:16:05	Adriana:	helo everyone
+00:16:07	Danika ~ Enteleki Coaching Inc:	We are so blessed to have Sara and Tyler share a Bonus Session with us. 🙏🏽
+00:16:19	Eloise Mathieu:	wooooohoooo !!!!! 🚀
+00:16:23	Lea Emery:	Hello friends!!!
+00:16:23	Laurie Mann:	Yes thank you for the extra mile!
+00:16:25	Frank Carreon:	yes blessed
+00:16:29	mica tufillaro:	welcome Tyler and Sara!
+00:16:35	dominic:	Hello
+00:16:39	Dayleen:	Hi Sara and Tyler - thanks for today!
+00:16:42	Andrea Martinez:	So good to see y’all’s faces.
+00:16:43	Raadi:	Ilay, whatever you are on, I want some too :) :): :) Love the energy! :)
+00:16:55	Elizabeth Romero:	Hello Guys!!!
+00:16:57	Frank Carreon:	we are so excited
+00:16:59	Frank Carreon:	DONE
+00:16:59	Michaela:	The bonus session is very much appreciated!!
+00:17:00	Angela:	Yay!  Praying I did my homework ok!
+00:17:01	Frank Carreon:	YES
+00:17:02	Isabelle Mickelson:	Great!
+00:17:02	Ana Cristina de la Torre:	Uffffffff….  bussy
+00:17:02	Eloise Mathieu:	OMG !!!! MIND BLOWN !
+00:17:03	Angela:	Yes!
+00:17:03	Lea Emery:	Worked hard
+00:17:03	Audrey Kohli:	Amasing
+00:17:04	Dayleen:	We worked SO HARD
+00:17:04	Joffrey Berti:	we are ON FIRE
+00:17:06	Michaela:	worked hard but successful :)
+00:17:06	Angela:	Busy!
+00:17:08	Patricia:	Yes
+00:17:09	Gisli Rafnsson:	yes
+00:17:09	Edgar Castillo:	Brutal but got through it!
+00:17:10	Lea Emery:	My AI said it was HARD
+00:17:11	Marie Ramos:	yay!!
+00:17:12	Cheryl:	yes! loving it
+00:17:12	May Cheung:	I am stuck
+00:17:12	Angelica:	Trying to get everything working since 6am!!
+00:17:19	Sophie Duchesne:	we did almost at the end of the line
+00:17:36	Karla:	thank you!  I am still working away.  This was challenging, but knowing I can go to Claude is great!
+00:17:38	Sheila Hunkin:	Yes! Got bogged down patching the echo processor!
+00:17:44	Lea Emery:	Agree @Cheryl. Loving it!
+00:17:47	Dayleen:	Claude Code new bestie :)
+00:18:04	Sophie Duchesne:	same for me with Echo Processor
+00:18:11	Gwen Mitchell:	Is there a step by step guide for Part 2 ?
+00:18:24	Gabriele Whyard:	Good morning from Brooking Oregon
+00:18:24	Isabelle Mickelson:	I'm stuck on the last step of the echo processor/trigger
+00:18:31	Ana Cristina de la Torre:	We were waiting to the second loom.. never arrived
+00:18:36	DiAna C:	Is it toooo late for me to begin all of it? Just beginning now 😅want to graduate how to best do that?
+00:18:37	Angela:	Where is Part 2?
+00:18:56	Gwen Mitchell:	How do we build the Stack ?
+00:19:05	Amber:	I have been working with the Anthropic team.  I am stuck in a forever loop with Claude 😱. I haven’t been able to complete my homework.  They say they thought they fixed it but are working one it
+00:19:12	Eloise Mathieu:	Has it anything to do with their new version 2 coming?
+00:19:22	Rebecca Koos:	where is the Stacks and Echo links?  I'm not finding it in the docs
+00:19:27	Tyler Aibuildlab:	🎯 PROMPT 1: Get Set Up / Update EverythingHelp me get set up with the MindValley AI Mastery student repo.
+
+If I don't have it yet:
+- Clone https://github.com/8Dvibes/mindvalley-ai-mastery-students to ~/GitHub/
+
+If I already have it:
+- Pull the latest changes
+
+Then verify I have these critical files:
+- tools/kb-manager/index.html
+- workflows/echo-processor-v2-2025-12-08.json
+- workflows/echo-trigger-v2-2025-12-08.json
+
+Tell me what you find and if anything is missing.
+00:19:38	Danika ~ Enteleki Coaching Inc:	I never ever thought I would say: I’m happy to do a git pull” 🤣
+00:19:50	Ana Cristina de la Torre:	Did you updated it?
+00:19:55	Sophie Duchesne:	how can with delete a workflow id we double?
+00:20:02	Joffrey Berti:	doing no
+00:20:05	Joffrey Berti:	now
+00:20:10	Ana Cristina de la Torre:	Shall we open a new chat or it is recommended in the same
+00:20:39	DEW:	Wow! Great… thought I was behind. lol
+00:20:42	Danika ~ Enteleki Coaching Inc:	I just told CC - and he pulled the updated repo
+00:21:02	Michaela:	Done
+00:21:08	TT:	Claude pro, slack account anythoing else?
+00:21:35	Gwen Mitchell:	What are the instructions for building STACK
+00:21:36	Angela:	My test said I am good to go but I am afraid that my N8N has an old workflow from a previous N8N class in it.  How do I check?
+00:21:42	Ching:	I’m late a bit. Can you send the prompt again?
+00:21:53	Ana Cristina de la Torre:	Get Set Up / Update EverythingHelp me get set up with the MindValley AI Mastery student repo.
+
+If I don't have it yet:
+- Clone https://github.com/8Dvibes/mindvalley-ai-mastery-students to ~/GitHub/
+
+If I already have it:
+- Pull the latest changes
+
+Then verify I have these critical files:
+- tools/kb-manager/index.html
+- workflows/echo-processor-v2-2025-12-08.json
+- workflows/echo-trigger-v2-2025-12-08.json
+
+Tell me what you find and if anything is missing.
+00:21:55	Ceca:	Me too unfortunately
+00:22:14	Teresa O'Keefe:	Can someone post the prompt posted this morning he just mentioned, I was late.
+00:22:14	Panda:	I see. I had a headache with that one
+00:22:45	Angela:	I used the same Claude code chat.  Is that ok?
+00:22:45	Lea Emery:	OUTPUT from the prompt ended with: “Everything looks good! You're ready to move forward with the updated Echo processor setup. 🎉”.    YAY!!!
+00:22:51	Joffrey Berti:	PROMPT 1: Get Set Up / Update EverythingHelp me get set up with the MindValley AI Mastery student repo.If I don't have it yet:- Clone https://github.com/8Dvibes/mindvalley-ai-mastery-students to ~/GitHub/If I already have it:- Pull the latest changesThen verify I have these critical files:- tools/kb-manager/index.html- workflows/echo-processor-v2-2025-12-08.json- workflows/echo-trigger-v2-2025-12-08.jsonTell me what you find and if anything is missing.
+00:22:59	Sara Aibuildlab:	🎯 PROMPT 1: Get Set Up / Update EverythingHelp me get set up with the MindValley AI Mastery student repo.
+
+If I don't have it yet:
+- Clone https://github.com/8Dvibes/mindvalley-ai-mastery-students to ~/GitHub/
+
+If I already have it:
+- Pull the latest changes
+
+Then verify I have these critical files:
+- tools/kb-manager/index.html
+- workflows/echo-processor-v2-2025-12-08.json
+- workflows/echo-trigger-v2-2025-12-08.json
+
+Tell me what you find and if anything is missing.
+00:22:59	Ana Cristina de la Torre:	Shall we also ask it to update in our GitHub or not yet?
+00:23:00	Teresa O'Keefe:	@Ana, is that the prompt from this morning?  Thank you.
+00:23:10	Teresa O'Keefe:	Thanks @ Joffrey!
+00:23:10	Joffrey Berti:	that's the prompt @teresa
+00:23:21	Camilla Bignell - Streamline Your Business:	Oh I put it in the original Claude Code folder will that cause a problem?
+00:23:22	Ana Cristina de la Torre:	From this minute Teresa
+00:23:33	Panda:	MY CLAUDE CODE COULDNT FIND STACKS SO I DID A WHOLE THING WITH PYTHON...........
+00:23:35	Dana Gant:	Can you repost the prompt please?
+00:23:37	Panda:	IT WAS CRAZY
+00:23:41	Ana Cristina de la Torre:	Get Set Up / Update EverythingHelp me get set up with the MindValley AI Mastery student repo.
+
+If I don't have it yet:
+- Clone https://github.com/8Dvibes/mindvalley-ai-mastery-students to ~/GitHub/
+
+If I already have it:
+- Pull the latest changes
+
+Then verify I have these critical files:
+- tools/kb-manager/index.html
+- workflows/echo-processor-v2-2025-12-08.json
+- workflows/echo-trigger-v2-2025-12-08.json
+
+Tell me what you find and if anything is missing.
+00:23:42	Joffrey Berti:	it works and uploaded successfully on mine
+00:23:53	Michela Gentile:	For setting up the OpenRouter do we use our own Gmail account or a new test account?
+00:24:00	Sharon L. West:	sigh
+00:24:03	Ana Cristina de la Torre:	Me too.. 3 updates
+00:24:12	Sandra Salem:	I made it!
+00:24:17	Elizabeth Romero:	Done!!
+00:24:23	Ceca:	All done
+00:24:24	Isabelle Mickelson:	Done!
+00:24:25	Sara Aibuildlab:	⚡
+00:24:37	Angela:	Use a new test gmail account.  You will not want to use your own gmail account
+00:24:53	Joffrey Berti:	do we need to reput the ECHO in n8n ?
+00:24:55	Michela Gentile:	Would it be possible to have a simple diagram of how all these tools work together or are connected?
+00:25:01	Joffrey Berti:	it says a versio from 8 12
+00:25:06	Barbara Platteel:	i tried to merge in GitHub but I could not merge. Then i put in this: Hi @8Dvibes — I added the Palapa Hidden Oasis brand voice and templates (MD + XML) and updated the Sugar agent prompt. This is content-only and ready to merge if you’re happy with the wording. Could someone on the 8Dvibes team review and merge? Thank you!
+00:25:11	Zan:	Mine is asking me for permission to agree to each bash command. Is that normal?
+00:25:23	Panda:	😭 python
+00:25:26	Angelica:	It’s telling me I need to Use The Stacks….is anyone else there?
+00:25:26	Lea Emery:	I love that you are human and you own your stuff! xo
+00:25:28	Ana Cristina de la Torre:	Put yes Zan
+00:25:31	Sheila Hunkin:	Haha, I was trying to build the processor from the v1!!
+00:25:33	Elizabeth Romero:	Yes it is normal  say yes
+00:26:25	Joffrey Berti:	olala do we have to do COMMIT + PUSH too ?
+00:26:30	AS:	I don't have the bridge on claude code as you do, how do you install it?
+00:26:41	ileana - Host:	@Juan is your hand up or what is also a mistake? 🤪 Let us know and I’ll bring you up when Sara and Tyler give me the ok 🙂!
+00:26:49	Patricia:	It appears the critical files you're looking for are not in the main branch of the repository at this time. They may be part of a future update or a specific branch. Please check for any announcements in the course Slack channel for instructions on how to access these files.
+00:27:06	Zan:	Thanks @Ana
+00:28:11	Bhavik:	When building automations in n8n, how do you architect it to ensure enterprise-grade data security, specifically around access control, data storage, and credential handling, so sensitive business data is protected end-to-end?
+00:28:32	Angela:	I'm already lost - where do I get the instructions for what you are doing?  I did not see anything about Echo yet.  I only got through Onboarding
+00:28:55	annaw:	same only got through onboarding
+00:28:59	Sara Aibuildlab:	Angela the echo workflow is in part 2 of the homework after onboarding 🙂
+00:29:13	Sara Aibuildlab:	I’ll clarify now
+00:29:18	Angela:	I thought that was what we are supposed to do before today's class and HW2 before Wednesday.
+00:29:30	Angela:	Ok thank you.
+00:29:40	Ana Cristina de la Torre:	We couldn’t because there was an issue that we just updated
+00:30:03	Panda:	you have to upload the new REPO
+00:30:03	Dietrich Busacker:	Shouldn’t we first start with the Haetie B example?
+00:30:03	Sharon L. West:	not
+00:30:19	Nathalia Carbajal:	QUESTION: I got stuck on Step 4 (Run the Echo Workflow). Apparently, it is an issue with my Claude’s credits. So Claude Coding suggested creating the XML for me and adding to the Agent. Is this ok?
+00:30:50	Isabelle Mickelson:	Do we have to confirm the email before we execute the workflow?
+00:30:50	Joffrey Berti:	did you updated the ECHO with today version of the REPO ?
+00:31:02	Panda:	yes they did
+00:31:13	Angela:	Thank you!!!
+00:31:17	Isabelle Mickelson:	Yes
+00:31:20	Joffrey Berti:	yes
+00:31:24	Catalina Villarreal:	yes
+00:31:25	Teresa O'Keefe:	Yes, conceptually
+00:31:25	Dietrich Busacker:	No
+00:31:27	AS:	how can we do part 2of the homework?
+00:31:31	mica tufillaro:	👍
+00:31:32	Darren Sweet:	no
+00:31:34	Karla:	thank you as I am a little behind, but am feeling good overall.
+00:31:34	Ana Cristina de la Torre:	Yes... the huge echo workflow.. are we going to see it? Because it didn’t show
+00:31:35	Sandra Salem:	Part 2 needs ti be completed bsfore Wednesday's class.
+00:31:35	Angelica:	No, still connecting to the stacks
+00:31:39	Jeanne:	Where to find the FAQ,.. for Hattie  B’s to upload?
+00:31:39	Tatiana Safronova:	no, still have issues with setup
+00:31:45	Eloise Mathieu:	Just a quick on this …it is OUR VOICE right for this step? that we will input into Sugar
+00:31:48	annaw:	same still issues with set up
+00:31:56	Sharon L. West:	still trying HA to complete onboarding!
+00:32:04	Angelica:	Issues connecting to the stacks
+00:32:06	Tatiana Safronova:	yes, VS Code and Claude
+00:32:07	Panda:	Do we need to create to create a corpus document in Gemini or just use Slacks?????
+00:32:08	Barbara Platteel:	Tried to MERGE my docs on GitHub but it didn’t let me
+00:32:09	Ceca:	My bad I just did first homework Ill do my best to do my best
+00:32:15	AS:	I have done the full set up and onboarding but I don'\\
+00:32:41	Joffrey Berti:	where do you get this one ?
+00:32:45	Ana Cristina de la Torre:	Mine is not that big as yours
+00:32:45	Joffrey Berti:	we Don't have it
+00:32:55	Isabelle Mickelson:	I don't have that one
+00:32:56	Adriana:	we dont have this one
+00:32:58	Panda:	you need to update ther REPO
+00:32:58	Ana Cristina de la Torre:	It only has 3 nodes in a column
+00:33:05	Ana Cristina de la Torre:	The steps are not there …
+00:33:17	Joffrey Berti:	@Sara our ECHO V2 is not the same at all, much smaller
+00:33:17	Sara Aibuildlab:	@Eloise yes, this is so the Sugar agent sounds like you working for Hattie B’s in the customer service workflow
+00:33:18	Ana Cristina de la Torre:	Ours starts with “manual trigger
+00:33:38	Dietrich Busacker:	I am well onboarded but  in N8N it is showing me 3 Webhook workflows kb-create store…. kb- upload + kb list-store
+00:33:46	Eloise Mathieu:	@sara - thanks ! ;)
+00:33:50	Ana Cristina de la Torre:	20 nodes total
+00:33:51	Adriana:	That was the big confusion, we have a different echo brand voice Analysis
+00:33:58	Sara Lemniei:	cn it be linked to OUtlook instead of gmail
+00:33:58	Nathalia Carbajal:	QUESTION: I got stuck on Step 4 (Run the Echo Workflow). Apparently, it is an issue with my Claude’s credits, so I never received the email. So Claude Coding suggested creating the XML for me and adding to the Agent. Is this ok? BTW, I confirmed I have the latest repo from today. 🙂
+00:34:17	Tyler Aibuildlab:	🎯 PROMPT 1: Get Set Up / Update EverythingHelp me get set up with the MindValley AI Mastery student repo.
+
+If I don't have it yet:
+- Clone https://github.com/8Dvibes/mindvalley-ai-mastery-students to ~/GitHub/
+
+If I already have it:
+- Pull the latest changes
+
+Then verify I have these critical files:
+- tools/kb-manager/index.html
+- workflows/echo-processor-v2-2025-12-08.json
+- workflows/echo-trigger-v2-2025-12-08.json
+
+Tell me what you find and if anything is missing.
+00:34:35	James Wilson:	exactly where I am in the homework
+00:34:37	Joffrey Berti:	then you need to push this into n8n manualy
+00:34:40	AS:	idont  have the _bridge that you have on your claude code even if I did the full set up and onboarding.
+00:34:43	James Wilson:	Thanks
+00:34:45	Ana Cristina de la Torre:	What is the name of this flow?
+00:34:50	Ana Cristina de la Torre:	In order to import it in N8N?
+00:34:53	Dayleen:	Do we go through onboard again?
+00:34:58	Joffrey Berti:	EhoBrandVoice Analysis is the name right?
+00:35:17	Darren Sweet:	How are we supposed to complete an assignment that's constantly changing?
+00:35:20	Joffrey Berti:	so we do import ONLY this one, not the one capturing our megadoc
+00:35:50	Ana Cristina de la Torre:	Which one it is?
+00:36:00	AS:	i don't  have the _bridge that you have on your claude code even if I did the full set up and onboarding.
+00:36:01	Eloise Mathieu:	@sara/Tyler from a “hygiene” perspective should we create a “archive” folder and keep older versions of docs and workflows somewhere in the repo ( local and on Github)?
+00:36:04	Catarina108x:	Setup Progress
+✅ Prerequisites verified:
+Git installed (v2.50.1)
+GitHub CLI installed and authenticated
+Repo in the right location (~/GitHub/mindvalley-ai-mastery-students)
+All required files present
+00:36:19	Sophie Duchesne:	If i understand I have to upload the echo again….?
+00:36:55	Dayleen:	Ok great - thanks now makes sense
+00:36:59	Catarina108x:	Do I need to do this?: ## Claude Desktop Configuration for AI Mastery
+
+### Step 1: Create a New Project
+1. Open Claude Desktop
+2. Click "New Project" (or the + button)
+3. Name it: "AI Mastery"
+
+### Step 2: Add This Repository
+1. In your AI Mastery project, click the "+ Add content" button
+2. Select "Add a directory"
+3. Navigate to and select: /Users/catarinahenriques/GitHub/mindvalley-ai-mastery-students
+4. Click "Add"
+
+### Step 3: Add Course Materials (if you have them)
+- If you received a course PDF in your welcome email, add it too:
+  - Click "+ Add content" again
+  - Select "Add file"
+  - Choose the PDF
+  - This gives Claude Desktop full course context to help you better
+00:37:14	Sandra Salem:	Eloise.Github does that by default, that is why is a repository. Eevery new change is stored in a different folder, so you can always go back in time if any errors are intorduced
+00:37:16	Joffrey Berti:	It works, for all , do import the new one into n8n
+00:37:24	Barbara Platteel:	help: Conflicting Form Path
+
+A form trigger 'Echo Form' in the workflow 'Librarian Tool (DEC-018)' uses a conflicting URL path, so this workflow cannot be activated
+ 
+You can deactivate Librarian Tool (DEC-018)and activate this one, or adjust the following URL path in either workflow:
+https://palapavillage.app.n8n.cloud/webhook/echo-form
+00:37:27	elena:	Yes please, I am confused where we are working for echo, is this in n*n or GitHub? When you say workflow  is that in n8n.
+00:37:35	Marcello:	✅ YOU'RE COMPLETELY READY FOR CLASS!
+Everything is set up and verified: ✅ Repository - Updated with latest materials
+✅ Prerequisites - Git, GitHub CLI authenticated
+✅ Gemini API - Tested and working
+✅ N8N Cloud - Trial active, workflow tested successfully
+✅ Claude Desktop - Already configured
+✅ Claude Code - Working (you're using it now!)
+🎓 Next Steps
+Session 1 - December 10th (Wednesday) You'll be building:
+AI-powered email processing system
+Knowledge base with Gemini
+Human-in-the-loop approval workflow
+Brand voice customization
+You're ahead of the game! Most students will be troubleshooting setup during class - you can dive straight into building. 💪
+📚 Before Class (Optional)
+If you want to explore ahead:
+Check out tools/kb-manager/index.html - Web interface for managing your knowledge base
+Browse workflows/README.md - Overview of the workflows
+Review docs/w2-credential-setup.md - Week 2 setup guide
+Great work getting everything set up! See you in class on Wednesday! 🚀 Any other questions before then?
+00:37:41	Angelica:	My Claude Code is saying:
+00:37:43	Angelica:	What You Have Ready:
+✅ Knowledge Base Created: corpora/hattie-b-hot-chicken-knowle-z13xzb5qcynf
+✅ 5 Documents Uploaded: Brand Voice, FAQ, Locations, Menu, Policies
+✅ Latest Echo Workflows: Ready to import into N8N
+✅ KB Manager Tool: Available at tools/kb-manager/
+00:37:44	Marcello:	But I don see the workflows
+00:37:45	Barbara Platteel:	Conflicting Form Path
+
+A form trigger 'Echo Form' in the workflow 'Librarian Tool (DEC-018)' uses a conflicting URL path, so this workflow cannot be activated
+ 
+You can deactivate Librarian Tool (DEC-018)and activate this one, or adjust the following URL path in either workflow:
+https://palapavillage.app.n8n.cloud/webhook/echo-form
+00:37:54	Ana Cristina de la Torre:	Are these the ones we have to upload? Claude doesn’t do it for me:
+00:37:56	Ana Cristina de la Torre:	workflows/echo-processor-v2-2025-12-08.json (69K) - Updated main processor
+workflows/echo-trigger-v2-2025-12-08.json (6.4K) - Updated trigger workflow
+workflows/w2-approval-handler-v1-2025-12-08.json - New approval handler for Week 2
+00:37:56	Joffrey Berti:	it's the same as yours Tyler. Regarding the Echo Trigger, do we need to upload the new v2 from today too into n8n ?
+00:38:03	Catarina108x:	Ty
+00:38:10	Sheila Hunkin:	I've got an error in node Step 1 Sentence Structure because it's not picking up my API. Where should I have entered it - so as not to check every node!
+00:38:14	Barbara Platteel:	Conflicting Form Path
+
+A form trigger 'Echo Form' in the workflow 'Librarian Tool (DEC-018)' uses a conflicting URL path, so this workflow cannot be activated
+ 
+You can deactivate Librarian Tool (DEC-018)and activate this one, or adjust the following URL path in either workflow:
+https://palapavillage.app.n8n.cloud/webhook/echo-form
+00:38:16	Angela:	sorry -- where are the instructions for HW 2?
+00:38:32	Sheila Hunkin:	Ah, maybe that's my problem - I used openrouter
+00:38:34	Eloise Mathieu:	@sandra Thanks ! ;)
+00:38:35	Darren Sweet:	I spent 4 hours completing the FIRST set of instructions. It has been changed so many times since then I can't keep track.
+00:38:53	Panda:	@Angela you can ask Claude and it will tell you the file
+00:38:57	Sandra Salem:	My pleasure @Eloise!
+00:39:00	Angela:	i completed Onboarding and entered the prompt that Tyler put in the chat to verify everything.
+00:39:05	Angela:	Thanks @Panda
+00:39:06	Jeanne:	Dumb question - where are these files for this prompt - ### Claude Code Prompt
+```
+I have a corpus/knowledge base set up in Google AI Studio. Now I need to upload documents to it.
+
+I have these types of documents ready:
+- FAQ about my business
+- Policies (returns, shipping, etc.)
+- Product/service information
+- Location/contact info
+00:39:12	Sara Aibuildlab:	Angela I believe part 2 of week 1 homework instructions are loaded up on mastery right @ileana?
+00:39:26	ileana - Host:	Yes @Sara :)
+00:40:14	Angela:	@Iliana - what is the name of the file for Part 2 of week 1 HW?
+00:40:25	Danika ~ Enteleki Coaching Inc:	CC offered to help me change the API settings for Anth - but said it would take some time… so I kept antrhropics - where I have money (but I think Open source is cheaper to use!)
+00:40:35	Simpatico Design Studio:	says: But this would require editing the HTTP request nodes in the workflow to:
+Change the API endpoint URLs to OpenRouter's endpoints
+Adjust the authentication headers
+Potentially adjust the request/response format
+00:40:39	Laurie Mann:	Angela:  HW2 Instructions are in the Class Link:  Q&A + Workshop: Build Automations with AI Modules - Part #1 with Sara and Tyler. Scroll down and you'll see a list of downloads.  Homework Part 2: Quick Guide is the 5th one down in the list.
+00:40:50	Angelica:	Yess!! Please walk through
+00:40:56	ileana - Host:	Thank you @Laurie <3
+00:41:07	Angela:	Thank you Laurie.  I will check again
+00:41:13	Teresa O'Keefe:	So happy for replays and extended access right about now!
+00:41:17	Laurie Mann:	You're welcome Ileana 🥳
+00:41:38	Dietrich Busacker:	The prompt is great and it has installed the Stacks UI 😅
+00:41:58	Sara Aibuildlab:	🎉
+00:42:15	Ana Cristina de la Torre:	To make the test of the email, do we need to activate the workflows? And which one?
+00:42:22	Ceca:	Can you please pass this message to us in here so we can just copy and paste
+00:42:40	Barbara Platteel:	I have done both sets of homework but it doesn’t look like what you have
+00:42:53	Tyler Aibuildlab:	Alright, Claude, uh, this is Tyler, but I am doing a live demo right now for class. where we are walking through the process of completely setting up end to end our our our week one homework that we need to do. So I already have VS Code set up, I have Claude Code installed, obviously that's how I'm talking to you, Claude. So I need you to help me walk through and get all this set up so I complete all the rest of the things that I need to get done for. one please. Can you list that out and just walk me through this in really easy to understand workflows so I know what needs to be done? And we I have my own little punch list that we're working off of now, please. Thank you.
+00:43:10	Laurie Mann:	LOLOL!
+00:43:53	Bhavik:	I'm using codex and because of the instruction, it keeps thinking that it needs to set up Claude code. how do I get around this
+00:44:05	Marie Ramos:	chat GPT helped me to get the onboarding set up
+00:44:27	Michaela:	The documentation is great and ChatGPT can also walk you through if you get stuck. Just share the documentation and the screenshots of where you are at in the process :)
+00:44:39	Joffrey Berti:	@Sara the ECHO TRIGGER V2 from today is not working, we have an Error to activate it
+00:44:43	Sara Aibuildlab:	🧠
+00:44:48	Sandra Salem:	On defense of Pc people, when going through the Pre-SETUP list, my Mac friends were the ones having some hiccups...my PC flew throgh the entire process :P
+00:44:53	Panda:	Reasking about a previous prompt someone else posted. I already did this step but I want to do it correctly. what is the Prompt for creating Corpus KB.
+00:45:04	Panda:	From Jeanne to everyone 12:26 PMDumb question - where are these files for this prompt - ### Claude Code Prompt```I have a corpus/knowledge base set up in Google AI Studio. Now I need to upload documents to it.I have these types of documents ready:- FAQ about my business- Policies (returns, shipping, etc.)- Product/service information- Location/contact info
+00:45:07	Joffrey Berti:	@ana were you able to activate the echo trigger ?
+00:45:27	Sandra Salem:	Give me some songs!
+00:45:28	Marie Ramos:	I need that last promt
+00:45:31	Jared Underwood:	From what email address are you emailing the updates or notes you have been referencing, so I can search my email for them?
+00:45:36	Eloise Mathieu:	@sara - hold on, someone created 2 songs for you guys
+00:45:38	Steve:	Can you drop that second prompt into the chat
+00:45:40	AS:	last prompt please
+00:46:09	Marcello:	I complete lost, Claude tell me that I should not doing things?!?
+00:46:13	Teresa O'Keefe:	Prompt:  Okay, all right, Claude, I have Git installed, and I have the GitHub CLI. 
+The repo is not in the best location. It's currently in my desktop. So if you can relocate that to a better spot where it's not going to have any sort of issues, as you know, with iCloud syncing, that would be appreciated. I also have my account set up. I have my na in Cloud account set up. I do have my Google, AI studio, my Gmail, Google Sheets, all of that and slack are all set up. I have a Claude pro account, and I have my open router API key. I've done all of that. I can provide you with any of this information that you need, or if you're ready for me to proceed on into phase three, I'm good with that. Feel free to ask me any questions that I can answer to help you. Help me. Very Jerry Maguire here to get into phase three, please. Thank you.
+00:46:18	Tyler Aibuildlab:	Alright Claude, I have Git installed and I have the GitHub CLI. Um the repo is not in the a best location. And it's currently in my uh desktop. So if you can relocate that to a better spot where it's not going to have any sort of issues, as you know, with iCloud syncing, that would be appreciated. I also have my GitHub account set up. I have my NAN Cloud account set up. I do have my Google AI Studio, my Gmail, Google Sheets, all of that and Slacker all set up. I have a Claude Pro account and I have my OpenRouter API key. I've done all of that. I can provide you with any of this information that you need, or if you're ready for me to proceed on into phase three, I'm good with that. Feel free to ask me any questions that I can answer to help you help me. Very Jerry Maguire here to get into phase three, please. Thank you.
+00:46:40	Marcello:	⚠️ This Won't Work Yet
+Even with the correct webhook URL, the KB Manager needs specific N8N workflows to be imported and running that:
+Listen at endpoints like /webhook/kb-upload, /webhook/kb-list, etc.
+Handle the proxy calls to Gemini
+Process file uploads and searches
+Those workflows aren't imported yet! You only imported the test workflow (00-test-connection.json).
+🎯 What You Need to Import
+The KB Manager needs these N8N workflows (they'll be covered in Session 3):
+KB Upload Handler
+KB List Handler
+KB Delete Handler
+KB Search Handler
+💡 My Strong Recommendation
+Don't configure the KB Manager yet. Here's why:
+The required N8N workflows aren't set up
+If you save now, it will fail when you try to use it
+You'll get confusing error messages
+The instructor will guide you through the proper setup in Session 1 or 3
+Just close the settings for now and wait for class! ⏸️ Does that make sense? 🤔
+00:46:52	Camilla Bignell - Streamline Your Business:	And those prompts go in a new Claude folder?
+00:46:59	Marcello:	But you a much further then me or not?
+00:47:20	Ana Cristina de la Torre:	This errors is when trying to activate the new echo trigger: A form trigger 'Echo Form' in the workflow 'Echo Trigger (Fast Response)' uses a conflicting URL path, so this workflow cannot be activated
+00:48:23	Sheila Hunkin:	My cc is now modifying the v2 workflow to update the 14 occurrences of the URL to update to openrouter
+00:48:23	Joffrey Berti:	the error is on the PROCESSOR NODE in ECHO TRIGGER
+00:48:42	Hus:	I know this is a homework review, is this going to be added to the MV portal that we have access to with all the lessons for ease of flow when reviewing and learning?
+00:48:44	debb:	Will Claude recall passt conversation?
+00:48:51	Ceca:	It really helped
+00:48:53	Joffrey Berti:	node called "execute processor"
+00:49:07	Jeanne:	If we are up to date, then we don’t have to do this part correct?
+00:49:08	Sheila Hunkin:	There was a field name difference in the email address between trigger and processor
+00:49:08	Ceca:	Thank you no setting up n8n …perfect
+00:49:29	Teresa O'Keefe:	@Debb I think it will if you put it in the Claude version of a project
+00:49:46	ileana - Host:	@Nathan yes! You will find it in Intro 6
+00:50:16	ileana - Host:	@Nathan here is the direct link: https://home.mindvalley.com/quests/en/ai-mastery-2025/intros/6
+00:50:55	Panda:	Do I need the CORPUS KB even though I have THE STACKS now? ---ps. someone was asking if there is a specific prompt to do this as well.
+00:52:09	Michaela:	Great tip - thanks!
+00:52:41	Marcello:	I did this
+00:52:42	Marcello:	🎯 Great Question! Here's When You Import Each Workflow
+Short answer: Not yet! You'll import them during the live sessions when you actually build each part of the system.
+📅 Workflow Import Schedule
+✅ Already Done:
+00-test-connection.json - You imported and tested this! ✓
+📚 Session 1 (Dec 10):
+You'll import:
+gemini-ingestion-engine-v2-2025-11-27.json - Upload docs to knowledge base
+echo-trigger-v2-2025-12-08.json - Form to test your brand voice
+echo-processor-v2-2025-12-08.json - Main email processing engine
+📧 Session 2 (Later in the course):
+You'll import:
+email-filter-v1-2025-11-27.json - Smart email classification
+librarian-tool-v1-2025-11-27.json - Knowledge base search
+00:52:55	Marcello:	🤔 Why Wait to Import?
+Each workflow needs configuration:
+API keys (OpenRouter, Gemini, etc.)
+Credentials (Gmail, Slack, Google Sheets)
+Your business-specific prompts
+Testing and validation
+During the live session, the instructor will:
+Explain what each workflow does
+Guide you through importing it
+Help you configure the credentials
+Walk you through testing it
+Troubleshoot any issues
+💡 What You Should Do Now
+Nothing! You're completely ready. 🎉 Your onboarding is 100% complete:
+✅ Repository updated
+✅ Git/GitHub CLI working
+✅ Gemini API tested
+✅ N8N connected and tested
+✅ Claude Desktop configured
+✅ Claude Code working
+In Session 1 (Dec 10), you'll:
+Import the Session 1 workflows (Echo system)
+Configure your API keys and credentials
+Upload your first knowledge base documents
+Test your brand voice agent
+Send your first AI-processed email
+00:53:07	Marcello:	So I don’t do anything anymore?
+00:53:11	Marcello:	at the moment?
+00:53:24	Simpatico Design Studio:	in jail. great timing 🙁
+00:54:57	Glenn Tjon:	n8n MCP works great
+00:55:15	Catarina108x:	What is the next step after this confirmation: 📚 You're Ready for Class!
+Session 1 is December 10th (Wednesday) - Focus: Architecture & Knowledge Base Setup You now have:
+✅ All accounts configured
+✅ Development environment working
+✅ Test workflows verified
+✅ API connections validated
+Next Steps:
+Regenerate those API keys for security
+Review the course materials in this repo when you have time
+Show up to Session 1 ready to build!
+00:55:19	annaw:	how do we acces the loom vidoes? i only see text and documents but no videos
+00:55:46	Sara Aibuildlab:	Annaw I believe they are on Mastery right @ileana
+00:56:11	ileana - Host:	@Annaw the Loom videos do not show up as Loom videos, but as a ‘regular’ video instead - right underneath the class recording
+00:56:27	annaw:	ok thank you will find them after class
+00:56:46	ileana - Host:	Ok! Let us know if you have issues with that
+00:56:59	Dana Gant:	Ileana, I missed the class the other day. But in order to to use Claude code, Is it necessary to have a Pro account?
+00:57:47	Danika ~ Enteleki Coaching Inc:	@Dana - yes
+00:58:12	Marie Ramos:	the doc guide was fabulous for part 1
+00:58:13	Barbara Platteel:	i have done the entire onboarding including part 2 but i cannot follow anything your saying. my n8n does not look that huge!
+00:58:16	Karla:	No I need this part.  Please do skip ahead yet.  Thank you
+00:58:17	Gwen Mitchell:	Tyler now you will need to go back and change the google ai studio key that you gave it correct
+00:58:17	Greg Giles:	Thank you
+00:58:41	Sophie Duchesne:	why w2-approval-handler-v1-2025-12-08.json (new for Week 2) doesn work when i try to upload
+00:59:09	Dana Gant:	Thank you Danika!
+00:59:43	Ozzie Stewart:	I did my Part 1 homework over 8 1/2 hrs between Sat + Sun with Claude's help. The edited video instructions were the best. Thank you.....Had a problem getting on today through the zoom link until about 12.25 so missed a lot but here
+00:59:44	Angelica:	Am I supposed to run the “Echo Brand Voice Analysis”?
+00:59:55	Danika ~ Enteleki Coaching Inc:	@Dana 🌸
+01:00:07	Barbara Platteel:	Conflicting Form Path
+
+A form trigger 'Echo Form' in the workflow 'Librarian Tool (DEC-018)' uses a conflicting URL path, so this workflow cannot be activated
+ 
+You can deactivate Librarian Tool (DEC-018)and activate this one, or adjust the following URL path in either workflow:
+https://palapavillage.app.n8n.cloud/webhook/echo-form
+01:00:08	Sara Aibuildlab:	@gwen answered 🙂
+01:00:30	Rupal Sheth:	I got this on the last step - what does it mean "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric:
+01:00:33	AS:	prompt please
+01:00:38	Steve:	Please post that latest prompt into the chat
+01:00:42	ileana - Host:	@Danika <3 Thank you for stepping in :)
+01:00:44	Sara Aibuildlab:	Well done @ozzie - everything is recorded and added to portal
+01:00:56	Sandra Salem:	Part 2 of the Homework...Woohoo!
+01:02:17	Joffrey Berti:	for all, when you update your ECHO TRIGGER and PROCESSOR in n8n, you have to link both in the node Execute Processor (if you have an error)
+01:02:26	Danika ~ Enteleki Coaching Inc:	@Ile <3
+01:02:50	AS:	Last prompt please :-)
+01:02:50	Steve:	Please post that latest prompt into the chat
+01:02:52	Amber Mirza:	@Sara @Tyler you guys are so awesome!  Thanks for taking such care to make sure we are all onboard and understanding.  I am bummed that I am of the people impacted by the Claude system issues and am behind on the homework.  I promise to catch up as soon as I can.  Thanks again!
+01:03:08	Tyler Aibuildlab:	Great, so now the part two of my homework is that I'm supposed to be going in and working on getting the Echo workflows set up and and getting that part going. So can you look in the repo to understand what all else I'm supposed to have done before week one is complete so that I'm prepped and ready for week two's Wednesday class. Thank you.
+01:03:11	Panda:	I thought we needed to do the CORPUS before the sugar agent?
+01:03:37	Angelica:	How do we know if everything is set up before starting part 2?
+01:03:40	Dana Gant:	Thank you Tyler!
+01:03:41	Sandra Salem:	Did you guys provided a brand voice as a placeholder for thys demo system for Hattiie' B's? Ii dont have a brand yet.
+01:03:42	Julian Mota:	that what i thought
+01:03:51	Sara Aibuildlab:	@amber what are the Claude system issues ?
+01:04:26	Ray:	In n8n, how do we create the grouping of workflows under a single name: Name/Workflow 1 by example
+01:04:54	Catarina108x:	Are these suggestions accurate? ✅ Your Pre-Class Checklist
+*  Regenerate N8N API key (delete old one)
+*  Regenerate Gemini API key (delete old one)
+*  Sign up for OpenRouter and add $5 credit
+*  Import Echo trigger + processor workflows to N8N
+*  Link Echo trigger to Echo processor (update workflow ID)
+*  Import Gemini ingestion workflow
+*  Try the KB Manager tool (optional but helpful)
+*  Gather 3-5 personal writing samples for brand voice
+*  Review Session 1 agenda and FAQ
+*  Test Echo workflow with your materials (optional early practice)
+01:05:11	Ozzie Stewart:	Oh hey Tx @sara.... Have to get off by 1:15 for another meeting and will be unable to do any work tomorrow for Wednesday, but hopefully I can finish with review of today's work........I'm on cloud 9 completing Part 1 by myself with Claude....still traveling the universe out of my realm....but here ...PHEW!!!!
+01:05:44	Dietrich Busacker:	In my Homework Part 2 Step is Create a Store
+01:06:00	Sara Aibuildlab:	@ozzie welcome to the 8th dimension 👾🌠
+01:06:08	Tyler Aibuildlab:	Uh hey Claude. Uh so when I'm seeing your steps here, even just like reading step one, I I stopped right away because um my understanding was that from uh Tyler and Sarah in their demos and videos is that you would be able to go in and help me see. Me set up my stacks and all of the pieces that connect into that from N8N to be able to have my knowledge base all set up with the library and everything. So can you go and explore the repo and then come back and uh tell me what you can go do. Give me the handover prompt to give to a brand new Claude code thread that I will copy and paste. And you in that new thread will set up my stacks and my Gemini. All of it. Everything for me and you only tell me the parts that I explicitly need to go in and take care of on my end. Thank you
+01:06:09	Amber Mirza:	@Sara The system doesn’t recognize your account and Claude Code keeps putting you in an endless loop as if you are just signing up.  It asks you to log in when you are logged in and support is not accessible via chat.  You can’t access Claude Code from within or even outside of VS Code.  Those are the main ones but other tech issues too
+01:07:16	Lea Emery:	Totally appreciate that pro tip!  I just starting using that.  Also telling it to do all of the work that it can. Didn’t know that 🤕
+01:07:24	Joffrey Berti:	so cool
+01:07:51	Dayleen:	oh that is cool
+01:08:00	Amber Mirza:	@Sara they said they thought they had fixed it as a number of their members are affected but I guess there are still problems and they told me they are working on fixing it.  I even offered to set up a new subscription but since some now signups are also experiencing it, they did not advise it at the moment
+01:08:29	Catarina108x:	I’ve done this before: Sign up for OpenRouter and add $5 credit; I’m not sure about this: *  Import Echo trigger + processor workflows to N8N
+*  Link Echo trigger to Echo processor (update workflow ID) and these: Import Gemini ingestion workflow
+*  Try the KB Manager tool (optional but helpful)
+01:08:41	Sophie Duchesne:	I have to leave , thank you I will definitely listen the recap …hopefully later today? thank you for everything
+01:08:55	Sara Aibuildlab:	Take care Sophie!
+01:09:28	Gisli Rafnsson:	Do they work together or do we need to paste between them
+01:09:31	Eloise Mathieu:	Love this tip; will be very useful … I have too many tabs open and don’t want to lose them ( can’t see the history for some reason 😑)
+01:09:33	D Dal Corso:	Are you now in Claude desktop or vs code
+01:09:34	Amber Mirza:	Nice!
+01:10:37	Eloise Mathieu:	That happens also if you have too many screenshots attached to chats 🫣
+01:11:05	Angelica:	@Sara can we add screenshots into Claude code?
+01:11:09	Julian Mota:	condensing and consolidation is not good for regulators
+01:11:10	Dayleen:	can you say again how you manage that?
+01:11:18	Joffrey Berti:	angelica YES
+01:11:29	Ana Cristina de la Torre:	Stacks are part of part 1? There were issues there as well, it couldn’t find it… I just put manually the MD documents in my project folder… is that enough or it has to be up in Gemini somehow?
+01:11:35	Eloise Mathieu:	@angelica YES !!! this is soooo useful when you are stuck.  Ask Claude to tell you what the issue is
+01:11:49	Sandra Salem:	@D Cal Corso: Claude Code
+01:12:16	Simpatico Design Studio:	I skipped over setting up stacks (since it wasn’t pushed to the repo) and went on to do echo.  Now that I have stacks working, the echo webhooks aren’t working. I am asking CLaude, but it’s telling me I should skip stacks.
+01:12:26	AS:	how to create an API Key for n8n if we have only a free account?
+01:12:28	Sara Aibuildlab:	Thank you guys for helping each other out too! You are the best community ❤️‍🔥
+01:12:35	Lea Emery:	@Ana same as me… copied manually
+01:12:49	Sheila Hunkin:	I thought I was a good way through part 2 but I don't remember doing this stacks thing 😳
+01:13:01	Angela:	Yes -- do I create the stacks first and then echo?
+01:13:04	Sara Aibuildlab:	@Ana stacks is part 2 of week 1 homework
+01:13:13	Lea Emery:	@Sheila - me too!!!  🤔
+01:13:24	Panda:	so is the STACKS the corpus or are we using GEMINI for the corpus?
+01:13:28	Barbara Platteel:	me too
+01:13:57	Eloise Mathieu:	@sara you are our Bridge 🌉
+01:14:12	Panda:	and are we connecting the GEMINI corpus to the Stacks?
+01:14:16	Isabelle Mickelson:	I also didn't do the stacks
+01:14:20	Lea Emery:	Thank you Sara! Knowing exactly where we supposed to be has been a hurdle. Much appreciated ❤️
+01:14:24	Barbara Platteel:	claude desktop walked me through and skipped the stacks and found a different way to
+01:14:27	Sara Aibuildlab:	@Eloise yes!
+01:14:39	AS:	Can we do all this workflow from a locally hosted N8N?
+01:14:40	Suzanne Muller:	there is the UI!
+01:14:53	Sara Aibuildlab:	@lea - I know there’s alot happening! It helps to anchor back in to 3D from 8D
+01:14:57	D Dal Corso:	Are you  doing all this in Claude desktop or VS Code Claude???
+01:14:58	Audrey Kohli:	Ah yes true!! Thanks for the reminder
+01:15:14	Marcello:	Claude tell me The Stacks I should not save yet the Key?!?
+01:15:38	TT:	CAn you load that onto a work computer, don't have a private one yet..
+01:15:41	Simpatico Design Studio:	created the store before stacks and now it’s confused. Claude is telling me to skip stacks. How do I connect it/ or do I need to trash the store I create and start a new one?
+01:15:45	Ana Cristina de la Torre:	So if we put manually with VS the knowledge base in our project, it is ok, or we do need to do something with stacks?
+01:15:50	Angelica:	Where do I grab the n8n web hook from?
+01:15:58	Bala Balendra:	so Stacks is like an API ?
+01:16:08	Teresa O'Keefe:	So it’s basically a self made repository for Claude projects.
+01:16:10	Marcello:	But we will do that on Wednesday
+01:16:10	Marie P.:	Can we get an extra session to learn how to build The Stacks? 🙂 (The folder to build it was missing in my repo so Claude Code decided to build one for me but it didn’t work, so it ended up adding the dives directly in the corpus. I’m curious about the process to build The stacks)
+01:16:14	Catarina108x:	Where can I open this?!
+01:16:14	Joffrey Berti:	STACK is a user interface Bala I believe
+01:16:35	Bala Balendra:	Thanks Joggrey
+01:16:42	Bala Balendra:	Joffery
+01:16:48	Lea Emery:	Looks like some of us may have experienced n8n without the lovely UI tool 😆
+01:16:48	Joffrey Berti:	lol oki:)
+01:17:01	Raadi:	How do we get the same front end interface likes yours?
+01:17:03	Sheila Hunkin:	Oh I think Claude did this for me. Because the corpus no longer exists in google ai. Does that sound right?
+01:17:05	Panda:	so despite its been uploaded in the corpus I still need to upload it to the Stacks?
+01:17:16	Julian Mota:	where is the link to the stacks?
+01:17:27	Gisli Rafnsson:	can we use the Stack in our future projects in the same way Just make a new one
+01:17:28	Ana Cristina de la Torre:	Same question that @panda
+01:17:36	Jennifer Dayan:	Me too
+01:17:45	Adriana:	so confused with this stacks now
+01:17:46	Joffrey Berti:	same question as Panda.
+01:17:48	Nathalia Carbajal:	Unfortunately I never accessed the stacks URL because of some issues during Step 4. So Claude Code did it all for me. I wish I could have done these steps myself :/
+01:18:09	Jennifer Dayan:	where is the link to the stacks?
+01:18:18	Dayleen:	Same question as Panda
+01:18:26	Gwen Mitchell:	Thanks…. That makes so much sense now … on the STACKS
+01:18:31	Sandra Salem:	Stacks=Google AI Studio
+01:18:56	Barbara Platteel:	ohhhhhh sandra!!! then i DID do it! ahahahahaha
+01:19:21	Ching:	This is so nice. My CC had me go to Google AI Studio to try to setup corpus with Google, which told me UI has changed, and had me manually set up API and FileSearchStore ID. And no front end. Upload in buggy google collab.  😂
+01:19:35	Jeanne:	Thank you! That’s why I couldn’t find them in the files. Cool
+01:19:43	Ana Cristina de la Torre:	So the answer is yes.. we need it in our repo and then in the stacks so it is in gemini workflow… right?
+01:19:50	Sherylle Bates:	We are creating or cloning the Library part of the brain
+01:19:53	Sherylle Bates:	?
+01:19:54	Marcello:	But we do it now or on Wednesday
+01:19:55	Marcello:	?
+01:19:59	Angela:	@Sara -- that makes total sense now!  Thank you!
+01:20:07	Joffrey Berti:	but what's the liink with the CORPUS ?
+01:20:15	Sheila Hunkin:	In google ai studio? There was no way for me to access the corpus so I think CC did it for me. It told me I couldn't see it but I needed to trust that it was there....
+01:20:23	Isabelle Mickelson:	That makes sense!
+01:20:27	Dayleen:	Diff between corpus/megadoc and stacks??
+01:20:44	Dietrich Busacker:	My Stack after  asking me to create a new store i get a blanc black page with a prompt but i can’t paste the store command in there…
+01:20:47	Adriana:	i could not access the corpus
+01:20:49	Simpatico Design Studio:	how do you access the stacks once it’s finished?
+01:21:41	Adriana:	how do we access the stacks?
+01:22:03	Joffrey Berti:	@adriana ask you Claude Code it will give you the way
+01:22:08	Lydia Machova:	I am also curious about difference between Stacks and Corpus.
+01:22:10	Lea Emery:	It seems our AU agents gave us instructions to create a corpus (me in Google Cloud), and didn’t care if we didn’t have the Stacks UI yet.  Claude definitely wanted to read all of the instructions and keep us going.
+01:22:34	Adriana:	@jofrey my claude told me me to skip it
+01:22:41	Sheila Hunkin:	Now I see why I didn't do anything with stacks - it's not in the homework part 2 guide
+01:22:47	Karen Yoder:	STACKS are the book shelves of the library?
+01:22:48	Ana Cristina de la Torre:	Exactly La.. My Claude just ignored that step
+01:22:55	Joffrey Berti:	olala Adriana 🤪
+01:23:08	Ana Cristina de la Torre:	Mine too.. it was not priority
+01:23:19	Dayleen:	Just checking - homework mentioned creating corpus with the "KB" docs. Then the megadoc with our own voice. Where does Stacks come in ? Do we create this ?
+01:23:26	Joffrey Berti:	it told me too, but as it's an update in this Lesson maybe it's important
+01:23:44	Panda:	@Dayleen that is what he is doing right now
+01:23:51	Lydia Machova:	So Corpus is an older term for the Stacks? Did I get that right?
+01:23:52	Marie Ramos:	is the stacks setup in the hw 2 directions?
+01:23:55	Dayleen:	Ok - thanks Panda
+01:23:58	Joffrey Berti:	now I Don't understand what we did with the CORPUS on AI Studio.
+01:24:26	Lea Emery:	@Joffrey - I think we did things the hard way
+01:24:34	Marcello:	I don’t understand the things you are saying, but it seems I did everything and I’m ready for Dec 10
+01:24:36	Marcello:	🚀 You're Ahead of the Game!
+Most students will spend half of Session 1 troubleshooting setup. You'll dive straight into building! You've completed:
+✅ All prerequisite accounts
+✅ All onboarding steps (1-7)
+✅ All API testing
+✅ Bonus: Slack setup (not required until Session 2!)
+📅 Before Session 1
+Day before class (Dec 9):
+Regenerate fresh Gemini API key (delete old one from chat)
+Regenerate fresh OpenRouter API key (delete old one from chat)
+Save both keys in password manager
+Make sure you have the Slack webhook URL saved
+Day of class (Dec 10):
+Open VS Code with this repo folder
+Have Claude Code ready
+Have your API keys handy
+Join the Zoom session
+🎊 Congratulations!
+You've gone above and beyond! Your setup is 100% complete and you even added Slack early. You're ready to build an AI-powered customer service system! 🚀
+Any final questions, or are you all set for Wednesday? 😊
+01:24:40	Marcello:	It feels strange
+01:24:54	Marcello:	I don’t now what I do but I complete the task?!?
+01:25:07	Sandra Salem:	@Lea, you didnt. Cclaude did it for you, and probably made you do it yourself...Bad Cclaude!
+01:25:54	Lea Emery:	@Sandra 😆🤣🤣🤣….ouch
+01:26:02	Angelica:	@Sara help! So I have to load all the workflows into n8n? There’s a ton of files and I’m not sure what to lead
+01:26:14	Tyler Aibuildlab:	Hey Claude, uh so I see that um you're wanting to go ahead and get into phase four, you're previewing that. I wanted to let you know that I have my webhook and my API key are in the settings in the stacks and I've saved that and so we're good there. We are supposed to be all working and building towards the Hattie Bees hot chicken in class is what Tyler and Sara said. And so I'm not gonna be doing this for my business on this run. I'm gonna be doing this as I'm working for Hattie B's. So I need you to give me all of the different files that I need to upload or point me to on that I need to upload into my stacks, please, and make sure that I cover everything here. Thank you
+01:26:22	Panda:	I am still a bit confused about the difference between uploading documents to CORPUS and GEMINI, I asked Claude COde and it told me that I could upload documents directly to the corpus as well. I mean are we using GEMINI for the purpose of making it the simpliest way possible to do it. without understanding coding?
+01:26:39	Sara Aibuildlab:	brb
+01:27:28	Simpatico Design Studio:	how do we get to our stacks????
+01:27:30	Greg:	I created a CORPUS yesterday and don't know how to create the Stacks UI
+01:27:57	Nathalia Carbajal:	@Greg same here. Claude Code did it for me :/
+01:28:20	Panda:	that is what he is showing right now about Stacks
+01:28:21	Sandra Salem:	Stacks is something you install in your computer. You dont need to create one
+01:28:21	elena:	I am also confused about stacks and google studio. I created a corpus/megadoc in Google AIstudio. can can you please explain the funcitons and purpose of stacks. Why is it necessary in addition to AI studio corpus
+01:28:29	Marielle Walter:	when i try to uoload a pdf, it says failed, on the stacks
+01:29:09	Nathalia Carbajal:	yes! I seems like several of us didn’t manually uploaded the files to the stacks and had the corpus created instead
+01:29:18	Angelica:	Stacks keeps telling me “failed to fetch”
+01:29:40	Lea Emery:	I think Stacks is just a way to move the files from your local folder into n8n where they need to be. It does it for you. Stacks is just holding it.
+01:29:55	Sara Aibuildlab:	I see your questions, lets get through this part 2 demo and we will answer otherwise we will jump around and it will be harder to follow, but we’ll make sure we answer so you guys are clear!
+01:29:59	Marielle Walter:	but i think claude will do it for me lol
+01:30:59	Simpatico Design Studio:	several of us had the corpus created fro us, without stacks. and now the stacks will not connec to the store
+01:31:01	ileana - Host:	Thanks for coming Dr RaShon!
+01:31:04	ileana - Host:	See you in two days :)
+01:31:07	Ana Cristina de la Torre:	I successfully created my Gemini File Search corpus , but when trying to upload documents using POST /v1beta/corpora/{id}/documents, I get 404 errors. 
+
+The corpus exists (I can query it), but the documents endpoint returns 404.
+01:31:07	Marie P.:	I think if for any reason, we can get The Stacks to work, Claude Code just adds the files directly in the Gemini Corpus, bypassing The Stacks.
+01:31:27	Bala Balendra:	Can you paste that prompt please Tyler
+01:32:02	ileana - Host:	🙌😊
+01:32:28	Lea Emery:	You guys are doing great  providing SO much information and help. Thank you
+01:32:36	AlphD:	Thanks for the over and above. I have to leave now. Will catch up later Alph Germany
+01:32:47	Gisli Rafnsson:	The response to the questions  are very clear and good  - thanks
+01:32:57	Ana Cristina de la Torre:	Slack??? Did we already connect?
+01:33:02	Panda:	so I asked Claude Code and it said that there is no difference between uploading to the CORPUS and  STACK. the difference is how it is done. CORPUS NEEDS YOU know how to use terminal and python, basically uploading to the CORPUS is much more complicated than uploading the STACKS. The STACKS you can just click a button to upload the documents.
+01:33:09	Sara Aibuildlab:	If you all have questions it would be helpful to put it in the QA form as this chat moves fast! And so does this demo, so I don’t know if you’re question has been answered
+01:33:17	Sara Aibuildlab:	Or put your hand up to come on stage 🙂
+01:33:53	Panda:	I dont know if that is entirely correct but thats what Claude told me lol
+01:34:44	Laurie Mann:	Did we just now cover Homework Part 2 within Week 1 Homework?
+01:34:45	Sara Aibuildlab:	Tylers prompt:
+01:35:43	Angela:	When attempting to create STACKS Claude Code is saying to Use The Stacks KB Manager instead because it's easier (having trouble with Google AI Studio).  Is that the same thing or do I stick with Google AI Studio to create STACKS?
+01:35:59	Jeanne:	So do we need to add a Gemini API into Stacks? I missed that part
+01:36:11	Panda:	yeah
+01:36:17	Laurie Mann:	Its our permissions. I cannot paste either.
+01:36:28	Panda:	you need to paster your API KEY GEMINI into stacks
+01:37:06	Jeanne:	Thank you  - so Create  new API in Gemini for Stacks correct?
+01:37:22	Jantzen O'Toole:	Hey friends, completely unrelated to the session but does anyone have a link to our WhatsApp group chat? I’m no longer seeing it on my phone 🙁
+01:37:31	Tyler Aibuildlab:	I want you to use subagents as much as possible to protect your context window. And because Teamwork makes the dream work, go get 'em, Slugger.
+01:38:40	Marcello:	i get this error message in The Stacks
+01:38:41	Marcello:	Create Store does not work: Error Message: N8N webhook URL not configured
+01:38:51	Panda:	whaatttt
+01:38:56	Angela:	so interesting!
+01:38:56	Joffrey Berti:	WOW
+01:38:57	Marielle Walter:	Thats craaaaaaazy
+01:38:58	Joffrey Berti:	thank you
+01:38:58	Laurie Mann:	Yes
+01:39:00	Panda:	🤯
+01:39:05	Eloise Mathieu:	wow ! Love that …
+01:39:07	Karen Yoder:	WOW!!!
+01:39:07	ileana - Host:	🫨
+01:39:10	Laurie Mann:	I knew it would come after me!
+01:39:15	Angela:	apparently they like positive reinforcement!
+01:39:18	Dayleen:	ha ha
+01:39:19	Karen Yoder:	Be kind to your bots!
+01:39:24	Joffrey Berti:	they are like us actualy
+01:39:29	Panda:	Vishen is in trouble lol
+01:39:30	Eloise Mathieu:	On brand !
+01:39:33	Ana Cristina de la Torre:	Same Marcello.
+01:39:40	Andrea Martinez:	Southern Hospitality
+01:39:43	Lea Emery:	Wow!
+01:39:45	ileana - Host:	@Panda I will let him know 🤪
+01:39:48	Sandra Salem:	Avoid being written in the black list of Skynet...
+01:39:50	Eloise Mathieu:	Don’t we ALL ??
+01:39:51	Panda:	lol
+01:40:01	ileana - Host:	@Eloise 😂
+01:40:01	Lydia Machova:	I was wondering why Tyler used soooo many thank yous and "please" in his prompts 🙂
+01:40:23	Ozzie Stewart:	I was wondering why he was ds nice... Good to know....Got to leave no. Looking forward to the notes ,.Thank you for 8th Dimension  experience
+01:40:24	Karen Yoder:	This is crazy!
+01:40:40	Eloise Mathieu:	Giggawhat !! cute
+01:40:45	Lea Emery:	AI also will work on self-preservation, so be careful about threatening it 🤔
+01:40:58	Marie P.:	Gigawatt is AWESOME!
+01:41:10	Karen Yoder:	We need to treat AI like we treat humans!
+01:42:02	Carmen Stone:	I was not able to open any of the documents for our previous lesson. They are a .MD format. Is there a way to get these in PDF?
+01:42:05	Marie P.:	Thank you for the extra session today. I have to go but looking forward to watch the rest of the session. Could you please let us know what is the next step after completing the homework 2? I’d love to keep my momentum.
+01:42:17	Amber Mirza:	@Jantzen I’ll share the link to this one.  Hopefully it helps add the other ones too.  Some of them don’t allow the share link but Maybe Danika can help. https://chat.whatsapp.com/HsWLOb1X4eD2dramQanelz
+01:43:18	Amber Mirza:	@Ile can you please share the Q&A form again?
+01:43:43	Amber Mirza:	Is it on the Mastery lesson as well?
+01:43:56	Ana Cristina de la Torre:	https://docs.google.com/forms/d/e/1FAIpQLSenm7XJl4h6tEnRzI9aMMWgla7WUxZCvzUrmwEvhJXv4GyNyg/viewform
+01:44:12	ileana - Host:	@Amber yes will do for today!
+01:44:37	Karen Yoder:	Would you speak to the kind of docs to put inside?
+01:44:40	Amber Mirza:	@Ana @Ile thank you!
+01:44:50	ileana - Host:	@Amber 🌼
+01:45:05	Sandra Salem:	Make sure Claude has only acces to the GMAIL account where you dont cheat on your wife, please. The guy is capable of blackmailing you.
+01:45:19	Amber Mirza:	lol
+01:45:20	Eloise Mathieu:	@sandra 🫣
+01:45:47	Sandra Salem:	@Eloise Just warning my AI peers here...
+01:45:49	Sherylle Bates:	@sandra 🤣🫣
+01:46:07	Adriana:	@ileana some people was disconnected from the call , and not able to connect again
+01:46:12	Ana Cristina de la Torre:	😂
+01:46:15	Eloise Mathieu:	@ileana - Audrey Kohli has been kicked out and can’t get back in??
+01:46:16	Danika ~ Enteleki Coaching Inc:	@Ile - can you please check the waiting room for Audrey
+01:47:31	ileana - Host:	@Danika as this is a webinar we don’t have waiting rooms everyone should come in automatically
+01:47:44	Audrey Kohli:	FYI have been disconnected from the call for the past 6-7 minutes. Made it back. Hope no-one else is stuck out there
+01:48:23	Darren Sweet:	wrong link maybe?
+01:48:33	Gwen Mitchell:	Can you put all your sample writing in one file and point claude to it?
+01:48:36	William North:	Getting this error A form trigger 'Echo Form' in the workflow 'Echo Brand Voice Analysis (Processor)' uses a conflicting URL path, so this workflow cannot be activated
+01:48:41	Marielle Walter:	can we see an example of your megadoc?
+01:48:53	ileana - Host:	Is she having issues? This is the link: https://mindvalley.zoom.us/j/84523556695
+01:49:27	Eloise Mathieu:	@ileana - she is back in thanks !
+01:49:31	Barbara Platteel:	can you zoom in!!!! please
+01:49:33	Sandra Salem:	Ohhh look at that adorable baby!
+01:49:37	ileana - Host:	Great thank you for letting me know
+01:50:41	Adriana:	same here: Getting this error A form trigger 'Echo Form' in the workflow 'Echo Brand Voice Analysis (Processor)' uses a conflicting URL path, so this workflow cannot be activated
+01:51:06	Vianee:	hi all.. super late today.. i was in another call
+01:51:13	Zan:	Are those ‘Glob pattern’ things the sub Agents?
+01:51:32	Amber Mirza:	Hi @Vianee welcome
+01:51:46	Barbara Platteel:	can you just tell me what to put in authentication/which path etc
+01:52:03	ileana - Host:	@Vianee welcome!! No worries I’ll have the recording up today
+01:52:11	Eloise Mathieu:	@sara - don’t you need a GMAIL Node?  this is where we got stuck before
+01:52:17	Vianee:	hi amber... hi ile.. thanks a lot ile <3
+01:52:23	Sheila Hunkin:	I'm still stuck trying to get the processor workflow to work....
+01:52:35	Barbara Platteel:	can you just tell me what to put in authentication/which path etc told me to put in MY ECHO FORM…
+01:52:39	Joffrey Berti:	@Sara it seems we Don't get the email
+01:53:36	Barbara Platteel:	can you just tell me what to put in authentication/which path etc told me to put in MY ECHO FORM…
+01:54:28	Amber Mirza:	@Sar @Tyler this may be a silly question.  Do you have a preferred way/tool to combine different docs into a mega doc?
+01:54:29	Barbara Platteel:	authentication NONE or BASIC?
+01:54:54	Javier:	Hi @Ileana, where will be the recording posted? will it be inside of session 34 or 35 with the corresponding notes/prompts, etc?
+01:54:55	Conns:	damn Claude, apparently the paid version also has a message limit not enough for this, I will have to wait until 4pm (Mx time) to continue.
+01:54:59	Eloise Mathieu:	ahhhhh in the new workflow ! Got IT ! sorry ;)
+01:55:09	Barbara Platteel:	Form path: My created path?
+01:55:17	Sara Aibuildlab:	@amber honestly keep it simple for the sake of this exercise since there’s alot going on already - so just copy paste a few samples 🙂
+01:55:40	Eloise Mathieu:	was missing in the old one thought is was in the trigger workflow
+01:56:00	Amber Mirza:	@Sara ok thanks 🥰 but in general, if you do, please let me know.
+01:56:48	Panda:	for THE STACKS am I supposed to put it in DIRECT API MODE??
+01:57:04	Panda:	its saying I need to paste the CORPUS ID into Stacks........
+01:57:06	Joffrey Berti:	Panda no you need you n8n one
+01:57:15	Panda:	okie thanks
+01:57:27	Tyler Aibuildlab:	Okay, thank you so much. Um I went ahead because when I went and looked at the workflow myself, I noticed that the Gmail needed to be set up and had my OAuth connected to it. So I did that already. And yeah, I see that we did not get the API keys flipped as well. So I need you to walk me through exactly how do we have this running on the exact clogged model that we are running it on. excuse me currently but I want to use open router to do that. So can you go and spin up subagents to fix any and everything that needs to be updated in the workflow for that to happen and then tell me where I need to go and add in my open router AP. API key and please make this as easy for me as possible. Also I I won't mess this up
+01:57:35	Joffrey Berti:	but when I tried, I had to use th direcft API just to upload the STORE. then back to n8n one. Claude walks you through
+01:57:58	Sherylle Bates:	Thank you for everything. Truly appreciate it.
+01:58:09	Sara Aibuildlab:	❤️‍🔥
+01:58:11	Sheila Hunkin:	is there a way to retain the data in the echo form? I'm getting sick of typing it all out and copying my megadoc every time!
+01:58:20	Lydia Machova:	Gotta go, but Sarah and Tyler - thank you so much!!! I am super excited about all this. We'll make it till the end! 💪
+01:58:36	ileana - Host:	Thank you Lydia for joining :) !
+01:58:51	Angelica:	Can you create a new loom for what we’ve seen today? I’m so confused and really want to figure this out!
+01:59:16	Damon Allen:	Brain hurts, a lot of good info
+01:59:39	Teresa O'Keefe:	@Angelica - do you mean more than what he’s saying here that will be in the replay, plus details in the workbook?
+02:00:04	Barbara Platteel:	can you just tell me what to put in authentication/which path etc told me to put in MY ECHO FORM authentication NONE or BASIC? Form path: My created path? thank you
+02:00:05	Nathalia Carbajal:	I’m having the same problem, where is the URL for The Stacks?
+02:00:15	Joffrey Berti:	I connected the Store and I don't see what's in the corpus Indeed, do we have to upload everthring again ?
+02:00:25	elena:	yes me too
+02:00:36	Nathalia Carbajal:	Claude is not giving it to me. It asked me to ask the teachers haha
+02:00:38	Tyler Aibuildlab:	http://localhost:3000/
+02:00:42	elena:	It retunred and error
+02:00:44	Karen Yoder:	H
+02:00:52	Joffrey Berti:	CC told me to go to the GitHub and click somewhere and it opens it.
+02:00:59	Lisa Fitzharris:	Trouble with that too
+02:01:03	Joffrey Berti:	Yes Elena, ask Claude it will give you the address
+02:01:17	Adriana:	same error here , http://localhost:3000/
+02:01:36	Angelica:	@teresa I guess I mean a step by step, since this was a QA there’s lots of back and forth and I’m having all sorts of errors! I followed the first loom and am caught up there, but there’s new info, perhaps there’s a second loom I haven’t seen?
+02:01:46	elena:	Thanks Joffrey will try again! But returned and error previously
+02:02:20	Isabelle Renaud:	cmd+contro+shift+4  is way faster then you paste in Claude
+02:02:52	Teresa O'Keefe:	@Angelica 👍🏼
+02:02:59	Marielle Walter:	my claude code also couldn't get my pdf to upload to stacks, i think i bypassed it? it worked on it for a while and then eventually told me it had gotten it to n8n
+02:03:20	Marielle Walter:	is it ok to bypass stacks?
+02:03:27	Daniel Wang:	Huge Paradigm Shift!
+02:05:00	Gisli Rafnsson:	have to go Thanks - theses classes streach the brain in every way :-) in a good way
+02:05:08	ileana - Host:	@Camilla correct they appear as text files
+02:05:22	ileana - Host:	Thank you @Gisli for coming in 🙂
+02:06:19	ileana - Host:	Yes, when instructed by Sara and Tyler
+02:06:53	ileana - Host:	You’re welcome!
+02:06:56	Sheila Hunkin:	what was it you just pressed to select and copy the entire megadoc?
+02:07:05	Rebecca Koos:	this is amazing ... so helpful!! thank you thank you!
+02:07:15	Sara Aibuildlab:	“Prompt your way out of problems” is the name of the doc we put together for you to help ! (Or something like that)
+02:08:08	ileana - Host:	@Sara its called ‘Prompting Guide’
+02:08:12	Wendy Shears:	Where do we find the Prompt your way out of problems doc?
+02:08:25	Ceca:	Please ensure for us please all Tyler prompts bcs it was super helpful.🤗.but I unfortunately couldn’t manage a speed of all operations taking place :-)..but getting there slowly so thank you so much for another great class
+02:08:29	ileana - Host:	But when you open the file yes, it says “Prompt Your Way Out of Porblems” 🙂
+02:08:41	Ana Cristina de la Torre:	Did it!!! My Claude is lazy 😡
+02:08:44	ileana - Host:	@Ceca will do!
+02:09:21	Ceca:	@Ileana you are 🌟
+02:09:44	Sara Aibuildlab:	@ileana is right on the name of the doc!
+02:09:58	ileana - Host:	🙌
+02:10:02	Laurie Mann:	ileana rocks 🥳
+02:10:40	ileana - Host:	It’s you all giving me feedback and asking for what you need so thank you 💗
+02:10:59	Sheila Hunkin:	I'm still puzzled how Tyler managed to select and copy the megadoc in what looked like one keystroke. I'm still old school scrolling all the way through it..... tedious!
+02:11:10	Wendy Shears:	@ileana where do we find the “Prompt your way out of problems” Doc?
+02:11:13	Sandra Salem:	Sara Code running in Tyler Studio = SC in TS
+02:11:14	Sara Aibuildlab:	@rohan is your digital arm hurting yet? I’ll make sure you get on stage
+02:11:49	Eloise Mathieu:	@sandra 😂
+02:12:09	Sara Aibuildlab:	@wendy it was my bad, it’s called “prompting guide” But when you open the file yes, it says “Prompt Your Way Out of Porblems” 🙂
+02:12:13	Sara Aibuildlab:	Problems
+02:12:41	Panda:	I never got connecting STACKS: ERROR MESSAGE: ✕01:59 PMFailed: Failed to fetch
+02:13:03	Panda:	✕01:59 PMFailed: Failed to fetch↻01:59 PMCreating store: Hatties B...📝01:59 PMNo stores found↻01:59 PMLoading stores...✓01:59 PMAPI key updated
+02:13:21	Ana Cristina de la Torre:	Got it Panda.. push on Claude.. give it the screenshot to see what you are missing
+02:13:26	rohan:	apologies legacy hand
+02:13:38	ileana - Host:	@Wendy its in this lesson: https://home.mindvalley.com/quests/en/ai-mastery-2025/days/33
+02:13:41	elena:	It seems like many of us are getting a stacks error
+02:13:57	Panda:	is it because I didn't update the webhook in N8N?
+02:13:59	ileana - Host:	Called ‘Prompting Guide’
+02:14:01	Sara Aibuildlab:	Brb sorry I have a very sick dog
+02:14:17	Gisli Rafnsson:	got the same and have retryed with the help from claude but still not working
+02:14:20	ileana - Host:	@Sara 🙁
+02:14:44	Panda:	I see. you have something different on the n8n webhook url
+02:14:54	Panda:	Claude gave me a different URL
+02:14:58	Panda:	but I will try :D
+02:15:09	Wendy Shears:	Got it! Thank you!
+02:15:59	Wendy Shears:	@ilena where do I find the document you created for all the ai tools?
+02:16:13	Gisli Rafnsson:	is the right form of it corpora/hattie-b-knowledge-base-bz4cz090thnv
+02:16:22	May Cheung:	Can you create a second Loom?
+02:16:31	Panda:	okay
+02:16:47	Wendy Shears:	Second the second Loom?
+02:17:08	May Cheung:	🤣
+02:17:46	Ana Cristina de la Torre:	Claude always finishes telling me “Do yo want to proceed with WebSearch”.. It can’t solve the upload of the documents.. and I can’t upload them either….  It is getting stuck…. Trying to push it but doesn’t answer
+02:17:47	ileana - Host:	@Wendy here it is: https://docs.google.com/document/d/1Y8xTUeWWY4lEjyYCD_UZJmS5aZun7p6riCSp8n_DBsE/edit?usp=sharing I haven’t uploaded it anywhere yet as we’ve had so many resources in the last classes with Sara and Tyler and this does not have to do with those
+02:18:26	Panda:	shoot
+02:18:28	Panda:	that was it
+02:18:29	Panda:	lol
+02:18:38	Gwen Mitchell:	When using the subagents… there are two options… you can get your main “project manager” start its own subagents or give you a prompt to feed a new claude chat where you will drop the prompt for it to run separately.   Correct?
+02:18:43	Frank Carreon:	Error: Claude Code process exited with code 1
+Troubleshooting resources
+02:18:53	Angelica:	Can you show that again?
+02:20:44	Joffrey Berti:	can you say why you uploaded the megadoc again in the worksflow ? why it's not coming from the TRIGGER outut ?
+02:21:25	Alesia Myers:	is the echo URL I am missing?
+02:22:10	Juan Antonio:	Maybe you have to wait until the megadoc process is complete
+02:23:34	Alesia Myers:	I mean Echo form URL
+02:24:30	ileana - Host:	@Jholman I am promoting you to panelist as I see your hand up
+02:24:50	Daniel Wang:	Much gratitude to @Tyler @Sara (and her sick dog - :( ) Going waaay above and beyond today and ALL the past classes.  You set the bar for not leaving anyone behind mindset.  That kindness extending to pets and "bots" really showed today.  THANK YOU! Love you both!This live code debugging leveraging Claude Code is an invaluable skill set to "develop"!
+02:24:56	Amber Mirza:	You both rock!  TY
+02:24:57	Isabelle Mickelson:	Thank you!
+02:25:09	Michaela:	Thanks so much!!
+02:25:18	Lea Emery:	When Claude Code says that it was HARD was confirmation 🤣
+02:25:18	Barbara Platteel:	i am really stuck
+02:27:45	Sara Aibuildlab:	You got it Daniel!
+02:27:46	Lea Emery:	@Daniel - love your message and would love to second it!
+02:28:36	Sara Aibuildlab:	Thank you all - you’re the best!! I’m so impressed by you all 🦾\
+02:29:01	Gwen Mitchell:	100% that @ Daniel …much gratitude Sara/Tyler
+02:30:51	Vianee:	amazing
+02:31:13	Gabriele Whyard:	this is where you learn patience lol
+02:31:25	Marcello:	Limit reached · resets 10pm (Europe/Zurich) · /upgrade to Max or turn on /extra-usage
+02:31:32	Karen Yoder:	Yay!!
+02:31:35	Gwen Mitchell:	I added wisperflow … and just love it ! Thanks for recommendation…
+02:31:37	Isabelle Mickelson:	That's awesome!@
+02:32:14	Marcello:	Claude reach the limite?
+02:35:40	Daniel Wang:	@Lea - I'm looking forward to my triple extended screens to be delivered tomorrow as you recommended as a must.  I'm tempted to go a 4th screen.  Likely will upgrade my computer too next to do such the mind blowingly exciting AI Automation work/play effectively taught by Sara and Tyler.I am impressed by the many non-technically minded students learning here!
+02:35:50	Nathalia Carbajal:	Hi Sara. Claude AI keeps saying that I have an API corpus created that is working properly, so I can’t skip manually uplioading files to The Stacks page. I tried to troubleshoot this and it continues to say the corpus is all set and I should skip the step of manuall upload. WIll this be ok? I want to make sure I don’t skip anything important by letting AI do things for me that I can’t really see (the corpora).
+02:36:11	Vianee:	its inspiring barbara
+02:36:21	WButler:	I am so thankful for this training. We are learning a process that will yield so many amazing gifts
+02:36:54	ileana - Host:	💜
+02:37:22	Michaela:	Wonderful example - great work, Barbara!
+02:37:34	Lea Emery:	I learned that Claude could move the workflows into n8n.  I had followed Claude’s instructions to go do that myself.
+02:37:51	Daniel Wang:	@Barbara it will be all worth it!  I have an Airbnb business which is in hospitality so this HattieB is so great!
+02:38:15	Adriana:	can you  share the google form again please ?
+02:38:21	Danika ~ Enteleki Coaching Inc:	Is there a Slack Community you created for this class - it is repeatedly referenced
+02:38:25	Lea Emery:	@Daniel - can’t wait to hear how you like your 3 screens. Are you on What’s App?
+02:38:37	Ana Cristina de la Torre:	Can you answer Danikas question
+02:38:51	Ana Cristina de la Torre:	Is there a slack channel with you?
+02:38:52	Panda:	THANK YOU!!!
+02:38:53	Cheryl:	Huge thanks Tyler & Sara!
+02:39:04	Gwen Mitchell:	Thank you for your time today 1
+02:39:05	Zan:	Can you remind us where the google form is please. Thanks.
+02:39:09	Danika ~ Enteleki Coaching Inc:	Thank you for your generosity once again
+02:39:09	Sara:	thank you - still not there but it s encouraging to see everyone trying
+02:39:09	Joffrey Berti:	thank you so much Sara & Tyler
+02:39:12	Karen Yoder:	Thank you so much R & S
+02:39:13	Lea Emery:	❤️🥰
+02:39:18	Gabriele Whyard:	Thank you
+02:39:20	mica tufillaro:	♥️
+02:39:21	Dayleen:	thank you so much !
+02:39:23	Angelica:	Thank you!!
+02:39:23	Christine V:	Thank you so much!!
+02:39:25	Vianee:	thanks sara and tyler
+02:39:26	Camilla Bignell - Streamline Your Business:	Thank you!!!
+02:39:27	Zan:	Thank you Tyler and Sara! You’re amazing teachers
+02:39:27	Isabelle Mickelson:	Thank you so much Tyler and Sara!!
+02:39:28	JEN K:	THANK YOU, TYLER AND SARA WITH LOVE!
+02:39:30	Baron Alberto Voli  Puerto Rico:	thank you!!!
+02:39:35	Steve Finegan:	Thank you so much, Sara and Tyler!!!
+02:39:40	Sandra Salem:	Thank you guys!
+02:39:45	mica tufillaro:	Thank you so much for going above and beyond!
+02:39:47	Sheila Hunkin:	Thank you!
+02:39:50	Ching:	Thank you!
+02:39:53	Charissa:	Thank you…trying to stay positive…appreciate you guys
+02:39:54	Eloise Mathieu:	Thank you guys, your patience and enthusiasm is contagious.  I am not the only one and we LOVE this !
+02:39:54	Glenn Tjon:	Thanks guys.
+02:39:54	Sheila Hunkin:	Hope you dog is ok Sara
+02:39:55	Greg Giles:	Thank you Tyler and Sara! This has been amazing
+02:39:56	Danika ~ Enteleki Coaching Inc:	I used 80% of my weekly claude mlimits in these last 4 days .
+02:39:59	Panda:	thank you
+02:39:59	Vianee:	thank you for this extra class
+02:40:03	Barbara Platteel:	Thank youuuuuu all
+02:40:09	jholman:	please try and have thjis video available asap had to work today
+02:40:10	Tom:	Thank you immensely Tyler, Sara & Ileana, have a great rest of the day
+02:40:10	Danika ~ Enteleki Coaching Inc:	Thank you!!!!!!
+02:40:14	Daniel Wang:	@Lea Yes I'm on WhatsApp!
+02:40:18	Gisli Rafnsson:	Thanks  :-)
+02:40:20	Glenn Tjon:	Hang in there, change is never easy. We need to feel comfortable feeling uncomfortable
+02:40:20	Ana Cristina de la Torre:	Thanks so much!!!!
+02:40:21	Vianee:	thanks guys
+02:40:21	Laurie Mann:	Thank you for everything!
+02:40:31	Ana Cristina de la Torre:	We will keep trying.. We will make it !!!!
+02:40:37	ileana - Host:	Question submission form: https://docs.google.com/forms/d/e/1FAIpQLSenm7XJl4h6tEnRzI9aMMWgla7WUxZCvzUrmwEvhJXv4GyNyg/viewform
+02:40:46	IreneSF:	When I download Claude desktop for MAC, there is a virus….Git app so watch out as it will lock your screen. Turn off wifi. Need to rewatch this and Friday’s video
+02:40:51	Eloise Mathieu:	We are growing new neurones !!! hang in there !
+02:40:51	Baron Alberto Voli  Puerto Rico:	see you on Wednesday!!
+02:40:56	Juan Antonio:	Thanks
+02:40:56	Catalina Villarreal:	Thank you so much
+02:41:00	Daniel Wang:	Gracias por todos!
+02:41:01	Ana Cristina de la Torre:	Or loosing a lot hahaha bye

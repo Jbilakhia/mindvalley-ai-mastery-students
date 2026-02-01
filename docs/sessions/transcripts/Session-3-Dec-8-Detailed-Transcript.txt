@@ -1,0 +1,1221 @@
+AIM Dec 8
+===
+
+Sara: [00:00:00] Thank you. Thank you so much for Thank you. We're excited to be back here with you.
+
+Bonus, Sarah and Tyler time, guys. I'm excited. Um, and also, uh, let me know, I mean, you're not supposed to really have a restful weekend. How was your homework? What did you guys do? Did you work hard? Awesome. Uh, will, we can see from the Google sheet that you guys were working on your homework. So we're pretty proud of you.
+
+I have to say, like I keep saying to Tyler, you guys have got such a growth mindset, really proud of you all, um, because this is like stretching your mind in different ways and uh, yeah, I just wanna te acknowledge that right at the beginning again because, um, it is, it is like a lot to navigate, right? Like it's a new way of thinking and you're looking at new things, you're navigating new things.
+
+So, uh, we're here to help you get unstuck today, um, because we're gonna start the, we, well the second part of the homework, um, on [00:01:00] Wednesday. So today's session is just to make sure that everybody is set up on part one of the homework that's done part two of the homework that's complete, um, and helping you get unstuck on anything.
+
+So, Tyler, is there anything that you wanted to. Share on that. 
+
+Tyler: Yeah. Yeah, that's right. So it's a awesome hope all of y'all had an awesome weekend. Um, we have gotten all the questions from the weekend, which is great, and we found that there were a few blockers in there that we saw. So we can talk through their those here in a minute.
+
+And in fact, even this morning we have been, we pushed an update into the repo and, um, we have some other prompts to give and we'll go through the questions and stuff here in a minute. But just like on Friday session, if y'all have any questions at all, be sure to either chuck 'em into the q and a or to the chat like now, uh, because just like on Friday, we can go ahead and, um, uh, bring folks up on stage if we need [00:02:00] to.
+
+And also, I saw someone asked about the part two of the Loom. So again, in case you, you didn't see that or or missed that on Friday, we are waiting on the NAN support team to fix our cloud account so that we can get unblocked in showing the end-to-end demo of it. Uh, so as soon as that's done, I've even messaged them again this morning telling 'em, Hey, look, we're in the middle of teaching this thing.
+
+We kind of need it fixed. Uh, as soon as that is done, we're gonna be recording that loom and sending it through. So that's not something that should, uh, would affect y'all. And, and this stuff actually working on your end, it just blocks us from being able to record it and show that video. So hopefully that, that makes sense.
+
+So first things first, I'm gonna put this into the. Here, this is a prompt number one. This is into the zoom chat. If everyone takes this, uh, and drops it into their CLA code and run that, what it's going to do is if you have not yet [00:03:00] cloned down or pulled down the repository from the student repo, um, it will do that.
+
+And if it has, and if you already have done it, it will go ensure that you have the latest information pulled down to update it. So, yes, and it and it has been updated. Alright, y'all, so that's the first thing that we want to do here. And while we're waiting on that, I'm just gonna like work through my checklist here.
+
+We had an email, or I'm sorry, um, a question come through from, uh, Demetria, I believe is correct. Um, and w was asking about Slack and Demetria must be a high D on the disc profile 'cause they're working ahead in the homework, which is amazing. Um, and also they were asking about an Invi invite to our AI build lab Slack for that.
+
+And so, just for a point of clarity, so we can make sense of this for everyone, you will need a, a Slack account for week two. It can be a totally free, [00:04:00] uh, slack account, that's no problem. But that's where the Hollerer agent, the agent that comes in and checks in with you once an email comes through and the other agents have already looked at it, written it.
+
+And it's bringing it to you like an executive assistant, basically, uh, that it does that in Slack. So if you don't have a Slack account yet, please just go sign up for a free one and then you'll, we'll walk through that more on Wednesday on how to go get that set up and how the holler agent will be working in there.
+
+Um, but just wanted to call that out there too, 'cause Dmitri had asked that question. All right, y'all, 
+
+Sara: so this matter, I think people are asking, just one person's asked, but I think a lot of people will want be wondering this, are we opening a new chat or is it the same chat for the prompt that you just, uh, put in the, in the chat?
+
+Tyler: Yeah. Great. Great question here. So let me just, let's screen share and I will, you're just gonna open it into a brand new chat, is what you're gonna do. So I'll open this up and the, the, the stack is in there as [00:05:00] well also. So we had questions about that. Um, let me put this in here. All of that's been pushed and updated.
+
+We had, uh, this done last week, and what happened is that it got committed, but it did not get pushed all of the way. Um, so like it got pushed into like a commit to go to the public student, um, uh, forward facing thing that y'all could see, but it, it got hung in like a pending folder basically before it went ahead and shipped it all the way is kind of the best way to explain that.
+
+So I'm here in VS code and I am in cloud code. I just opened a brand new tab here. Uh, and so you can do that by just clicking on this little icon up here in the upper right hand corner that'll open up a cloud code, um, thread. And then I'm gonna paste in that prompt that y'all, um, I, I put into the chat.
+
+And then what we're gonna do, let me add this other part in. Hey Claude, I'm just doing this as, uh, like a demo so you can go and check, [00:06:00] but don't actually necessarily go and pull down and overwrite, uh, any of the things that I have in my dev repo right here. If you do want to do this to go ahead and execute on it, just pull it down into a completely fresh new folder on my desktop, please, and label it as such so that I'll know because I'm doing this during the Monday Live demo in class.
+
+Thank you. Alrighty. Just doing that so it doesn't, Claude doesn't get confused here and try and do this, um, in the existing repository that I'm open right now. Alright. And so what should be happening is it's gonna go and look right now on the GitHub repo that is the public facing one for you all. And it's gonna ask you to run these bash commands here to basically go do that and then see if you have it already on your computer.
+
+And if not, um, uh, it will pull that down. If you do it, will pull it down and merge it and like update it into the version that you've been working in already. [00:07:00] So you don't lose your work or anything like that. This is basically like when you're working on a real project. When Sarah and I and our team work on projects and we use Claude code when we're multiplay, and so she might be working on some things and I'm working on something and someone else could be working on something else, all 
+
+Student: done, 
+
+Tyler: we're all able to work asynchronously of each other, push it back up into um, what are called branches.
+
+So like, uh, strains that come back into GitHub and then we can end up merging them back together and then pull down so we can basically all work separately, uh, push all of our work up to the cloud and then be able to determine, uh, what needs to be synced into the main and then pulled back down for everyone.
+
+So hopefully that makes sense. So now as you can see, like it's done, this setup for me, it's pulled this down and it tells me where it's located, it on my computer. And so this would have everything, it even tells me what files have been added in here. So when, when we did this last week, like I said, it, it committed [00:08:00] but it didn't push them.
+
+So basically like it put it in a commit to get the, the knowledge base manager information, which has got the stacks build in there, the Echo V two version of the workflow. So there's two different ones of that, uh, like two different parts of it down the V two, um, all of that, uh, it did not get pushed all the way up, so y'all didn't have a way of accessing it.
+
+And that was a goof on our end because, uh, like language matters, right? And when I told it to commit. I forgot to tell it to commit and push, and that's what happened there. So I, I apologize for that Y'all. Um, let's see here. All right, so let me stop my screen share and we'll come back over here for questions.
+
+See, 
+
+Sara: do you want me to like, read out a couple of questions that are related as well to help? Yes, 
+
+Tyler: for sure. Yeah. 
+
+Sara: My clock code had me setting up the echo trigger and the processor workflow, but these workflows are not complete, which is what we're doing. Mm-hmm. I understand I have to use the voice analysis workflow instead.
+
+What are the trigger and [00:09:00] processor workflows for, do we still need them? 
+
+Tyler: Yeah, so let's go talk to this really quickly. So bear with me one second. Let me get my N eight N launched up so I'm not having to share all of my messy screen here. Um, okay, so Librarian and then, uh, Juan, I, I saw your hand up there too.
+
+We will definitely, uh, come to you here in a second and pull you up on stage so you can ask questions. Let's just, uh, I wanna be sure that we can show this off first. Alright, so let's go here and close that. There we go. All right, cool. So lemme share again.
+
+Alright y'all. So I am in my browser now and I am in N eight N. And if we come over here and look in my personal section, which is probably where yours would be easiest to see on your N eight N workflows. Once they get pulled in, uh, there's going to be two different. Parts of [00:10:00] the Echo workflow. Now there's going to be a, a trigger.
+
+And the reason that we did these updates is a couple fold. Um, this kind of separates the form, like captured part of like getting your information for your mega doc, uh, that the echo workflow is gonna be looking at as the input. So that's what's happening in this first one. Once you get this set up and installed, you're gonna click on, uh, this and then click on the production URL right here.
+
+So I am like, just so I'm not moving too fast. Again, you're gonna be in one that's like the echo trigger fast response, or it might be labeled like echo trigger part one, something along those lines. There's just gonna be four nodes in it. That's how you know you're in the right one. You're gonna click on this first one that says echo form.
+
+You're gonna, and then that launches this screen. We're gonna go to the production URL and copy this. And you're just gonna look different than mine too because ours has AI build lab.app, like that's our cloud [00:11:00] version of N eight N. Uh, so we're gonna get that. I'm gonna go ahead and open a new window and paste this in.
+
+And now you get this screen. So this is where you're gonna put in your email. You're gonna select personal for your voice type, enter in your name. Um, you don't have to put in a company name or company materials. Those are here so that if you want to use this again. After the class, uh, you can do the same process for a company brand voice or a combined company and persona or personal, uh, persona at the same time.
+
+Uh, but for right now we're just doing personal. You're in, you're writing samples. This is where you're gonna take your mega doc that you put together, which is going to have examples of your writing. Could be email, could be transcripts, uh, from calls, social posts, et cetera. If it is going to be a transcript, please make sure that at least your speaking parts are labeled so that the echo agents are able [00:12:00] to delineate between, you know, when is it you talking versus someone else.
+
+It, it's pretty smart. It could probably figure it out, but let's try and make, uh, the echo agent's job a little bit easier there if we do that. And then once you have all this added in, you're just gonna hit submit. And then what happens on the back end is if we come back over here, that's gonna take all your form submissions, capture them, uh, immediately respond with like a window that's gonna pop up and say, Hey, you've submitted this.
+
+Uh, give it about 10 to 15 minutes and you're gonna get an email sent to you with, uh, a couple of different documents. One of them is going to be your brand voice analysis all into a doc. And another one is going, or it might be markdown file actually. And then the other one is going to be your XML snippet, which is like the part of your system prompt that you're gonna go add into.
+
+Your sugar agent to personalize it. So it sounds much more like you. And then the next step is it's just going to then execute this next workflow. [00:13:00] So let's go look at that one now. 
+
+Sara: Um, Tyler, while we're doing that, can I just pause 'cause there's a people who are confused about where we're at because this doesn't look familiar about Echo.
+
+Okay. I just wanted to just, uh, like mentally just pause what, what Tyler was doing, because I just wanna make sure that everybody's on the same wavelength. Mm-hmm. So, because there's a whole bunch of people where this doesn't look familiar because they've completed the onboarding. That was part one of the homework we needed you on, on onboarded, um, to, for you to be able to do this.
+
+This is part of part two of the homework, which is where we are going to be utilizing. Now that you're onboarded, you have access to these things, you are going to be using the Echo workflow, which is what Tyler's showing here to create a brand voice analysis that you can use then to personalize the agent sugar agent.
+
+The sugar agent is the main agent that is gonna be the expert. Kind of like, you know, your AI version, I guess that is, that [00:14:00] is supposed to be the AI version of you that's working for Hadi BE'S customer service. Okay? Um, so we need this agent to sound like you, which is why we're doing this Echo workflow.
+
+And we also need to give this agent information, which is gonna be the, the part two of the, of part two. Um, and when we have that wrapped up, then on Wednesday we're gonna put together the other team members that are part of the customer service workflow. So I just wanted to make sure that everybody knows what's happening in the order of things.
+
+Um, as we're going through this, does a, is everybody following me? Like, just put a thumbs up or, or just ask another question because we don't wanna go into the weeds, uh, un unless you are like feeling, you have clarity around the process. Okay, great. Okay, great. Thank you. Okay. 
+
+Tyler: Okay. Looks like, uh, Dietrich might still have some questions there.
+
+I saw that. So, and Darren does too, like, so if y'all, if you also have questions or need clarity, please, uh, like drop your [00:15:00] questions in here, into the chat or into the qa. Um, looks like, Tatiana, when you say issues with set up, do you mean that you're having issues getting to Claude code and vs code and getting all that set up?
+
+If you can, uh, any of y'all that are, are, have your blockers are stuck at some point, just drop them into the q and a so that we can, uh, address those and make sure we get everyone over the hurdles here. Cool. 
+
+Sara: All right. 
+
+Tyler: Alright. So I'll, 
+
+Sara: sorry I had to pause 'cause there was a lot of like, like confusion in the chat.
+
+I just wanted to call that out. 
+
+Tyler: Yeah, yeah, no worries. So what we're going to do now, I'll just like continue on this just for a second so we can see how this kind of plays together. So that first echo workflow again is where you're providing your communication style examples to give to this echo uh, workflow.
+
+This is the part two here. So this is the big one that's actually doing all of the work. And the reason that we updated it from the V [00:16:00] one to the V two is because this can take some time to run and also depending on your level of innate in account, uh, it could time out on you. And so we ended up like splitting this into two different things.
+
+So we don't have that issue and it even emails it to you now. So basically right here, this entry point is coming from that first one that we just saw and the, and the four step workflow from the one I just walked through. And it passes all that information in here. It determines on if you are doing personal company or combined.
+
+And then from there it's going and doing each of these different individualized brand voice analyses of you to write that and then merge them all together into a file. And then the step right here is where it is writing that, uh, system prompt snippet that we're gonna use to go and personalize our sugar agent.
+
+Once all of that is done. And then it's going to, like, once that's done, it [00:17:00] passes, uh, the quality check. Uh, it's basically then going to send you an email in here. So you, can 
+
+Sara: you clarify why their echo workflow would look different to what they're seeing here? There's a lot of questions about that. 
+
+Tyler: Yeah.
+
+It could be because of, like, y'all might have like pulled down the V one and we pushed the V two version this morning. So if you don't have that yet, uh, I'll go grab the prompt again. But I'm gonna put this prompt back into the Zoom chat. Be sure that you run this prompt that might clear up a lot of this for y'all.
+
+And you'll see that there is a new, this V two version that got hung up in the commit but didn't get pushed all the way live basically into the student repo. So when you pull that down and have cloud code, look at this, it should then update to your local, um, GitHub. So your local version of everything.
+
+And then you'll have this flow and the other flows there. So then, then [00:18:00] you'll, yours will look what you're seeing. Look like what you're seeing on my screen now. Um, and then if it's not too, 'cause sometimes when you first import them, they might be a little bit messy. Uh, there is a little like sweep looking button down here on N eight N in the bottom left hand corner.
+
+If you click on that, uh, it, I mean, it depends, right? Like it's gonna clean it up. I personally like the look that it had before this. Um. So I'm just gonna back out and not save it all like it when it's stacked. Alright, there we go. Alright, cool. All right, so that is the process to get the echo flow done once you have both of these set up installed and in working.
+
+And you can ask Claude, it should walk you through that process. And if it doesn't ask you to help it to get these set up in your N eight N and working, that's when then you're going to go to the, um, the part one of it and run that workflow with your information that will generate and send [00:19:00] you back an email with your brand voice analysis, which you're gonna wanna hold on to that.
+
+And, uh, another file that's gonna have your, um, system prompt snippet for your brand voice that we're gonna use in sugar. And we'll go cover that here a little bit later on. So lemme stop my share here so I can come back and see everybody. Alright. Sorry, there's still a 
+
+Sara: lot of like confu, uh, I guess questions about, um, the echo, uh, workflow.
+
+I feel like maybe we should make sure that we clear that up for everybody. 
+
+Student: Okay. 
+
+Sara: Um, okay, Irene said, where is Echo in our setup list? Not seeing it. Um.
+
+Uh, 
+
+Tyler: yes. If you, so if you have already been able to successfully run the Echo workflow on the V one version and you have your, all of your analyses and your XML brand voice snippet, then you're good. You don't necessarily have [00:20:00] to run it again. Um, if you have not run it yet, you would want to, uh, make sure that you do the get pull that I, with that prompt that I just gave in there, that'll pull down the, the newer version that makes that process easier for everyone.
+
+And then you're gonna run that workflow. So hopefully that, that makes sense. So y'all, y'all necessarily have to look double up on your work there. It's just in case. 
+
+Sara: Darren, I hope that answers your question. You don't need to like, double up or redo, it's just like, uh, yeah, you are, you're good if you've, if you've run it before.
+
+Tyler: Um, yeah. And Ka katerina's, like, I'm looking at her message that they've pasted back in here, uh, I'm assuming from Claude Code. So it's saying, does it want to put it as a new project? Does it want to add this to the existing repository or add the course materials? So if you get a prompt back like this from Claude Code and it's asking you, you know, do you want to pull this down as a completely new repo or updating it, or, or whichever way you'd like to do it.
+
+Um, you [00:21:00] want it to be synced in with your original, like whichever one you already have done. So if you have already pulled it down and been working in there, just tell Claude in plain language, say like, Hey, Tyler and Sara pushed a new update and I need to make sure that all of this is pulled down and synced with my local repo here.
+
+And all of it is merged together and it will, it will take care of the rest of it for you. Cool. 
+
+Sara: Okay. Um, simpatico design students said Echo processor workflow is making direct calls to the Anthropics API endpoints and not allowing open router. It says I'll have to modify the workflow to use it. Ideas.
+
+Tyler: Yeah, that's a easy fix in here. So let's do that. And again, this is a, Claude can do this, but I'll show you and explain why it's doing this. Um, so if we go into the Echo workflow, uh, it is looking right here in these to go and do these calls to an anthropic endpoint [00:22:00] right here. Uh, what it's going to need to do, because some people might have an anthropic API key and we, uh, advise y'all to all get set up on open router.
+
+So if you tell COD code that you have open router, you want to still use the exact same ANTHROPIC model, but run it through your open router, API key instead. And provided that information, it will come in and update your workflow to use your open router key. So it's, it's a bit confusing because Anthropic is, uh, also has an API key and they are like the manufacturer of the model, right?
+
+Open router is like the Airbnb of, of all of the different API keys for lots of different models. So we can still run anthropic through there and that's what we're gonna be doing. So if you tell your Claude, like what we were saying on Friday session that, Hey, I've set up open router. Um, if you can get it [00:23:00] all the way set up and then tell me where to go and place my open router, API credential, I will do that and go in and adjust that part yourself.
+
+Because you don't want to give a live API key to, uh, an AI system, like to Claude or, or to any ai because that's, um, that's like putting your password out there in the open. You could do it temporarily, like what we did, um, on Friday where we gave it a key and uh, they, it uses that to get it all set up completely.
+
+Then you can go back and delete that key, generate a new one, and ask Claude code to tell you where to go. Replace that in anywhere that it needs to be updated. So hopefully that that's clear. If it's not like y y'all notice, like ping us back in chat and we'll, we'll walk through it more with you. 
+
+Sara: Um, there's like a lot of questions around, I can't find this or I can't see this.
+
+Uh, like, is it worthwhile doing a work well through, like, some people can't [00:24:00] find the echo workflow. Some people can't see the Echo workflow, some people can't see the Stacks ui. So, um, I dunno. Let's, 
+
+Tyler: yeah, let's do this. So what I'll do, let me just open a completely new, uh, vs code window here and I will come in and let's open this folder it pulled down for me on the desktop.
+
+All right, cool. Alright, so this is like a brand new student repo that we've pulled down and I'm gonna open my Claude code and let me close this out. So this would be like starting from square one now. All right, Claude, uh, this is Tyler, but I am doing a live demo right now for class, uh, where we are walking through the process of completely setting up end to end our, our, our week one homework that we need to do.
+
+So I already have vs code set [00:25:00] up, I have cloud code installed. Obviously that's how I'm talking to you, Claude. So I need you to help me walk through and get all this set up so I complete all the rest of the things that I need to get done for week one. Please can you list that out and just walk me through this in really easy to understand workflows so I know what needs to be done.
+
+And we, I have my own little punch list that we're working off of now, please. Thank you. Okay, so this is, again, this is like using Claude as your, your wingman here to help us figure out how to get through all this stuff. It's gonna go look at the documentation that's in the repository and then it's gonna guide us through the entire setup.
+
+So here's our punch list, um, the get installed. So if you have not done that yet, there is the GitHub CLI that you'll need to install. We covered that in the Loom part one video. And in fact, we even when we answered, um, a lot of the [00:26:00] questions, 
+
+Sara: could you, sorry, your prompt in there. They're asking for it in the chat.
+
+Could you just like, I guess I, oh yeah. Can you just copy and paste it in the 
+
+Tyler: Yeah, yeah, for sure. I'll drop that in here and you'll need to, y'all need to adjust that slightly 'cause it's like coming as it as if it's from me. So be sure that you, 
+
+Sara: um. 
+
+Tyler: Yeah. Adjust that for yourself there. 
+
+Sara: Yeah. Remove, this is Tyler.
+
+Tyler: Yeah. 
+
+Sara: Follow that context. Like do it for yourselves basically. 
+
+Tyler: Exactly. And then right here, uh, when the GitHub CLI, 'cause some folks had issues with getting that set up, it's usually if you're on a PC that it's, it's becomes more of an issue even in answering some of the questions from this weekend, if you ask your Claude to go in and help with that process, it can look at the answers that we've done, uh, for student answers that are also pushed in here, and it will be able to, um, use that as reference basically to help walk through that.
+
+Um, and we [00:27:00] also provided, uh, some documentation on Friday that should have been emailed out, that that covers that specific thing to it in case that's a blocker for folks still. Um, so I'm just gonna look at this list and I'm gonna tell Claude what I've already done and set up, and then it can help me walk through the rest of this.
+
+Okay. 
+
+All right, Claude. Um, I have GI installed and I have the GitHub, CLI. Um, the repo is not in the, a best location. It's currently in my, uh, desktop. So if you can relocate that to a better spot where it's not gonna have. Any sort of issues, um, as you know, with iCloud syncing, that would be, um, appreciated.
+
+I also have my GitHub account set up. I have my a n cloud account set up. I do have my Google AI studio, my Gmail, Google Sheets, all of that in Slack are all set up. I have a Claude Pro account and I have my open [00:28:00] rounder, API key. I've done all of that. Um, I can provide you with any of this information that you need or if you're ready for me to proceed on into phase three, I'm good with that.
+
+Feel free to ask me any questions that I can answer to help you help me. Very Jerry McGuire here, um, to get into phase three, please. Thank you. Alright, so we're gonna run that through now. 
+
+Sara: Have you guys got your, um, your song list or whatever, your album for this, uh, thing going for this class? The Jerry McGuire thing just reminded me of that.
+
+Student: Yeah. 
+
+Sara: Um, okay. 
+
+Tyler: All right, here we go. So it's, it's realized and it's moving my repository. If it has not already done this for y'all, it, it should have done this where. On, I don't know how it is on, on Windows machines, but on Mac, all done. Uh, like with iCloud [00:29:00] syncing now, it will try, if you leave stuff on your desktop or in your downloads or certain areas of your computer, it'll try and just leave like a kind of a shell of the file and then sync it back up to your iCloud and not actually leave it on your local computer anymore, which is not, we don't need that.
+
+We don't want that when we're dealing with something like a GitHub repo, because we need the full contents to live on our, on our local computer too. We don't want it to be shipped upstream to iCloud. 
+
+Sara: Um, a bunch of people are asking for that last prompt that you put in. Um, again, you guys like, make sure that it's 
+
+Tyler: Yeah.
+
+Up 
+
+Sara: for you. There 
+
+Tyler: we go. Just drop that one in again. So yeah, make sure that you, um, adjust that to fit your, your use case. And then also, um, just because it's a transcription, the models are, are obviously like smart enough to figure this out. But when I use Mac Whisper, it doesn't always transcribe perfectly.
+
+So I noticed whenever I say N eight [00:30:00] N if I don't really enunciate that, like it put in Nan instead, but it knows what I meant. Um, but just calling that out in case you use tools like this as well. All right, so quick action. The VS code is now pointing to that mood folder. You need to close vs code, reopen it, and then open this folder from where it moved it for me.
+
+Okay, cool. So like Claude's walking me right through the process here. Um, or uh, we can open the CLA code panel again and say let's continue and run that. So here's what I'm gonna do. I'm gonna just copy this little prompt that it's given me and in fact I'm just gonna like grab this whole thing right here and copy that whole response.
+
+You could do that. And I'm gonna go here and go to open folder and I'm gonna go to where it moved it to. So it just moved it over here. It made it, uh, in my user directory on my Mac, it moved it to a location that's not gonna sync to iCloud. So we don't have any issues there. [00:31:00] And now I'm reopen that reopening Claude code and I'm just gonna give it this message that it gave back and I'm gonna tell it above it.
+
+Hey Claude, we're in that new thread. I have closed out the VS code from our past conversation and reopened it and pointed to the correct folder structure. So you can look at this, um, message below where you and I were going back and forth, and we can continue on with this onboarding process, please.
+
+Thank you. 
+
+Okay, cool.
+
+All right. Sorry. Does it seem like everybody's kind of following along now? 
+
+Sara: Um, I am like looking at the chat and there, uh, and the thing, it looks like people are getting an error on the processor node in the echo trigger, which is like different from what we're doing right now. 
+
+Student: Okay. 
+
+Sara: Um, cool. But a couple people have mentioned that, um, but I think we should walk [00:32:00] through this part first.
+
+Tyler: Gotcha. 
+
+So yeah, let's, let's, let's get through this. This'll get us up to that stage and we'll work all the way up to like getting to where we need to set up and run the n eight end workflows, just so y'all even see me doing this from scratch basically for this. And then, uh, while this is running, do we want to go ahead and, and have Rohan like come on and we can talk, we can multitask here, or no?
+
+Sarah, do you wanna wait? 
+
+Sara: All done? 
+
+Tyler: Oh, you're muted. 
+
+Sara: Oh, I think if we context switch it, it will, we'll just lose, uh, okay. Yeah. We'll just lose the flow that people are trying to follow. 
+
+Tyler: Okay, cool. So Rohan, if you can hang in there with us for a second, as soon as we get to a stopping point, we will, we'll kind of open up and do question answers here just a minute.
+
+From that point of view. Uh, alright, so the bridge test is complete. There is an FAQ draft. Uh, so this is basically a part of Claude doing the rest of the onboarding process for us. [00:33:00] The bridge, if we remember that, is where, uh, Claude Code and Claude Desktop can talk back and forth to each other so we can use the power of both of those tools together.
+
+Um, so it's been done, it's written and it, it sees that it's working there. Um, let's see here. So the test spec has been done. Is docs okay? Do I need to do anything to test out the bridge further or are you saying that we've already vetted and checked that out at this point? And let me see here. Do you have an innate in cloud account to test?
+
+I need the instance, so it's asking for my URL and what I could do is if I pop back over here into my ARC account, I can just grab a link to any NAN page that I'm on. Lemme make sure I'm on the right page here and drop that in. Also, [00:34:00] a pro tip here, not only for cloud code, but for any AI system that you're talking to, whether it be chat, GBT or or, or whatever.
+
+Uh, if you are brain dumping to it and you have multiple different things that you're trying to say or multiple different tasks that you're giving to it, one right after another. A way to separate out those thoughts so that it's very clear to the model, uh, what it is that you're doing is to use these three dashes like this, that is the raw markdown equivalent of a line break.
+
+So it's, it's no different than if we were putting this in, like Microsoft Word, let's say. And I had one message responding to something, and then I did three dashes. Uh, so it was like 1, 2, 3, like this, and then start with another, you know, train of thought. And if I, I wanted to continue on down and I had yet another thing that I'm responding to, to its response, it helps delineate it.
+
+So like, exactly like how Claude is responding back to me here with line [00:35:00] breaks in this instance. And it's making it easy for me to scan through that and, and know what's up. Uh, returning the favor to your AI is also really helpful to have clear communication with it. So just calling that out as a, a pro tip there.
+
+All right. And also this is a link that I pulled from my Cloud N eight N account, so you should be able to get what you need out of this.
+
+Please let me know if you have any other questions and what we have left to get knocked out in our onboarding test. Thank you. And for, for me, this is for y'all. Um, in, in class here, my onboarding, because I've already done the bridge previously and because I already have GitHub set up and, and things like that, um, Claude has already checked that and bypassed that now because I've already done it in the past.
+
+And there's not [00:36:00] a way for me to replicate that in real time here because it's already installed on my machine. So if you're doing this process too and you're getting more things that you're having to stop through, like walk through with Claude and get set up, that's okay. And that's, that's normal. I just already have some of these things already set up from, they just work on, I've already have 'em installed on my machine.
+
+And so Claude can see that and that's why it's already ticking the box on them, on the list here. So hopefully that's clear on that too. So the bridge test, um, is, is done. Let's do the N eight n check. Now your instance is this, so it has that, um, it's, it's basically understanding this is the URL to my account.
+
+It's pulling the workflows. Um, let me see here. Alright, Claude, if I did not have, uh, my innate NMCP set up and I'm a student setting this up for the very first time, um, and you went to go [00:37:00] pull the NAN check. Uh, you would most likely be recommending to set up this same innate NMCP. Am I correct? Just so that the students and I are on the same page as I'm doing this demo onboarding for them.
+
+Okay. So again, I already have, uh, the innate NMCP. So it's like a tool that allows the Claude agents to be able to go up and do a lot of actions on our behalf. In NAN. That's what it did right here. It called the tool, and it asked to see if it could look at the workflows that are there. We have that documented and 
+
+Student: all done.
+
+Tyler: Uh, let's see here. If the student doesn't have the, uh, it, it configured, the student can verify with, uh, without an MCP. So it is completely possible to do it. Or you could have the innate NMCP install, which is covered in a CLA skill that's in there that will set that up. So you could either do a standard [00:38:00] manual N eight N check, which Claude could walk you through, or it could explain that there is an N eight NMCP that we recommend that is secure that does everything that we need it to do, and it would walk you through setting up that as well.
+
+And we covered that, uh, in, uh, I believe in the Loom one video. But if anybody has questions on that part, uh, please let me know. So now the, the next part is going to be, do you have your Gemini API key? If yes, share it. I'll test if it works, then you can regenerate a new fresh one for security. If no, um, click here and generate one.
+
+So I'm gonna go ahead and do this just to walk through this process. I'm gonna click on the Google AI studio link that it gave me. I already have an API key, but I'll generate a new one just to show what this looks like. If you've come here and you have not even set up a, a Google AI Studio account, you'll need to do that first.
+
+Uh, it's just like a, a simple, you know, app signup, just like [00:39:00] anything else with Google here. Uh, and then once you get that done, you can navigate to this page for the API Keys and click create API Key. When you do that, um, you might not have a project set up yet if you've never used this tool before. So you could just click, create project, name it, and walk through the process of creating a new project.
+
+It's, it's really self-explanatory and, and not too difficult at all. Uh, and once you have that done, you can just select one. So I'll select this Gemini API project. Here. I'm gonna name it as, uh, let's call this mv, uh, Monday twelve eight twenty five Tests. Just so I remember what it is, I'm gonna hit Create Key.
+
+So I've just named this new API Key, and now that has added it right here. I can click on this copy button. This is the good thing about Google. They make it most places when you generate an API key, it'll flash it up on the screen. You [00:40:00] need to copy it. Once you close out that window, you won't be able to see the key anymore.
+
+For security reasons, Google, Google and a few other places do it a little bit differently where it generates the key and stores it so you can just copy it on the uh, keyboard and you don't have to worry about if you close out the screen you're gonna lose it kind of thing. So. Alright, I'm gonna come back in here.
+
+Alright Claude. Thank you. I have now got my Google API keys set up and I'm providing it below if you want to check to make sure everything works good there and then proceed to walk me through this onboarding please. Thank you. Alright, so now I'm gonna do my three dashes again. I'm gonna paste in my key just so it's, knows that it's something different and hit send.
+
+Alright. Are we still keeping up here, Sarah? Like from the chat is everybody, do I need to slow down and cover anything else? 
+
+Sara: Yeah, I feel like, um, people are putting in that they're like getting the ticks and [00:41:00] stuff like that on the onboarding. So guys, I just wanna, 'cause I know someone asked, can we do a step by step of like part two of the homework and all of that?
+
+Uh, we just wanna make sure that everybody is set up first. So, um, that's why we're like making sure that we're going through it again. 
+
+Tyler: Yeah. And, and we're, we're working towards the part two for sure. Yeah. Yeah. We're just, I'm trying, we're we're trying to get everybody on the same page so that we don't skip ahead to part two.
+
+And folks all done, folks who haven't even made it this far. Like, yo, what, what y'all are way ahead of me. What's, it's not making sense yet. So, um, okay. So security step is important. Your API key works good, but Claude's telling you the same way that we are now, you need to go and delete that. So go to, um, AI Studio API Key, delete the key that we just shared in the chat history.
+
+Generate a new one to actually use in class and save it as a new key and a password manager. So if you have something like one password or [00:42:00] Dashlane or, or a secure note, um, that you use, like, you can paste it into there just so we have it for later. Um, the onboarding is complete here. Again, this mine has like skipped a few things because it's checked and it sees that things have already been done, such as like the setup, sh and some other things.
+
+Uh, so yours might take a little bit longer than what I'm showing right here if you're doing this for the very first time. But once you get to this stage, we're now done with like, part one of the week one homework of like getting all of our, our, um, workshop set up to get all of our work done in here. So first things first, lemme go do this.
+
+Just had a good practice before. Uh, I forget to do this myself. And so everyone can else can see this. This is the new API key that I just made. And so I'm gonna click on this and click delete key, delete. And now my test key that I did for Claude to [00:43:00] be able to go use and, and make sure it's working properly and get us set up part of the way.
+
+Um, we don't have to worry about that being exposed anywhere. And if it is, it won't be a valid key anymore. So it won't work for anyone else. So, all right. We're good with that. Um, all right, great. So now the part two of my homework is that I'm supposed to be going in and working on getting the Echo workflows set up and, and getting that part going.
+
+So can you look in the repo to understand what all else I'm supposed to have done before week one is complete so that I'm prepped and ready for week twos Wednesday class. Thank you. All right, cool. So now we're gonna switch gears and get into like week two part, which is I think where a lot of the people's.
+
+Uh, questions are coming in from and asking Claude, if you use the key word, explore, um, [00:44:00] that signals and we'll have Claude go spin up. And I don't even, I don't know if I said explore right there, but I should have that for, that, that triggers Claude code to spin up sub-agents to then go out and consume a lot more information.
+
+Uh, so like, as you might imagine, as we talked about context window, I think last Wednesday, that's the amount of, of short-term memory that an agent has and it's not infinite, right? And so there's more information in all of these folders and files if we like blew them out, oh, done all of the way then one clog agent by itself could go and read.
+
+So if you tell it to go and explore the repo to fully be up to speed, um, and come back and brief you on it, it will spin up subagents to go and do that in a targeted way. And to go consume as much context as it can, distill that down and bring it back to the main agent. So it's up to speed. So that's a, a really good tip, not only for this [00:45:00] class, but if you ever go do this in the future and, and you get added onto a repo or you go to a a GitHub repository, that's some sort of like a open source project and you need to, you wanna understand it right by telling it to go explore the repository.
+
+Um, that's what you're signaling and if you tell it to explore it thoroughly or, or some like the, the adjective that you use there, um, matters too is like the intensity that it'll go through that process. Alright, so homework part two. 
+
+Sara: Uh, yeah. Oh yes, I was just gonna do that. Um, I wanted to make a clear cut, guys.
+
+Um, so that everyone knows where they're at right now. We just set up everything in part one, like we've done part one now. So we've got everything set up on the onboarding. Now we're going on to part two. Remember part two of the homework. It's the process now that you're set up of how we're going to, um, customize the sugar [00:46:00] agent.
+
+And in order for us to do that, we need to, um, give it our brand voice. So that's where we're gonna head to next. And also give the sugar agent the information. So I just wanted to like, um, make that clear cut over here. And Tyler, everyone's asking for that last prompt before we get going too late. 
+
+Tyler: Yeah.
+
+All right, hold on. Um, okay. I think it was here. I think is right. All right. Copy that. Paste this in. I will also, uh, like when we're done with class today too, I'll take our transcript from class. And surprise, I'll give it to Claude Code and have it extract out all of the parts where I was prompting Claude Code and we'll see if we can't put that into like a document and, and share that, um, back with y'all as well.
+
+Um, and Claude can probably go in and take what I've said and clean it up even more so that it'll, it will work better for you all moving forward. So let's see here. All right, so homework part two. [00:47:00] Uh, what you need for, uh, this, there's five steps to complete. We're gonna need to create a knowledge base in Google AI Studio.
+
+Cool. We're gonna need to upload our documents to the knowledge base. We're gonna create the mega doc for our writing samples, run the Echo workflow to get our brand voice via email and add our brand voice, XML to our sugar agent, is what it's talking about there. So the first thing that we need to do is, and okay, so this is a good learning point right here, is if for some reason, uh, like you're reading through this, and like if I read this first thing right here of like, Hey, create a knowledge base the stacks, go to AI Studio, create a Corpus document collection, save your corpus ID for later.
+
+Uh, no, Claude, no thank you. Like sometimes it will try even with our instructions. Um, it will try and, um. Put work back on the person. And I always go back and remind the agent, and it's what you guys can do as [00:48:00] well, is tell it, Hey, I'm wanting you to go and execute on as much of this work as possible, and you only ping me back for the things that you explicitly need my help in doing.
+
+This is not one of those things. So let me show you how I'm gonna have Claude help me set this step one part up right here. Uh, hey Claude. Uh, so when I'm seeing your steps here, even just like reading step one, I, I stopped right away because, um, my understanding was that from, uh, Tyler and Sarah in their demos and videos is that you would be able to go in and help me set up my stacks and all of the pieces that connect into that from N eight N to be able to have my knowledge base all set up with the library and everything.
+
+So can you go and explore the repo and then come back and, uh, tell me what you can go do, give me the [00:49:00] handover prompt to give to a brand new Claude Code thread that I will copy and paste. And you, uh, in that new thread will set up my stacks and my Gemini, all of it, everything for me, and you only tell me the parts that I explicitly need to go in and take care of on my end.
+
+Thank you. All right, and I'll go ahead and grab this prompt and chuck it in as well. 
+
+Cool. 
+
+So this is what it's going to do. This is a, again, this is a good task. Um, like I'm, I'm diverging a little bit from what you guys might see in the documentation on how to do this as a, as a teachable moment.
+
+Basically, Saara will tell you, when we are in Claude code, we generally have at least two threads open, and it's called clotting, is like the what the cool kids on Twitter or x call it these days. Um, and that basically means that you have [00:50:00] multiple conversations going at the same time with Claude Coat.
+
+And I generally have like five of 'em going at the same time. At least it's ridiculous. One of them is a, like a project manager type thread. That's how I'm treating this main thread that we've been working in right now. And when I get to a step that I need to, to take some sort of an action, um, or go do tasks that I know are, or it's gonna be like a, a decent amount of work, I'll tell.
+
+Claude to basically write up the, the spec or the documentation on how to go do this task with complete context and give me a prompt to give to a new Claude code that I will post or like paste and give it to, and a new thread to go and execute on that on my behalf. And that allows you to have a project management thread that helps you, like go back and forth with and preserve the context window in this chat.
+
+And in the new chats that we spin up, they're very like task [00:51:00] focused and they're the, the doer, the worker bee agents is a good way of thinking of it. And the reason to do it in a completely new thread versus having Claude just spin up its own subagent in this project management thread is because you can, um, if you think of the hierarchy here, we're talking to the main agent right now in Claude Code and it's able to spin up subagents, but those subagents cannot also spin up a third layer of subagents.
+
+They're not able to do that and on, on purpose, right? So we don't get into this infinite loop of Claude making more CLOs and this whole like multiplicity effect or something in there. Um, instead we take the prompt that it gives us if we do this technique and copy this and we take this into a new conversation.
+
+Pace this in, and now this homework, part two knowledge base setup is very task focused on just helping me with this [00:52:00] process right now. And so now I, I have a, a worker bee thread going and when it executes on things, I can come back and update and tell this, um, project management type thread that we have going right here, uh, where, where we are in that process.
+
+And it can help keep us moving forward, if that makes sense. So it's, it's even explaining here, saying what this prompt will do is it checks your NAM workflows, there's nothing to watch. It launches the stacks and explains open the browser to local hosts, 3000. It's gonna create a store via the N eight NAPI paste the API key.
+
+If it's at, when we're asked, it's gonna research and create knowledge base content files, tell it your business name and guides, upload the process. So it's gonna tell you how to go do this stuff. Okay. So if we come back over here to this doer thread and hit yes, we're gonna let this keep working and, and like, while that's working too.
+
+There, there's, there's nothing wrong with just [00:53:00] continuing on. And if we just would've done this all in one thread. There's nothing wrong with that at all. The problem you're gonna run into though is that you're, you might run out of context window in this thread right here, and it will do what's called compacting.
+
+Compacting is a, a, a feature that Anthropic has that goes and looks at your existing conversation history in this thread and tries to redact out parts that are, are not as relevant anymore. So it's trying to basically like clear out as much as it can from the past conversation to free up space in the context window to carry on.
+
+But if you do that too many times, uh, you'll get like degradation in, in its memory in this thread. So that's why I try and, um, like start splitting out tasks. I, I've built that habit out here, so that's why I wanted to call that out for y'all. And it's easier just to kind of show it than to, to talk to it.
+
+Sara: And you'll see it in the thinking traces just on like normal Claude, when you're in there it will say something like, [00:54:00] um, condensing or something so we can continue our conversation. Mm-hmm. So yeah. 
+
+Tyler: Yeah, it's very aware of it. Claude, they built into the new opus model, the 4.5 model to and, and Sonic 4.5 to have context window anxiety.
+
+Uh, so it knows when it's gonna be running close to its limits on that, so that it's thinking about going ahead and, and um, compacting that down so it saves space basically. Um, cool. So like this is gonna take just a second for it to get all of this set up and then it will come back and tell us like what it's doing along the way.
+
+And I've expanded this too, so when you're in cloud code, the thinking traces, like what Sorrow was just saying, if it has a little carrot window right here, if you click on that, it expands it out. So that's, its internal, internal thoughts. And then if you collapse that you can see what it's actually saying back to us in the conversation, which is meant to be user facing, I guess is the best way to put it.[00:55:00] 
+
+Cool. So now it has this set up, and it's even telling us the stacks is now running at local host 3000. Um, I'm just saying, it's not telling me to open it yet, but I'm just going to, uh, while we're waiting on it. So if we click on this, let's go see if it's working properly. Boom. Okay, cool. So we have stacks set up here, and again, because I've done this before on my local computer and that's stored.
+
+In my local systems cache. Uh, it, it is gonna have some details populated in here already, but Claude would walk me through the process of what I need to do. Mainly I'm gonna need to take my brand new Gemini API key. And down here in the settings section, I'm gonna paste that in and it's gonna tell me what, uh, like webhook, URLI need to put in here and how to create my first, uh, store in here as well.
+
+So the store is like section in the library if we wanna use the lingo from last week. All [00:56:00] right. So, yes. So again, Claude is setting up my, uh, innate in workflows and it's gonna look slightly different for mine than it it does for y'all's because it's checking my innate in account and already have the workflows in there.
+
+You all wouldn't have that yet. So it would be pushing the workflows out of this folder that you downloaded into your eight n account and getting all that done. So that's how yours would look slightly different than mine 'cause it's doing it for the first time or, or updating 'em rather if it's doing that.
+
+And then it will come back and tell me what we need to do manually. 
+
+Sara: Um, so it's Can I, can I, sorry. Are you okay with me interrupting you? You always, 
+
+Tyler: you know that. Yeah. Yeah. You're 
+
+Sara: used to it by now. I just wanna, I'm trying to keep the temp checked, like making sure that I'm communicating like, and making sure that everybody's on the same.
+
+Wavelength. So people have been asking like, where are we now? Where are we now? Where does Stacks fit? And stuff like that. And [00:57:00] Echo, so just to clarify, stacks and Echo are part, part two of the week. One homework. Part one was just the onboarding network in part two. And some people have been asking, I thought I was like way down the track with part two homework, but I don't recall the stacks bit.
+
+So do you wanna make sure that people understand all of that? 
+
+Tyler: Yeah. So, okay, so let me back, back up here to where we were. So phase one, or I'll leave it right here. So yes, what the stacks is, is, let me launch it just so we can see it while we talk to it. This is just a, a website basically that we've built to be a front end for Google's Gemini file search.
+
+And Google's Gemini file search is a, a rag retrieval like vector database product that allows us to put our, our information into there and make it accessible to our AI agents. And because Google and, and their infinite wisdom did not build a [00:58:00] front end UI for their own product, well we, we did that. So we basically built out this front end little website right here.
+
+It runs 100% locally on your own computer. So if when I launched local host 3000. And you launch local host 3000. It's not looking at the same stacks is, if that makes sense. Like it, it launches the same website template, but yours runs in isolation on your local computer. And mine does as well on my computer.
+
+And the reason for this is because, uh, we needed an easy way to be able to upload the files into our knowledge base, into our library. And that's what this allows us to do. This allows us to be the front end. Um, and I'll go look at N eight N to kind of complete this thought here for y'all. Um, this allows us to grab something to, uh, lemme just grab anything here.
+
+If I grab this one, open it and upload it. Now you can see it just uploaded this document that I just set, [00:59:00] uh, into this QA API test file. And it even gives me that information in here, like right here is where it is and it tells me that it's active and what kind of file it is. If I wanted to delete that, I can just click delete.
+
+It's gonna tell me, Hey, are you sure you want to, yep, let's delete it. Um, okay. So if you ever get this like an error even during any of this setup, I'm glad I did that right there. Then it's going to, that's something we're gonna take back to Claude and tell it what you were trying to do and give it the error that you got.
+
+Um, because that should have deleted this. And for some reason in this like spin up, like who knows, we're not gonna go into the trouble of like debugging that right now, but. Um, it didn't wanna delete that for some reason. Right? Here we have an an activity log. So if you missed that little popup down here, you can just come in and highlight the activity log and give that to Claude code if you ever need to.
+
+But what this does is it gives us a front end to upload and delete and manage multiple different sections of a [01:00:00] library and what files we want to add into it that Google does not give out of the box. So that's what this is. Now, this is just the front end. It doesn't actually do anything. It's just an interface for what we have running on the back end over here in, in a n That's what the knowledge base management webhooks are doing.
+
+So you have these as well, and as part of this onboarding process that you're walking through with Claude, it will pull these over, set them up, and also connect them to your local stacks set up like that front end. And so when we go in and we make a new section in the library in that front end ui, and we, we create like a, um, Tyler's brand voice section of the library and that's what we want to call it, let's say.
+
+And then I take my, my brand voice analysis that I got from the Echo workflow, I wanna put it into that section of the library. When I make that new, it's called a [01:01:00] store is what the section is. Um, when we click that button on that front end website in the stacks. What happens on the backend is it sends that to this web hook right here, and it goes and does this, um, information for us.
+
+Same thing if we delete a document, it sends it to this web hook. When we, uh, upload a new document like this one right here, it uploads it to Gemini on our behalf. So it, this is kind of like what happens on the backside when you click a button on the front end. Yeah. So hopefully that kind of 
+
+Sara: completes the, 
+
+Tyler: the circle there.
+
+Sara: Still need to click to, uh, de I'm confuse a couple of things on the stacks. People are asking like, what, so I think there they're kind of, uh, thinking like if all of the information they're asking more or less, if all the information's in there, why do we need to use it? We're using the stacks for what Tyler, can you like very clearly say what stacks, how they're gonna be using stacks.
+
+Forget about all the back and [01:02:00] stuff. 
+
+Tyler: Yes. They're gonna be using as a student, the stacks to just add in your personal brand voice folders. You're gonna need to do that, or, or analyses rather. You're gonna need to take each of the, um, let me get back over here. Each of the, uh, hadie be's, uh, information around like their menu and their hours of operation, all this like sample data that we have in the repository.
+
+So it's in the GitHub repository, but it is not in your personal Google. Gemini file store. It's not in the stacks yet, so you're gonna need to grab those files and add them into there. The Hattie Bs information. 
+
+Sara: There you go. So now, sorry, you guys are creating a library. That's what you're right. Now there are books that exist in a portal, but you need to put it into the library and in your version so that when you are running your Echo workflow and all of that kind, sorry.
+
+Your workflow, when you have [01:03:00] the, the customer service department team, they have access to the library. To the library with the books in it. So that's why you're doing it because you are, it, it doesn't like you are actually porting it over, essentially. 
+
+Tyler: That's correct. Yeah. That's what like we are providing you all the, the already the stuff that needs to go into the library minus your personal brand voice.
+
+Like you have to do that on your own in the echo flow. And, but it just is in GitHub, right? Like it's just in that repository. It doesn't mean it's in Google Gemini yet. So that's why we're having you, um, add those books into your personal library that you've set up and created here. 
+
+Sara: Yeah. So that's the difference, guys.
+
+'cause like you're like, wait a minute, it's already in GitHub, but it's not in your Google. Like, it's not in your, the area, the, the library, which your agents will need access to, um, when you build the workflow. Correct. 
+
+Tyler: Yeah. And so, okay. And then if we go back over here, just to connect the dots once more, like why do we [01:04:00] have the, the library like just to put a final like thing on it.
+
+It's because this workflow right here in, in eight end, this is the email answering workflow that we're gonna be doing on starting on Wednesday. This is what we're gonna be putting together that has all of the emails that hit, um, that pass, go and enter into the Hattie B's customer service email pipeline.
+
+It's gonna go to these different agents in here. And if we go look at, just like the Hatch agent as an example, it's connected to a librarian tool. The librarian tool is another agent, like a sub-agent, the librarian that is connected to your library that you have in Google Gemini. So when Hatch gets a, a customer service email, it's like, Hey, do y'all have, um, I don't know, like, is your food Alpha Gal safe?
+
+Or something like that? Uh, like Hatch can go and ping the librarian to go look at your knowledge base. [01:05:00] And pull an answer from your own uploaded data in addition to, we'll actually add in a, a web search feature here too, so we can look both in the library and on the open internet, both to be as, as informed as we can make it to answer this question.
+
+So that's like, that's the why behind all this. Yeah. 
+
+Sara: And so imagine your agent has got a little librarian, like imagine a little lady with how, or a little man, however you wanna imagine, right? That your li your agent's got access to this agent, this librarian, when the agent's like, Hey, librarian, go get me the information I need.
+
+That librarian needs to access a building with the library books, right? So that's what you're doing through the process that we just described before. Otherwise there's no connection, right? So does that make sense guys? Um, 
+
+Tyler: a also like one other thing to call out here and we, we push this [01:06:00] update to be more clear, mainly for Claude, even more than for y'all, uh, when you're doing this process, especially for, this is for like Google Gemini specifically.
+
+They recently, uh, changed the, the language on how they refer to some of this stuff, or they call it like a corpus and like even I notice it in this conversation. And it's, it's hard for us to like completely weed that out of Claude's thinking because it's in, its, it's in the Claude models training data.
+
+And so, uh, it's, even though we're telling it, hey, the, it's no longer called a corpus, Google updated that and they call it like file store file search or something along those lines. Um, like that could, that could cause some language, um, like issues or barriers in here too. And just, I'll, I'll do it here in a minute.
+
+So you'll see what, how we need to do it. But that's where Claude will go in and get up to speed on this to like correct its thinking and then, uh, set [01:07:00] this up the rest of the way. So like, even right here you can see like, uh, por it's trying to launch that to like add information into it. Yeah. Um, okay, so here it's launched the Stacks knowledge base.
+
+We're gonna upload our information into it. Let me come down here. Uh, what you need to do now, manual steps. Configure the stack settings, click on the settings at the bottom of the page, enter in your Gemini API key. So that brand new one that we would've made, which I, I went and did give it your NAN webhook base, URL, which is this one right here.
+
+Like what we, um, it's gonna give it straight to you. Yours will, yours will be different, um, than what you see on my screen because it's for your innate in account. And then click save API key. So it's telling us to go do that in the stacks section. And so that would be, let me relaunch it. So we have to talk to.
+
+It's telling you to click on the settings, right? Here's the API key where you're gonna paste it in, and right here's where the web hook is going to be, where you're gonna [01:08:00] paste that in. All right? And then when we come back over here, so we can come back and tell, uh, this quad thread, Hey, I've got that done.
+
+Let's see what it's saying in phase four. So phase four preview, understanding the knowledge based content structure. I've reviewed the demo knowledge base for Hattie B's hot chicken, and here's what you'll need to create for your business. So again, Claude is trying to, we've written this in a way where it will help you both for the class, but also even after the class.
+
+So it's thinking that we're trying to do this like for something after the class. So I'm gonna correct it right here. Hey Claude. Uh, so I see that, um, you're wanting to go ahead and get into phase four. You're previewing that. I wanted to let you know that I have my web hook and my API key are in the settings in the stacks, and I've saved that.
+
+And so we're good there. Um, we are supposed to be all working and [01:09:00] building towards the Hattie Bees Hot chicken in class is what Tyler and Sarah said. And so I'm not gonna be doing this for my business on this run. I'm gonna be doing this as I'm working for Hattie B's. So I need you to give me all of the different files that I need to upload or point me to 'em that I need to upload.
+
+Into my stacks, please and, and make sure that I cover everything here. Thank you. Okay, let me grab this and paste it in again. Um, 
+
+there we go.
+
+All right, so it recognizes that it's like, it understands we're working on the class example that we're gonna be doing this. We already have the files made and, and provided to y'all. So when it gives me these links, if I click on, click on [01:10:00] them, it will launch the file so I have it. Uh, you can also go find it based on where it's telling you where it is.
+
+So if we click on, uh, it's right here. So it's in the repo, it's demo Hattie B's knowledge based content, and then there's, uh, brand voice, FAQ, locations, menu and policies. And it's gonna tell you, uh, to go grab each of these and, and add them in. So the easiest way to do that is if we go back over into the stacks.
+
+Let me reopen that again right here. I'm just gonna merge that into my Zoom so I can open it easily. So I'll go back over into stacks. I'm gonna click on this section to upload. I'm gonna navigate to where my repository is on my local computer. It's just like a, like going and looking through a folder system.
+
+I'm gonna click on the demo section and underneath that we have Hattie B's. And then we have knowledge base [01:11:00] content right here. And so I can now go and grab these and hit open and there we go. It's saying uploaded, uploaded, FAQ. Um, it's successfully uploading all of these and logging that right here, and now they've shown up.
+
+So now I have all five of the Hattie Bees documents added into my Stacks knowledge base, and it's synced it over to Google. So we're, we're like golden at this point. The only other things that we would need to do is we would need to get our, our brand voice analysis by running the Echo workflow and add that into here as well.
+
+But we, we've gotta run Echo first, so like we're not quite there yet, um, in this walkthrough that we're doing. So I can close this out. I can come back over here to my cloud code thread and tell it, uh, how to be knowledge base ready to upload. Okay, so it's telling me, walking me through exactly how to do [01:12:00] this, to create a new file store in case you haven't done that yet.
+
+Name it as Hattie B's knowledge base and hit create. Upload all five files, which we have now done, and then we're, we're good. So I'm just gonna tell it what I've done now. Alright, Claude, I have found, I, I found all five of those files. Thank you for giving 'em to me and I've successfully added them into my stacks and they're showing that they successfully uploaded, I've even included the activity log below, so you have that as well.
+
+Thank you. Alright, so I'm gonna do three dashes again. Let me pop back over here. I'm literally just going to select the activity log and just paste that in also, just so it has it and we're gonna hit go. Claude has the ability, um, to go and, uh, well if we gave it another API key, go and check to make sure that it did actually create the stores and all that stuff [01:13:00] on our behalf.
+
+Um, if we wanted to validate that 
+
+Student: all done, 
+
+Tyler: but it, it, we know that it's working because we got success on the other end. It wouldn't have done that unless it actively did that. So now it's telling me homework part two is complete. Well it is at least for this part of it. It is. Um, so now what we need to do is copy this.
+
+'cause remember this is the worker bee thread. I'm gonna go back over here to this thread and I'm gonna do three dashes, paste in the message from the other one. Come back up here. All right, Claude. I have now finished in my worker B thread where I was working on homework part two and I was able to get my innate N set up.
+
+The stacks is set up and I have the Hattie Bs knowledge base added into the workflow. I believe I still have some more work [01:14:00] to be done though, to finish all the way with all of my week one homework. So look at this and walk me through what we need to do next, please. Thank you. Alright,
+
+so this will take just a second. Hopefully this is like making more sense now that we're kind of walking through this and y'all are saying 
+
+Sara: we do have a whole bunch of questions, Tyler. Okay. But I just said to the team that we'll get through the demo and then we'll answer because if we keep jumping around, then it will actually cause more confusing and confusing.
+
+Yeah, 
+
+Tyler: yeah, I kind of, I agree with that. So like we'll go full q and a here in a minute and then still y'all like the way that if you still have questions and are blocked. If you add those questions into the Google form, done, we, we see those and have been responding to them even with the screenshots and everything.
+
+Those have been super helpful and we've been answering them and then pushing the [01:15:00] responses back up into GitHub. So if you ask your Claude code, um, and we're gonna be pinging the Mindvalley team to let 'em know, like when we've answered different people's questions so that y'all know that you can go and check as we've responded to 'em.
+
+So if you, even if you still are running into blockers, um, after a class today or, or throughout the rest of this week, continue to use that same Google form and we're watching that and answering those and then back the responses on 'em. 
+
+Sara: Yeah, we, we, uh, yeah, for sure guys, like, we'll still make sure that you get to the finish line before Wednesday, okay?
+
+Mm-hmm. Um, and people are asking for that prompt before you lose it. Oh, 
+
+Tyler: yep. Okay, cool. Let's see. Uh, which one was it? It was this one right here. All right, cool. Alright, so this is the prompt that I chucked back into kind of my onboarding project manager right here. See if it let me do it. Why is it not?
+
+Let me do it. All right. Copy.
+
+What? Why? [01:16:00] 
+
+Okay. I don't know. It's being weird for me. Here. I'm gonna see if I can send it to you in Slack. Are, see if you can get it on there. Um, 
+
+Student: okay. 
+
+Tyler: Yeah. 'cause it's blocking me. It might need to be split up or something into more than one message maybe. Okay. Alright, so here we go. So, homework week one status.
+
+Um, we have the, the Stacks knowledge base store, the Gemini workflows complete. The Echo workflows ready, but I'm gonna tell it again because my E Echo workflows are already in my, um, innate end setup because like we built 'em and shared 'em out. So it's seeing my existing ones, I'm gonna force it to go back and create new, like pull down the new ones outta the student repo and add them as like new workflows.
+
+So we can walk through that as well, like, just like what y'all would be going through, um, just to call out how that's gonna be like slightly different right here. So, what's left? Steps three through five. We need to get the Echo workflows run, uh, set up. We need to [01:17:00] run the Echo workflows and then we need to do, um, to add our analyses into the, um, into the stacks, into the, the knowledge base.
+
+And then we need to take our XML snippet and personalize sugar. So that's what we need to do. Alright. Okay. Uh, Claude, I'm gonna give you a little bit of a, a path diverged here. Uh, you are correct. Uh, we do have, we do need to, um. Set up the echo workflows, run the echo workflows, uh, grab our brand voice analysis, add all those into the, the stack so that they're in the knowledge base and we need to personalize our sugar agent so it sounds more like us with the XML output that we get as well.
+
+Once that's done, so here's what, uh, we need to do since this is, uh, this is actually Tyler doing this. And when you look in my innate in account, I already have echo workflows [01:18:00] set up and running in there. I want you to create, uh, or, or add in to new echo workflows from this student repo that we're in right now and label them so that we know that they are, uh, somehow delineated that it's a test from today that I'm doing live so I can remove them later.
+
+But I'm wanting to walk through this process again as if I'm a student and we have not yet done this process so they can see that illustrated here in class. I don't want you to do that in this thread again, I want you to think through this, spec it out completely, and give me the prompt to give to a new worker.
+
+Be agent please. Thank you. Alright, so let's do that and I'm gonna go ahead and close out this other one. I can do that now since we're done with that previous worker bee. And I've opened a fresh clawed code thread, so I've got that one ready for when this finishes up. I will paste this one in here [01:19:00] as well.
+
+But again, this prompt that I'm adding in right now is, uh, it is, it's very specific to me because, uh, as y'all can see, it's, sorry I'm sending that to you in Slack again 'cause I think it's not Morning. Good. 
+
+Sara: Yeah, I'm having trouble copying and pasting into Slack. I don't, I mean Zoom, the Zoom chat won't let me paste.
+
+Tyler: It might, it might be like you need to split it or something. It might be over the character limit or something. Um, but anyway, this, that last prompt I gave it is slightly different as y'all can, can deduce from that, that, because I already have echo workflows in my N eight in account, uh, when it checks, it's like, oh, cool, it's already done.
+
+Tick that box for you all that, that wouldn't be the case. You wouldn't have had, it wouldn't have added these in yet. So that's why I'm forcing it to kinda go back and redo this for me. Um, like brand new all 
+
+Student: done 
+
+Tyler: so that I can do this demo. Um, okay, so let me highlight all of this and I'm gonna come all the way down here to the very bottom.
+
+So it gave me this whole prompt right here. I'm gonna [01:20:00] copy this and it's even telling me like what this is doing here. So lemme double check it. So it's gonna import the workflow, configure and activate, create the mega doc, submit the form, give the URL and instructions. We're gonna run it, upload it to, to slack, update our sugar and do the cleanup.
+
+So it actually is trying to do a bunch of this. Over here at the same time, and I'm gonna paste this in. Lemme show y'all another little pro tip here, not just for class, but for moving forward. It's this phrase, um, I want you to use subagents as much as possible to protect your context window. And because teamwork makes the dream work, go get 'em slugger.
+
+All right, so I will, um, paste this little nugget in here that y'all can add on any clawed code prompt that you send through. If you just put that at the very end of it, what that forces it to do is it, it causes it. Remember there's [01:21:00] like a main agent in this thread and that main agent can spin up subagents.
+
+So little, little minions and the little minions context windows are all individual of each other and the main one. And, and because that's telling this main agent to act as more of an orchestrator agent and not actually be the one that's taking all the action, but to know what actions need to happen and delegate that to subagents it has it run faster if you do that.
+
+It has it, um, like they're more task specific in the subagent, so they do a better job. Um, it preserves the context windows, so you're not gonna burn through your limit, uh, as fast in here. So that little snippet there. At the end of that, I want you to use subagents as much as possible. Protect your con to protect your context window.
+
+And because teamwork makes the dream work, go get 'em. Slugger. That is a thing called a motion prompting, which is a science research backed technique that if you are, um, [01:22:00] convey a motion like that in your prompt to an AI system, it will increase the quality of the work that they do. It's like been proven over and over again.
+
+It works both for positive and negative reinforcement. Um, I just would advise you to stay on the positive side, which I'm pretty sure everybody in here is gonna do anyway because, uh, these agents tend to, um, not forget a lot and they have human or or humanoid robot bodies here now and in the future. So, uh, be kind to your bots.
+
+Y'all, Alexa might come back and get you something like 
+
+Sara: if you're made to it, I knew it would come after me. 
+
+Tyler: Yeah. 
+
+Sara: Um, but yeah, it's, it is actually a research based technique. It's not just us being, uh, Tyler being so nice to his, uh, bots. Yes. Also that, yeah. 
+
+Tyler: Yeah. So it, it actually works. Like that's some of the interesting thing, like while this is running some of, uh, the biggest breakthroughs in AI research actually come out of.
+
+Uh, [01:23:00] sociodemographic and, and psychological research in humans and how we work and respond to things. And so if, if we were working on a team together, and I'm positively reinforcing you, you're probably gonna do a better job if we're working on a team together and I tell you, get this thing done, we're we're gonna, like, you're out here, like we're firing you, you're probably gonna work a little bit harder too.
+
+Like, again. So it's like this sort of, because it works in humans, it's, it's an emergent behavior that also shows up in AI systems because they're trained on massive amounts of data on, on us, like is where it came from. And so that's why it shows up in the way that they work too, which is, is fascinating.
+
+Um, but that's why I like, um, I used to say, well, I still say it all the time, but I used to say early, just myself talking to bots, I'd tell gigawatt, go get 'em slugger, just to kind of gaslight gigawatt and having to go do a good job. And people kept hearing that and Sorry, I heard it. And so now it's like my catch phrase, like I'll tell my ages all the time, like, go get 'em slugger.
+
+It's just a funny [01:24:00] little thing I do, but yeah. Oh 
+
+Sara: yeah. Everybody, no one knows about gigawatt. Gigawatt is like, everyone's gigawatt is our, uh, is the, is the bot. I was gonna say the man, but the bot. 
+
+Student: Yeah, 
+
+Sara: it's all bots for sure. Gigawatt. Um. 
+
+Tyler: Yeah, gigawatt is like my, my personal AI agent that I've been using for years now, and it specializes, there's multiple versions of it, but like the main one that most people know it for is I have an AI engineering version of it that can help you, like build things, build prompts, build workflows, um, like all this kind of stuff.
+
+It was doing kind of what Claude Code does in some extent before Claude Code was, uh, here with their agent harness and everything. So it's pretty, it's pretty fun.
+
+Uh, let's see here. All right, so, all right. Phase one and two are complete. Here's the status report. So here we go. So the Echo [01:25:00] workflow is, uh, let's see here, December, I think Echo Trigger is inactive needs activation. Echo processor is existing, it's active, already configured with credentials. So again, because it, this is mine and it's looking at my workflows that are already built.
+
+It, it tried to cut a corner here for me and save some processing power of not rebuilding it. I'm gonna tell it to do it anyway because I want it to start completely from scratch. Um, it's giving me the configuration path and what I need to go and do. Cool. Alright. Uh, let's see here. Alright, this is excellent, but I see that you went ahead and went with the existing Echo processor agent and what I wanted to have happen, because this is a full demo.
+
+Live to show the students the experience that they will have is to go and make another addition of the echo processing workflow that you'll find in this student repo. And you can go and add it [01:26:00] into my innate in account and label it. So it's very easy for me to delineate between this new demo version and the existing ones that I already already have in my N eight N account.
+
+Um, so please spin up a subagent to go do that specific thing and then come back and tell me what I need to do next. Please. Thank you. Alright. The other thing I see that it's already trying to like tell me is done, that it's done is it's created a mega doc. Um, the mega doc is the examples of our writing.
+
+Okay? Uh, and I've already done this and it, it's, it obviously is like, I think it's found this in my, on my computer somewhere, uh, which it can do, which is what's wild. Uh, if you ask it to rather, I, I want it to this, to do this for you all. So if you can gather, um, different transcripts or, or emails or social media posts, you gather all that stuff together, [01:27:00] just add it into a folder.
+
+And if you put it into the repository, or even if you just put it on your desktop or your downloads, it really doesn't matter. It's like put it on your computer. Tell Quad Code where it is and tell it, Hey, here's the examples of my writing. I need you to go look at all this and connect it together and make a singular mega doc on for me based on that, that I can then run in the Echo workflow and it will go do that for you.
+
+It'll take him, grab all those files, um, make a new like mega doc file and, and a pen and label everything properly and put it together. So again, it's like a, a new level of AI laziness here as you can have AI even do, like these sorts of things that in the past that actually would've taken a little bit of time to go and find all that stuff and pull it down and, and paste it in.
+
+Um, so that, that's possible. Now, e even if you have online, if you have an online presence, so you have blog posts or, or videos that have transcripts online or social media posts, you can have cla spin up [01:28:00] subagents to go pull down verified examples of your communication style and add those into the mega doc if you want.
+
+Um, and it, it can go out on the internet and do that for you. It's pretty wild. Um, alright, so let's see here. Okay, so it understood, uh, it's getting a fresh demo copy of the Echo Processor workflow. So the big part of the workflow from Echo, it's adding that in now. Um, it's creating that, it's gonna take it just a second.
+
+Um, sub agent couldn't find the create tool but have access to it. So let me create the demo. So it's doing that now. It's always interesting to watch the, or at least I find it fascinating, is like watching this agent think through its process and talk to its sub-agents to go do things and then how it troubleshoots things.
+
+'cause it runs into errors. Just like you and I would like messing around in this tool and it's like, oh crap, I'm trying this thing, I'm trying to upload it, but it's not working. I need to think about a new way to try and do [01:29:00] this. And it will just sit there and, and loop on it until it figures it out or until it, it hits a checkpoint where it comes back to us, the people and reports what's, you know, what's going on and gives us options on how we proceed basically.
+
+Um, but it, it is pretty wild. I have not found very many blockers, like hardly any at all that I could not tell Claude to go back and, and spin up agents and subagents to go research this problem that we're running into, to come up with the, the answer to help us fix and troubleshoot this. Like, whatever it might be.
+
+Um, just as you run into it, these things are, it's, it's wild. Alright, so this thing is still writing its workflow. It's pushing it up now, hopefully. There we go.
+
+All right. So it's created, it, let me collapse the thinking so I can read what it's trying to tell me now. So it processed it successfully, it's added all up there. Let me hit yes.[01:30:00] 
+
+Alright, so now we have fresh workflows for the demo. Good to go. Both of them are inactive and now it's telling me what I need to go and do. And, and again, this is, this is generative ai. So like what my cloud code tells me right here might be slightly different than what it tells y'all when you do the same process.
+
+Uh, so what you need to do in manual steps is it's telling me, go to here, open the demo. So let's just go ahead and do this. So here,
+
+alright, let me move this over. So it's telling me to activate the demo and activate this. So that's easy enough, like just turn 'em both on. So here they are, right here, demo trigger and digger. Demo, um, processor. Uh, so toggle that on. Active. Toggle this onto active. Okay, that's about as easy as it gets. Um, cool.
+
+Phase three, um, mega doc. So I, I talked through how you would [01:31:00] go and do that just a second ago. I'm going to, um, skip over that part for right now, just 'cause I think unless someone needs me to demo it or show that off, I'm happy to do it. But essentially you're just gonna either go gather examples of your own writing or communication of different formats and put them into a folder or just like put 'em into a singular location.
+
+Tell Claude where they are or even just paste them into the chat. If you wanna do that. Also for Claude. Um, and then tell it to turn 'em into a Mega Doc file that you could then add into the Echo workflow. And once you have that, then you're off to the races. So I'm going to do that, but I'm gonna do it with an existing, um, mega doc that Claude's made for me previously, uh, in here.
+
+So let me go to the Echo trigger and I'm gonna click on the echo form right here and production URL copy this [01:32:00] and I'm gonna paste this in and I'm gonna fill this out now. So let's go. I'm just gonna send this to, uh, what am I gonna send this to? Let's just go Tyler at, at ai build lab.com and let's go personal and my name.
+
+Be sure that you have your name here, uh, as it would appear in the transcripts also, just, or at least closely to what it's gonna appear as. And then my writing samples. Let me go grab that really quickly. Um, where'd my finder 
+
+window go? New finder window. Okay. GitHub.
+
+Now I'm trying to remember where this is at. Okay, 
+
+so it is, and the dove, um, I think it was in bridge results. Is it two or three? Two.[01:33:00] 
+
+In fact, why am I searching for this? You all, let's use Claude to help me figure this out. Um, okay. I have a mega doc already created, but it is on my local machine in my mind. Valley dev repo, I believe it's in the bridge, in the results section. Somewhere in there just to try and help narrow the search for you.
+
+And it's, it's like Tyler mega Doc. If you go look for that or have a sub-agent, go look for that and then bring me the, the path to that so that I can go straight and uh, or actually just like bring me the contents of that file so I can copy and paste it into my form and run this echo workflow that we've set up in this thread, please.
+
+Thank you. So again, I am literally just like vaguely describing and telling Claude, Hey, I have this file on my computer. It, here's roughly the place where I think it is. Uh, it is gonna spin up a subagent, [01:34:00] uh, to go and look for it in that, that area of my computer. And when it finds it, it found it that fast, uh, faster than me, and it's gonna bring that back.
+
+So here it is, Tyler's brand voice mega doc that I made before, and it's gonna give this to me in the chat thread here so I can just copy and paste it into my form. So this is what I'm talking about, or Sarah and I are talking about when we're saying like, this is a completely. 
+
+Student: All done. 
+
+Tyler: New way of working y'all, of just how much stuff you can offload the cognitive load of that into a system like this is wild.
+
+Um, okay, so it's right here. Found it. I can just click on this and it'll actually open it. There we go. So copy that. Now, um, here's that form. I'm gonna paste this sucker in here and then I just need to delete a few things off the end that I know it wrote. It's just like notes that we don't need. Alright, cool.
+
+So there's that and I hit submit. Then you'll see this analysis [01:35:00] started. It protects your email and it's saying, Hey, you'll get an email here. It'll take about five to 10 minutes, which it will, that will run. And then, uh, I'll get the email with those brand voice analyses. Once I get those back, that's when I'm gonna come back over here into the stacks and upload that here.
+
+So now it's added into my knowledge base also. And the other thing that you can do is if you come back into this, lemme make sure I'm in the right one. Yep. If I come back into this cloud code thread right here, um, lemme just tell it. Hey, thank you so much for going and grabbing that. I've actually gone ahead and added it into the form and the workflow is running.
+
+Can you go and double check in my n eight end workflows to make sure that everything looks like it's running as it should? Uh, please use a subagent to do this because I see that your context window right here is at 73% already, and I wanna try and protect your context window as much as we can please.
+
+Thank you. [01:36:00] Cool. And once this part is done, we just have one more piece left to do, um, which is good. So we'll be able to do this, uh, here. And we just need to customize sugar once this like double checks and we make sure it's, it's at least running. Um, 
+
+Sara: because I don't wanna, 
+
+Tyler: um, 
+
+Sara: there's a whole bunch of questions related to where we are right now.
+
+Is all right if I ask? 'cause I've been trying to hold back because I didn't, I wanted us to get through this, but it's related to the echo. Mm-hmm. Um, which is something, oh, hang on, there's a bunch of them. So people were asking about like, what goes in your, your mega doc, can we see your mega doc? Honestly, even if it's like a transcript of a poll or like certain social media emails or so, or emails or whatever.
+
+Like whatever you feel represents your voice. Um, and then there is a couple questions around, um, Sarah, I [01:37:00] like, don't you need a Gmail note? This is where we got stuck before. We don't get the email. So that's like a, uh. 
+
+Tyler: So let's, let's come back over here now. So if we go back to our, our demo agent here, which we like my, see this is like, I even checked it right here.
+
+So when I told it to go check, I had errors on my workflows that we just ran right here, which is totally okay. And it's actually good because now we can show how do we have Claude go fix our, um, API keys to our open router keys. Uh, so let's do that. So, but before we do, let's come back over here. So these are, where did it go?
+
+This one demo processor in here, uh, when you, when Claude first sets this up. So this is the one that it's set up brand new and fresh for me. When I am in here, there's gonna be some things you're gonna need to do, like the email node you're, you'll need to go [01:38:00] in and set up. So Claude will either tell you to do that or if it fails and then it's trying to figure out why did it fail.
+
+Eventually it's gonna tell you, Hey, have you set up the Gmail thing yet? We're gonna need to do that. So if I click on this, you could see that there was like a red thing on it, uh, or before there was. And if you've not set up a Gmail credential in here yet, we'll need to do one. So when you click on that Gmail node, you click create a new credential right here.
+
+And it is super easy here on um, NAN to do this. So if I go, let me rename this, I'll call this like uh, tn fi@gmail.com just so it's a different email. I'm gonna sign in and literally just like choose the Gmail account I wanna sign in with. I'm gonna allow, uh, the authorization from N eight N into my that Gmail account.
+
+Then once it's done, there we go. Now it says it's connected. And so I can come in [01:39:00] here and uh, like if I have multiple accounts, so like this one right here is set up to my AI build lab account. This one's now my personal like kind of Gmail account that I've got. So I can have multiple Google credentials in here and I just need to select the one that I want to use.
+
+So once I do that and I back out that red little error message that was over, this is now gone. 'cause that's, it needed us to go in and do our OAuth on that to authorize it, and that's now happened. Um, so there's that. The other part. Let's go back over here to Claude and say, okay, thank you so much. Um, I went ahead because when I went and looked at the workflow myself, I noticed that the Gmail needed to be set up and had my OAuth connected to it.
+
+So I did that already and yeah, I see that we did not get the API keys flipped as well. So I need you to walk [01:40:00] me through exactly. How do we have this running on the exact cloud model that we are running it on? Excuse me, currently, but I want to use Open Router to do that. So can you go and spin up subagents to fix any and everything that needs to be updated in the workflow for that to happen?
+
+And then tell me where I need to go and add in my open router A API key and please make this as easy for me as possible so I, I won't mess this up. All right, here we go. So I'm gonna send that through, let me grab this prompt here again, I'm gonna try and do the extraction on all of this stuff and send it after the fact.
+
+And some of these prompts are gonna be, you know, specific to what I'm troubleshooting in mine that you may or may not encounter on yours. Um, okay, so, got it. Lemme spend up a subagent to update all [01:41:00] the API calls to open router instead of directly to Anthropic. So, yep, we're gonna do that. So it, it is still using the Anthropic clawed model.
+
+It's just gonna be doing it through Open Router to get around the rate limits, like what we talked about. So like where, um, if you're API tier is not high enough yet to go directly through Anthropic. Using Open Router is a really easy way to circumnavigate that issue. Alright.
+
+All right. I'm at a breather. Sorry. Are we, are we caught up? Do you have other questions we can answer while, while we're waiting? Um, 
+
+Sara: we have a ton of questions. 
+
+Tyler: Okay. Yeah. Go for it. Like, ask him while we're waiting for Claude to do its work too, and we'll, we'll knock 'em out as best as we can. 
+
+Sara: Okay. Yeah, guys, 'cause the, the, um, chat moves really quickly and I don't know whether, when we're working, we've answered your question.
+
+So if you have anything that we haven't answered or that you're stuck on, just put it in the q and a. [01:42:00] Um, 'cause Yeah, it's just moving really fast, obviously, so it's hard to, to, uh, ascertain whether your stuff's been resolved or not. Okay. Um, all right. I skipped over stacks since it wasn't working until today, which when it was pushed and manually created a corpus, which I have an ID for, I went back to set up stacks and says, I already have a corpus, so should I skip it?
+
+Which I don't want to do. Um, how do I put stacks in instead of the corpus I created? 
+
+Tyler: Perfect. Yeah. So you can do both, right? So go give all the information or explain it in plain language to Claude and explain to it, Hey, here's the corpus that we've already set up. Here's all the information about it. You can go and look that up and research it further.
+
+I want you to take that and make sure that it's merged into my, um. Stacks set up so that when I'm in there I'll be able to see it. And, and [01:43:00] really like you should anyway, because like when you, when you launch your, uh, let me get over here to it. When you launch your stacks, you'll have this little store selection up here at the top and all this UI is doing is going and looking at the back end of your Google account.
+
+So you, when it loads your different, once you get stacks set up, it should just show up in here, like the previous things that you've sent over to it. And, and if it's not for some reason, again, just tell Claude and Claude will ensure that, um, these two are, are, are married and meshed up correctly. 
+
+Sara: Um, while we're on stacks, Natalie is saying I'm having the same problem.
+
+Where is the URL for the stacks? Um, 
+
+Tyler: yeah, so the URL cloud will give that to you. It should be on, uh, let me grab this. It's just local host 3000. Um, let's, if that port should generally be open on your computer, but if you, if you don't know, [01:44:00] um, ask and I just pasted it into the chat right here. If you don't know, ask Claude and tell it, Hey, I'm trying to go look at my stacks and I'm not seeing it.
+
+Can you make sure that it is properly configured and that I can open it up on a local host to run it please? And it will do that. 
+
+Sara: Okay, Anna's just asked when trying to make Stack Works stacks work, um, and trying to make the new story, it just gave me back this error. Failed N eight N webhook u rl not configured, can't go further from this point.
+
+Claude told me to ask the professors. 
+
+Tyler: Yeah, so most likely what you need to do is on the, the stacks settings right here, there's this N eight M web hook base, URL right here. And this should be updated or replaced with something that Claude gave you. So even take a screenshot of this, like literally, like you can, you know, just this one section or the whole page of this, go back over into Claude code [01:45:00] and, uh, if you hit the forward slash button that brings up the menu, or if you click like right here, it brings up the menu, click attach file, go find that screenshot.
+
+Um, let me go find it here. Here it was. Boom. Go find that screenshot and tell it, give it the error that you were running into. Like, you could do that in the same thread that you're already in. It's telling you that you're the error that you're running into. And just say like, Hey, I'm getting an error when I'm trying to upload or delete something in the stacks and the activity log.
+
+And it keeps telling me that, um, it's not configured to the innate in webhook properly. Here's the screenshot to see what I see. Can you see if this is correct and tell me how to properly fix this and, uh, walk me through this step by step please. So just like something like that. Um, 
+
+Sara: yeah, I think it's like, this is part of the new way of working is like [01:46:00] when we, what we're used to, right?
+
+When we come up against an issue or an error is like we get frozen, but what we're trying to teach you here is to leverage called code to help you work, like work through the, uh, like work through the actual resolving the issue. Yes. So, um, it's a little bit different way to like, just think through things.
+
+I know it's, it's a bit of a shift. 
+
+Tyler: Yeah, for sure. Okay, so right here it's updated everything. Um, and now here's your one simple step. Open your open router to get your API key. Cool. Um, open NA then and go to the echo processor. Click on the configuration node. The first field is the open router, API key.
+
+Replace it with our API key. So what I would need to do now, um, is go over to open router and we'll just like walk through this thing beginning to end. If you had not set up your account over here yet, you would [01:47:00] need to, you know, do that. Put like five or $10 in here, like you really don't need a ton of money.
+
+Um, and then once you've added that money in, then you can go up here to the keys in the upper right hand corner, click on that, click, um, create a key. And I'm just gonna call this MV mastery, um, to what is the date? Eighth 25 test. Um, okay, cool. I'm gonna hit create, I'm gonna copy this. I'm gonna now come over here to the Innate in workflow.
+
+This is important. You need to back out of the workflow. Um, I'm gonna leave without saving too 'cause I don't wanna overwrite something that Claude did. So you need to back out of it and then come back into it. So I'm gonna come back in here and because of that, this gives us another opportunity to go fix this like Gmail thing, which takes like two seconds.
+
+[01:48:00] Uh, it's telling me to navigate. Let's see, what did it say? It said, uh, click on the configuration node near the top left of the canvas. Okay, so let's see here. Configuration node right here. So the left of the canvas. So I'm gonna double click into this and it's telling me, replace with your open router.
+
+API key right here. So I'm literally gonna highlight this whole thing right here and just paste in that thing I had on my, on my clipboard. I'm gonna move back over here. So now that's fixed. And I'm also gonna kill two birds with one stone. I'm gonna click on my Gmail account right here and I'm gonna select the correct one.
+
+And now I'm gonna hit save. Alright, cool. That's a, and it's an important thing to remember and it then it does not auto save. So after you make a change, you need to save it. Uh, so now if we go back over here, um, and like make sure we've done everything. So replace the API key, the node. [01:49:00] Cool. All right. I'm just gonna tell it.
+
+I, I have now, um, done that. Can you double check my work and let me know if I'm good to go test please. Thank you. Alright, so I'm gonna do that
+
+and while that's happening, let me go find my mega doc again 'cause I'll need that open again and copy all of this. Cool.
+
+So this is another thing you can do is like, as you're doing this stuff, if you're un, if you're un sorry about that, if you're unsure about something and you go do your part that Claude asked you to go do all 
+
+Student: done, 
+
+Tyler: have it like QA or validate your own work, um, and it can go do that. Like it just went and checked, uh, the setup here to make sure that I did everything properly and is telling me now, Hey, I'm good to go.
+
+So this is like a really good way to again, like prompt your way out of being stuck and, [01:50:00] uh, to ensure that you do things like the way that Claude's asking you to do it. Um, that's how we do it. The, uh, the joke is that, um, let me pull this up. A lot of a lot of people now joke and say like, Hey, we're basically, uh, like mouse monkeys.
+
+Like we have to just go around and click and type in on the keyboard and like put stuff where we're these AI agents tell us to do, like, we're a bridge in between sometimes what it feels like. It's kind of a, it's kind of a joke. We're the slowest part of the system, it feels like too. Okay, so I'm, I've gone back into the Echo workflow part one.
+
+I've copied my, oh no, I did that. I'm gonna have to go back and get my brand doc and I've copied my production URL. I'm gonna go reopen my, um, my page right here again and the same process. So I'm gonna go, uh, Tyler, I'm just gonna do TN FISCA gmail. Cool. Personal, my name. Uh, writing samples. Maybe go grab those [01:51:00] again.
+
+That was up here. Mega doc. Yeah, so my mega doc I think has like three different, um, transcripts in it, if I'm not mistaken, is just what I grabbed to put in here for right now, which is more than enough. Uh, we'll even talk about this more on Wednesday and Friday. 'cause you could be like, Hey Tyler, sorry.
+
+Like, okay, I went and grabbed my own transcripts and emails, but obviously I don't work for Hattie Bees. How the heck am I gonna sound like I'm working for Hattie Bees that's only get into observational evals. Um, it's like quality check and, and improving. Uh, once we actually run these things, how do they do and how do we get 'em to be more towards our intended goal?
+
+Uh, that's what we're gonna talk about more later this week. So here we have now made the updates. We've switched over to Open Router, we have rerun it and now, uh, let's go have Claude [01:52:00] double check us one more time.
+
+Alright, thank you. I have now updated the workflows and I have rerun them just as you've asked. Can you go double check and make sure they're running this time without error please. Thank you. Alright, so now I'm just having it checked to make sure that the innate inflows. Fired off like they should this time.
+
+Uh, because last time that they had placeholder APIs and it did not work properly. Okay, so it's gonna go look, 'cause it can go look at past and current running executions of N eight N workflows, which is, again, it's awesome how much cloud can do on our behalf once we give it the right tools.
+
+Okay? So the workflow is failing with the provider error from anthropic, APIs gonna be a few things. So it's gonna think through this. So it looks like it did an update, but the open router still [01:53:00] hitting an error. All right, cool. 
+
+Student: All done. I 
+
+Tyler: mean, this is really all, this is stuff that you might see on your end too when you're doing it.
+
+So still hitting an error, latest execution trigger. Um, okay, here, here are three seconds. Open writer credit quota limits dashboard. Oh, I bet I don't have enough. Um, likely causes. Okay, cool.
+
+Um, all right, so here, let me go double check this too. And the way we can go validate this also is if we come back over to our, our workflow, NNAN, and we click on it right up here. In the top middle, there's editor executions and evaluations. If we click on executions, you can see these past runs. So right here it shows me.
+
+It ran and it got all the way up here to when it started doing the AI tasks and that's where it failed. Uh, and that's what Claude just went and saw as well. So if I come back over here, let's see what Claude had to say. So, [01:54:00] open router credits or quota open your open router dashboard, make sure you have money in there.
+
+Basically model access may make sure you have the correct model in there. And rate limiting, well, we don't have rate limiting on there, so let's do this. Um, alright, so I, I have money in my account. That shouldn't be the issue. And for the model, you, you have Haiku 3.5 in there. Maybe we need to switch to the newest version of Haiku.
+
+So we don't have any issues with that, uh, because I should have access to the existing model, but maybe that could be the issue since it's definitely not the credit issue. So spin up subagent since you're, uh, getting low on context window to go suss out and find that out directly from open router on what is the correct model and how to call it.
+
+And then have another subagent go in and fix and update anything that needs to be done in our NAN workflow, please so that we can try this again. Thank you. All right, cool. [01:55:00] So now we have that, we're gonna let the agents go do some more work here. Um. But at least it's like, it's, again, this could be things that y'all run into.
+
+You might have set up your open router account and forget to deposit money in there, or it could be that you need to go, um, like they haven't unlocked your API account yet. 'cause you didn't, you haven't set up your open router account all the way and accepted all their, their, um, onboarding processes or something.
+
+And so Claude knows who this and is helping us like think through and figure this out and then we can have its agents go do things on our behalf again. So. All right y'all, um, Sarah again, like while this is running, I'm trying to use the time in between here to answer questions to get back up to speed.
+
+Oh, you're on mute. 
+
+Sara: Oh, I was saying we do have a whole bunch of questions, but Rohan's had his hand raised 
+
+Tyler: Yeah. For a while. Yeah. 
+
+Sara: Yeah. So I dunno if Rohan wants to join us on stage, I just wanna make sure that your [01:56:00] digital arm is Okay.
+
+Ileana: So Rohan, I've promoted you to panelist if you would like to come on.
+
+Uh, he's declined. Sarah and Tyler, so perhaps Rohan you can just type your question in if you don't want to come on camera. Okay. 
+
+Tyler: Yeah, no, no worries. Yeah, if you just wanna drop that in, we're happy to help. 
+
+Sara: Okay, thanks. 
+
+Tyler: Uh, 
+
+Sara: while that is happening, do you wanna help Panda troubleshoot? Uh, a stacks error. It's just in the tab.
+
+Tyler: Yeah. Let's see here. So, okay, so Stax error, I never get connecting. Stax error message. Failed to fetch, failed to fetch Hattie Be's loading stores. [01:57:00] Um, yeah, I'm thinking So Panda, have you gone ahead and given this message and a screenshot to the cloud code, your cloud code agent yet? Because that's, that would be the next thing I would do because it's either, uh, it's either that you're, you, it could be a couple of different things.
+
+So like, what I would do is this, I would go back over to your, your, um, your stacks set up right here, and I would screenshot the whole page as much as like, you might have to do multiple screenshots here. So screenshot the whole page, screenshot the activity log, open up the settings panel right here and screenshot that.
+
+And then give all of that information, like attach all of those to a message and give it back to Claude code and explain to it. Say, Hey, here's what I'm saying. Here's the error that I'm running into. Can you walk me through and help troubleshoot and figure [01:58:00] out what's going wrong with this and anything that you need to.
+
+Um, you, as in you, Claude Code can fix. Please go do that on my behalf and only tell me the things that I need to go fix from my end. So like some, some version of that, and I think that will, uh, that should work. Uh, okay, so I see you have, yeah, so this, this NAN right here, this is gonna be different for everyone.
+
+Uh, like I, even personally, I have a local host thing running right here. So if I take that off, and that is for me right now because, uh, we're really gonna get in the weeds on this one for a second, but it, it should read something like whatever the name of my Cloud eight N account is and, um, um, like what that web hook base URL looks like and paste that in.
+
+But because our personal N eight N cloud account that we bought and stood up for this [01:59:00] class, the web hooks are not firing properly. That's what we've been working with N eight N support team to try and get that figured out because it has to do with the server that they're, they have our, our cloud account on.
+
+It's not functioning properly. And because we're trying to troubleshoot this as best as we can, I did a workaround that is a little bit more, um, like technical to make this thing function, to be able to show off in demos. So that's why this looks different for me than what it would look like for you all, but.
+
+Let's even, like, just as an example, let me come back over here and show it.
+
+Let me grab this 
+
+error message and paste it in here. We'll pretend like this is mine. Um,
+
+all right, so this is a, uh, I'm doing this as a demo live in class to show how we would [02:00:00] troubleshoot a problem like this. But I still want you to walk me through, based on the screenshot and what you're seeing here, pretend like I'm a student setting this up and I'm running into this error, and give me what would be the correct fix moving forward.
+
+I, I think it might be the innate end workflow or webhook, because that's what that looks like. The error message is saying. Alright, so let's do that, send this through and let me make sure this, our other quads are still working over here in the background.
+
+Yeah. And so that's what it was like, it, it basically, it had, when it set up the calls to, um, open router, it looks like it had the wrong uh, ap, like the wrong address of what the model is referred to as, and it's gone in and fixed that. So it went and researched, figured out what was up. And then pointed it to the correct location.
+
+Okay? So what this error tells us, so, got it. This is a classic fail to fetch [02:01:00] error all done when the front end can't reach your NAN web hook. Let me walk you through troubleshooting this step by step. What this error tells us is the API key updated the Gemini API key saved locally, which is good. It's loading stores that tried to call the N eight N web hook.
+
+No stores were found, um, creating a store tried to do via the web hook, but it's unreachable. The app saves your API key locally and then tried to talk to N eight N to create and load stores, but it's not working. So the step-by-step fix is going to be to go to your N eight N instance, find the, the knowledge base manager workflow or whichever flow handles stacks.
+
+Look for it and toggle it on to make sure all of them are on. That's a big deal. It that might be something else. Panda is to make sure you have 'em all the web hooks turned on. Um, and then if, and then we're gonna verify that the web hook URL looks something like this. So let me grab this and we'll go back over to the stacks.
+
+So that's where we would come here [02:02:00] and paste this in. And it's gonna be, hopefully, let me zoom in so y'all can see this too. It looks something like this where it's gonna be H-T-T-P-S, whatever the name of your innate in instance is called. And then the rest of this right here, it's gonna look something like this for you.
+
+Um, and Claude can tell you exactly what yours is. It's just not giving it for mine. 'cause I'm doing this as an example. Um, and then if you try that, that should help, uh, get you down the right path to get this working properly. And if it's still not working, panda, like, let me know and we will, we'll keep, keep trouble or troubleshooting this thing till we get it fixed.
+
+Um, okay, cool. So now our other Claude has come back that we had working, updating this stuff. It's now completed this and, uh, it's been fixed. So the issue was the dots versus hyphens. Open router uses dots, not hyphens. The workflow is ready for testing. So it was a simple syntax error like that when it set this [02:03:00] up that it's now fixed and it should work as we hope.
+
+Uh, so if we go back to, 
+
+Sara: you guys are learning to squash bugs using like, yeah. Um, and hone 
+
+Tyler: honestly, like it's, this is like part of, uh, what it's like in, in ai, like just in general. Not even just for this workflow, but just like period. So like getting good at this and getting comfortable with this and this process of knowing that we, you, you might not have all the answers.
+
+Things probably don't work on the first try there. There's not a lot of, um. It's not always easy to find answers for this stuff. If you're just like doing this, like googling like an old old way of doing it. Um, like getting good at having the model research and help you like debug and work through this stuff is a huge skillset to to and mindset shift.
+
+Um, okay, cool. So let's come in here. We're gonna do this one more time. Echo trigger. Let's see if we can get this thing to fire off [02:04:00] successfully for us. Copy this, paste this in. All right, one more time. Here we go. Come on. Clog code. No whammies. All right, let's come back over here. I need to grab my mega doc again.
+
+Uh, here it is. Mega dot right here. Boom. Alright, cool. Copy, paste this in
+
+and let, make sure I'm deleting out just the right spot here at the bottom on mine.
+
+Right to there. Cool. All right. Submit it. All right. Um, let's come back over here.
+
+All right, Claude, no whammies, can you go check, I've just triggered this again to run it, [02:05:00] um, after you've made all those updates. So let's see if we get it to run this time with no errors, please. Thank you. So we can have Claude check this and then if, just to show y'all again so we can go check it ourselves manually.
+
+If we go back over here to executions, this is the first flow we can see that it's running. And then if we come back over here to the second workflow, we can see that it's running. Come on baby. We won't be able to see it until it finishes. But the fact that it hasn't like aired out at this stage is a good sign.
+
+Um, and that's what it's probably gonna come back and tell us as well. So, 'cause it takes a minute for this whole workflow to run 'cause it's pretty big and there's multiple calls in it. Um, so the fact that it's been running for 50 something seconds is a good, a very good sign that it's, it's doing what it's supposed to do.
+
+Alright, so it's checking here. [02:06:00] Cool.
+
+Yeah, so it's still checking, but it's only finding older executions, so I'm gonna tell it differently. So it's been running for a minute. 20 seconds. All right, Claude, uh, you don't have to keep looking right now because I can tell, I, I opened it up manually and I'm looking at the executions and in the actual flow that does the brand voice analyses.
+
+It's been running for over a minute now, so we must have done something right and I think we're working, so we're just gonna need to wait until the email shows up. Thank you. Cool. That way, I'm just like interrupting what Claude was going to to look at here. So, uh, it quits. Trying to go check on its own here.
+
+Cool. All right. And so at this stage, like it's gonna take a second for this to run. Um, once it's done, it will, it will have emailed me that all the outputs from it. That's when I would take that back over to the stacks, [02:07:00] um, to add my brand voice analysis that I get in that email, into that knowledge base.
+
+And then we take the brand voice snippet, come over here to Claude and tell it, Hey, here's my personalized brand voice XMLI need you to help me update my sugar agent so it sounds more like me. And then boom, we have ticked all of the boxes of week one homework. Um, I'm gonna stop my screen share now. We can go into like more on, 
+
+Sara: yeah, there's someone who, someone who's, uh, additional hosts put their hand up if they wanna come on stage.
+
+And guys, if we haven't answered any of your questions, we'll get, uh, the q and a, uh, download from Eliana. We'll get the chat download from Eliana, and if there's like unanswered questions, we'll send that out. So, uh, we'll make sure, 'cause there's been a ton of questions. Yeah. But we just wanted to make sure that everybody is through part one and part two now, like, you know, we've been able to troubleshoot enough so that we can move on to the, the fun bit.
+
+[02:08:00] Really? 
+
+Tyler: Yeah. Customizing actually getting this thing to run. And then look at like, the system that y'all have set up beginning to end. Like it's, um, it's a lot of moving parts here, so y'all are, give yourself some grace. 'cause this is not, um, it is not e even in this way, like it's still not an easy thing to do, like having the, the patience and the, the persistence to like keep trucking on to this stuff.
+
+So, um, yeah, y'all are, y'all are doing awesome for sticking through with this. 
+
+Sara: Um, oh, I think we lost someone who wanted to come on stage. So, um, yeah, 
+
+Ileana: honestly, Rohan and Jay Holdman. I see you have your hands up, but you declined to come on. So I'm gonna lower your hand, but if you do have a question, put it in the q and a and I see Barbara's hand going up.
+
+Would you like to promote her to Yeah, I think 
+
+Sara: so. 
+
+Ileana: If she's really stuck, we definitely wanna help out. Thank you. So Barbara, I'm promoting you and Rohan and Holman. I'll lower your hand now. [02:09:00] 
+
+Tyler: Sweet Lee, I just saw your comment and that's hilarious. Or Leah, I'm not sure if I'm pronouncing your name incorrectly, but, uh, they said that when Claude says that this was hard, when that was confirmation, I mean it's true.
+
+Claude is probably one of the most empathetic AI you're gonna run into. So it's, it, it gets it. 
+
+Student: Hi. Hey Barbara. Frustrated. Oh, that's alright. I have literally spent hours on the homework and I thought, and every time Claude told me, there really is nothing you have to do anymore. You're, you're great. You're doing great.
+
+And when I look at my workflows, they don't look like yours. You have that sort of huge thing in there. I don't have it. Okay. And, um, then I think Okay. Um, in the, the echo, the echo form I've really worked on, um, like I have a restaurant and so it was so, I'm so happy that we're doing a restaurant example.
+
+Yeah. And so, so I've put [02:10:00] literally emails, all the complaint files that I've made, um, all the ideas that I have about hospitality, um, all the things that I've written about hospitality and put it all, and it's like a super clear voice, uh, facts. I ask my team what are the 10 biggest questions? I mean, I mean, I've done it all and I'm stuck.
+
+Tyler: Okay. Well, at, at what part is the workflow not running at all right now? Or what? 
+
+Student: So, so the first, the first thing is if I open the echo form mm-hmm. And then I have to put in the o uh, atten, uh, intensification. So I put in my email. And then, um, and then in the form pass, Claude told me I should put in my palapa echo form and not use the normal pass.
+
+Otherwise, it's not gonna work. 
+
+Tyler: Okay. Do you, are you okay with screen sharing? So like we can see [02:11:00] what you're looking at? If not, that's also, yeah, 
+
+Student: you tell me how to do it. 
+
+Tyler: Oh yeah. Um, yeah, I don't know if IA needs to unlock anything or if she just needs to click share. 
+
+Ileana: You just need to click share, Barbara.
+
+So at the bottom of your zoom screen, there's a green square in the, right In the middle, and it's labeled share. Mm.
+
+Okay. 
+
+Student: Say that again. Repeat that again. The, so 
+
+Ileana: at the bottom of your zoom screen, there should be a little green, uh, box with a arrow. Oh yeah. I didn't have my window window 
+
+Student: open enough. 
+
+Ileana: Okay. Yeah. And so there you can share your entire screen or just the window that you'd like to us to see, is it working?
+
+Student: Share. Perfect. There you go. Alright. There we 
+
+Tyler: go. Sweet. Thank you. 
+
+Student: Cool. 
+
+Okay, 
+
+Tyler: cool. So, so on here. Can you, um, so now, now, so [02:12:00] explain to me, 
+
+Student: explain 
+
+Tyler: to me like what you're saying on this now. Yeah. 
+
+Student: Okay. So by the cent, uh, authentication, I put in my, my email that I'm using. Correct. 
+
+Tyler: Um, yeah, but you're gonna, do you do it on the, the front end though?
+
+So not, not here. Um, okay. 
+
+Student: So, 
+
+Tyler: so, so you're gonna click on, could I just 
+
+Student: go first back to the canvas? Can you see that Cool? 
+
+Tyler: Mm-hmm. 
+
+Student: All right. And so then here's the echo form where my, 
+
+Tyler: okay. Uh, can you, oh, you're on email classification right there. So let's, let's go to, um, interesting. So click back out, click on, um, the home button in, in Ian really quickly for me on a left hand side.
+
+Thank you. 
+
+Student: Yep. 
+
+Tyler: Okay. And then, yeah, interesting. So pulled it all in. You have it somehow all set up in like [02:13:00] one, in the email classification deal. Okay. So can you do me one other favor? Can you pull open clawed code for me? 
+
+Student: Mm. 
+
+Tyler: Uh, in, in, uh, vs code. Sorry. There you go. And then just open a completely fresh clouded code chat right there.
+
+So the orange icon, kind of like in the top middle. There you go. And then in that text box, can you just ask it to check the check GitHub for the latest check GitHub for the latest student repo and see if I'm working on the latest version. 
+
+Student: I think we recorded. Yeah, we recorded here. Sweet. 
+
+Tyler: I love it. We do that a lot and it never ceases to blow my mind of that crazy, 
+
+Student: what we just 
+
+Tyler: did.
+
+We talked digitally through Zoom. You recorded it, transcribed it using AI and then sent it to another AI agent. It just, yeah. [02:14:00] Living 
+
+Sara: in the future already, Barbara. 
+
+Tyler: Yeah. 
+
+Sara: Yeah. Well, there we go. One step 
+
+Student: forward, three step backwards. As you got the 
+
+moment, 
+
+Sara: it's okay. It's kind of like that, it's like a process.
+
+You get used, you get used to. 
+
+Tyler: Yeah. I love it. So what, what app are you using right there outta curiosity for the, for the transcription part? 
+
+Student: Uh, well, I'm not a technical person. I have no clue what you're asking me. 
+
+Tyler: Oh, okay. All right. Sorry. Like when you, when you held down a hot button to like record and, and convert the 
+
+Student: Oh, whisper flow.
+
+Tyler: Oh, you using whisper flow? Sweet. Yeah, 
+
+Student: that's right. Yeah, yeah, yeah. 
+
+Tyler: Okay, cool. Well, 
+
+Student: that one of you guys recommended it and I actually, my 87-year-old mom is using it now, so that's really good. 
+
+Tyler: Nice. 
+
+Yeah. 
+
+That's awesome. That's 
+
+Student: so awesome. 
+
+Tyler: Uh, okay, so if you on on Claude, it responded back here. So scroll up just a little bit.
+
+Let's see what it said at the very top of his message. Um, all right. Sorry. Down just a little bit till it [02:15:00] starts actually like typing back to us here. Right here. Okay. So good news. All right. Um, 'cause the latest available. December fixes echo workflow. Okay, cool. So scroll down a little bit. Since you're on your own custom branch, here's what we're gonna do.
+
+Stay on your branch or update the local main branch. Okay. So I would tell it that you want to, you need, um, all of the updates pulled down and merged into your local branch of this, like your local version. And you also don't wanna lose any of the work that you've already gotten done up to this point and explain that you're trying to, um, specifically run the Echo workflow, which is now set up in two different stages in there, which is like what we just walked through a minute ago.
+
+And it will go through and help you get that set up quickly and get it rolling. [02:16:00] And I think once you do that, you'll be unblocked. So since you've already done like all the really, uh, extensive work of gathering all the things for the mega doc, like once Claude finishes setting up this new update that, that you just pulled down right here, um, it, you should be able to work.
+
+Like it should get you cleared, 
+
+Student: right? So let me got it there. Um, so I did, I did try to do that and I put it in the, in the questions. I tried to merge it. Um, let me see if I can find that back. Um. On this in the, in the GitHub. Mm-hmm. I tried to merge it, um, following CLOs, CLOs, um, instructions. Mm-hmm. And then it said that at the bottom, I should be able to see, like, merge, and I couldn't, it's not there.
+
+And then it told me, well, right. To, um, just make a debug [02:17:00] comment here. Mm-hmm. And then I said what I'd done and that I wanted to update the sugar agent prompt and this content only and ready to merge. If you're happy with the wording, could someone on the HD vibes team review and merge? Thank you. 
+
+Tyler: Perfect.
+
+Yes. Yeah. So, like, Claude had you do this, it, it should be able to do all that on your behalf. It 
+
+Student: does say no conflicts was the base branch, but then there's no way there's no button to merge. 
+
+Tyler: Yeah. 'cause I think it's trying to, like in this particular one, it was trying to get where you would merge back up to the, the says that 
+
+Student: maybe it could do it, allow this bash comment.
+
+Mm-hmm. 
+
+So if I go back to, uh, Claude, let me see what it says. 
+
+Tyler: Yeah. 'cause you want to make sure that you're explicit. Oh, it says merge 
+
+Student: successful. 
+
+Tyler: Yeah. You want to make sure that you're explicit in saying that you wanted to do it on your local version of the repo. If you said merge, Claude might have gotten [02:18:00] confused and was thinking that.
+
+You wanted to take the work that you had done on your local and push it back up to the cloud, to the public version of the repo. And that's like where it, it could have gotten, um, confused in the past conversation potentially. Um, alright, 
+
+Student: so now it says that it will update, um, upload both versions to NAN and eight N.
+
+Tyler: Yep. So, so now what you would want to do is, um, not, not everything that we did in the demo today, 'cause I'm assuming that you already have a lot of that done by the look of it. 
+
+Student: I, I did everything that was on the homework. I was like, ready to finally follow and understand the lesson instead of literally tears down my eyes thinking I'm just too dumb to do this shit.
+
+Tyler: I'm sorry. You're definitely not, I I'm so sorry that you hit that, um, blocker. Like, yeah, I get it. We're trying to make this stuff as like, it as like, I know you 
+
+Student: guys are great. It's, it's, [02:19:00] it's not by you. It's just really that every time I think, oh, I get that and it makes sense. And then just the technical part I get.
+
+Tyler: Hang on. Yeah. 
+
+Yeah. 
+
+It, I like, I, I feel you. Like I, honestly, I, I've, I've had plenty of those days myself when I'm trying to build and do something and it just feels like I'm banging my head against the wall. Um, like this, this right here should solve the problem for us. So if you, so either 
+
+Student: in, in effect now it, it just said quick checklist, so I should import these, uh, workflows to N eight and, and I'll do that together with Claude.
+
+Mm-hmm. Um, but I, I have one question because the one workflow that you have that I think stems from Echo, and then it has this whole string of agents. 
+
+Mm-hmm. 
+
+Do we also have that? Should we A, be able to see it because, um, you, 
+
+Tyler: you do that, that's, that's what you just pulled down right here. So when it went and checked into this work right here.
+
+Okay. So I just 
+
+Student: have to finish this step and [02:20:00] then I should be having that. Okay. Well, that's 
+
+Tyler: correct. Yeah. So now if you, and like have Claude do the work for you, have it, yeah, 
+
+Student: exactly. 
+
+Tyler: Um, spin up the sub, I'll just step by 
+
+Student: step 
+
+Tyler: Yep. And have it, ship it over there. And again, it might, you might need to, to have it troubleshoot some things.
+
+Like, remember I had to have mine switched over to open Router, like when I did it here, so that it's not trying to call anthropic. You're gonna need to have your, your Gmail. Like go in there and click on that and add in your authorization on that step. Mm-hmm. Um, once it gets it into N eight N. Then you can go and run it.
+
+And even like what I was doing in the demo, like tell Claude, hey, I just ran it. Can you go check and see if it's running correctly or not? Um, and it will help you like along the way. It's just, yeah, it just takes some persistence on this, so. All right. Pause you. The 
+
+Student: persistence is key. Thank you, Tyler.
+
+Thank you Sarah. You guys are doing great. 
+
+Tyler: Thank you. Thank you. Well, 
+
+Student: I hope we'll get there. I can't wait 
+
+Tyler: to hear on Wednesday once we get past [02:21:00] this and get it crushed. And if you like you or, or anyone else, um, like is, like what we said are continuing to hit blockers, please use that Google form URL because we're watching that.
+
+And that's a way for us to keep up and, and help troubleshoot this stuff with y'all asynchronously in on an individualized basis because you could run into like x number of different, um, problems and there's no reason for y'all to struggle alone. Like just use that form and, and hit us up. 
+
+Sara: Okay. Yeah, for sure.
+
+'cause I also know like that there are some questions in the chat in the q and a, we haven't got to yet. There's just been a lot. Um, and we will make sure that we, we download those files and, uh, we'll get them from Eliana and make sure that your questions are answered, for sure. 
+
+Tyler: Mm-hmm. 
+
+Sara: Thank you guys.
+
+Appreciate 
+
+Student: it. 
+
+Tyler: Thank you, Barbara. 
+
+Student: Thank you, Barbara.
+
+Tyler: All right, y'all. Um. I know Sarah, I actually have to bounce here in Yeah, like [02:22:00] four minutes. 'cause I know I have a hard stop, but 
+
+Sara: yeah. Um, 
+
+Tyler: do we wanna kind of like wind down for the day or do you wanna hang out for a second? Or what do we wanna do? 
+
+Sara: Yeah, I think Eliana, if you can pass us through the, um, the q and a and the chat and obviously the transcript or whatever that, that way we'll send through what questions have not been answered as well as, like Tyler said, if you guys use that Google form.
+
+We'll, we'll keep rolling in the, uh, the answers for you. 
+
+Tyler: Yeah. 
+
+Student: Love 
+
+Tyler: it. Um, thank you all so much for, for your patience and, and your grit to keep on with this. Like it's, this is not easy stuff that you're doing, so don't, don't trick yourself into thinking that it is, we are trying to make it as easy and, and as accessible as possible, but I can't wait to see the, the, you're gonna be walking around with like confidence and swagger of like, I can build whatever once I get past this for this week.
+
+Um, and you know these processes too, so like zoom out for a minute and like you're learning how to put this stuff together for like the specific [02:23:00] workflow, but the process and how we're going out and doing some of this stuff. You're gonna be able to learn how to do that for all sorts of different things after uh, Friday.
+
+Alright, 
+
+Ileana: thank you so much to both of you. And uh, again, on the last lesson, there's a quick guide for the part two of the homework, so go check that out as well. That's on lesson 33. 
+
+Tyler: Sweet. 
+
+Ileana: Yeah, and I'll make sure to get those resources to you guys as soon as the transcript, uh, finishes, processing. I'll get everything in a bundle to you with the questions as well.
+
+And for everybody here, I'm just going to share the form one more time, the question form so you can continue to ask questions to Sarah and Tyler there as well. 
+
+Sara: Yeah, Glen, you said it right. Hang in there. Change is never easy. 
+
+Student: It's not Yeah. But once 
+
+Sara: you push through it, you guys are gonna be amazed at how far you've come in the last few days, honestly.
+
+So, uh, persevere. 
+
+Tyler: Yeah. [02:24:00] All right. So, we'll, we'll, we'll talk soon and we'll see you again. Uh, same time, same place on Wednesday. 
+
+Ileana: All right. See everybody on Wednesday. I have no more announcements, so good luck with everything and we'll see you guys on Wednesday. Thank you again, Sarah. Tyler. Thank you. Thank y'all.
+
+Tyler: All right. See you soon. 
+
+Ileana: Bye everyone. 
+
+Bye.
+
