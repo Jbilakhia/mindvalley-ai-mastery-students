@@ -1,0 +1,10 @@
+
+# Environment files with secrets
+.env
+.env.*
+*.env
+
+# Credentials
+credentials.json
+*-credentials.json
+service-account*.json
