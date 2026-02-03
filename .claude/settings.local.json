@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh:*)",
+      "Bash(git --version:*)",
+      "Bash(bash setup.sh:*)",
+      "Bash(test:*)",
+      "Bash(git config:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(node:*)",
+      "Bash(npm --version:*)",
+      "Bash(npm install:*)",
+      "mcp__claude_ai_n8n__search_workflows",
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" status)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" diff --stat)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" log --oneline -5)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" add .claude/settings.local.json docs/faq-draft.md)"
+    ]
+  }
+}
