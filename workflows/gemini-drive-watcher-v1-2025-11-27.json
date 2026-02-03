@@ -13,7 +13,7 @@
         "triggerOn": "specificFolder",
         "folderToWatch": {
           "__rl": true,
-          "value": "={{ $json.watch_folder_id }}",
+          "value": "YOUR_KB_UPLOADS_FOLDER_ID",
           "mode": "id"
         },
         "event": "fileCreated",
@@ -24,7 +24,7 @@
       "type": "n8n-nodes-base.googleDriveTrigger",
       "typeVersion": 1,
       "position": [240, 300],
-      "notes": "Polls your KB-Uploads folder every 60 seconds for new files.",
+      "notes": "⚠️ CONFIGURE THIS NODE FIRST!\n\nClick this node and set 'Folder to Watch' to your Google Drive folder ID.\n\nTo find your folder ID:\n1. Open Google Drive\n2. Navigate to your KB-Uploads folder\n3. Look at the URL: drive.google.com/drive/folders/XXXXX\n4. Copy the XXXXX part\n\nPolls every 60 seconds for new files.",
       "credentials": {
         "googleDriveOAuth2Api": {
           "id": "google-drive-cred",
@@ -57,12 +57,6 @@
               "type": "string"
             },
             {
-              "id": "watch-folder",
-              "name": "watch_folder_id",
-              "value": "YOUR_KB_UPLOADS_FOLDER_ID",
-              "type": "string"
-            },
-            {
               "id": "processed-folder",
               "name": "processed_folder_id",
               "value": "YOUR_PROCESSED_FOLDER_ID",
@@ -88,7 +82,7 @@
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
       "position": [460, 300],
-      "notes": "EDIT THIS NODE:\n\n1. api_key: Your Gemini API key\n2. store_id: Your File Search Store ID\n3. sheet_id: Your Dashboard Google Sheet ID\n4. watch_folder_id: KB-Uploads folder ID\n5. processed_folder_id: Processed subfolder ID\n6. failed_folder_id: Failed subfolder ID\n7. ingestion_webhook_url: URL from your Ingestion Engine v2 workflow"
+      "notes": "EDIT THIS NODE:\n\n1. api_key: Your Gemini API key\n2. store_id: Your File Search Store ID\n3. sheet_id: Your Dashboard Google Sheet ID\n4. processed_folder_id: Processed subfolder ID\n5. failed_folder_id: Failed subfolder ID\n6. ingestion_webhook_url: URL from your Ingestion Engine v2 workflow\n\n⚠️ NOTE: KB-Uploads folder ID is configured in the trigger node (Watch KB-Uploads Folder)"
     },
     {
       "parameters": {

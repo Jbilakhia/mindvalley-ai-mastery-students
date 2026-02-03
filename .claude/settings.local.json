@@ -20,7 +20,16 @@
       "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" log --oneline -5)",
       "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" add .claude/settings.local.json docs/faq-draft.md)",
       "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" commit -m \"$\\(cat <<''EOF''\nfeat: Complete onboarding setup with N8N MCP integration\n\n- Add Claude Code local settings with bash and MCP permissions\n- Add FAQ draft from bridge test \\(Step 5 verification\\)\n- Configure N8N MCP server integration for workflow management\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" add .claude/settings.local.json)"
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" add .claude/settings.local.json)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" commit -m \"$\\(cat <<''EOF''\nchore: Update Claude Code permissions for session commands\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" push)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" remote -v)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" remote add myfork https://github.com/Jbilakhia/mindvalley-ai-mastery-students.git)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" push myfork main)",
+      "Bash(powershell -Command \"$json = Get-Content ''c:/Users/JAY BILAKHIA/GitHub/mindvalley-ai-mastery-students/workflows/00-test-connection.json'' | ConvertFrom-Json; $clean = @{name=$json.name; nodes=$json.nodes; connections=$json.connections; settings=$json.settings}; $body = $clean | ConvertTo-Json -Depth 20 -Compress; Invoke-RestMethod -Uri ''https://jbilakhia.app.n8n.cloud/api/v1/workflows'' -Method Post -Headers @{''X-N8N-API-KEY''=''eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZmFkMmVkZi02NTdmLTRlYjAtOGM0Yy04NTI4OGUzYmUxMjMiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwianRpIjoiOTExMTdlZTAtZWNhNi00YzYzLWIxZTYtMjAwYzc5NjczMmY4IiwiaWF0IjoxNzcwMTA2MDAxLCJleHAiOjE3NzI2NTgwMDB9.HOZmY8ZMeleBlVXzSf7KWfCFC97SWd-kaXOFqejx3Hk''; ''Content-Type''=''application/json''} -Body $body\")",
+      "Bash(del \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\\\\temp-upload-workflows.js\")",
+      "mcp__claude_ai_n8n__get_workflow_details",
+      "Bash(cd:*)"
     ]
   }
 }
