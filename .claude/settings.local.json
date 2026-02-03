@@ -18,7 +18,9 @@
       "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" status)",
       "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" diff --stat)",
       "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" log --oneline -5)",
-      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" add .claude/settings.local.json docs/faq-draft.md)"
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" add .claude/settings.local.json docs/faq-draft.md)",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" commit -m \"$\\(cat <<''EOF''\nfeat: Complete onboarding setup with N8N MCP integration\n\n- Add Claude Code local settings with bash and MCP permissions\n- Add FAQ draft from bridge test \\(Step 5 verification\\)\n- Configure N8N MCP server integration for workflow management\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"c:\\\\Users\\\\JAY BILAKHIA\\\\GitHub\\\\mindvalley-ai-mastery-students\" add .claude/settings.local.json)"
     ]
   }
 }
